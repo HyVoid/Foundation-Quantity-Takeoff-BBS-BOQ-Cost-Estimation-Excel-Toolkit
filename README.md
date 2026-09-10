@@ -9,26 +9,22 @@ An integrated **foundation quantity takeoff (QTO) software alternative** and **c
 
 > **Test the free web-based foundation takeoff calculator.** If you require a secure, offline **construction estimation Excel template** for permanent project records, financial audit trails, and repeatable commercial bidding, you can purchase the premium version backed by a 30-day, no-questions-asked money-back guarantee.
 >
-> [🌐 Open Free Web-Based Foundation QTO Calculator](#)
+> [🌐 Open Free Web-Based Foundation QTO Calculator](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
 >
->  [📥 Download Offline BOQ & BBS Excel Template for Repeated Use](https://alexhasgreatestuff.gumroad.com/l/ncaol)
+>  [📥 Download Offline BOQ & BBS Excel Template for Repeated Use](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
 
 No signup. No installation. Free to use in the browser. The downloadable Excel version is specifically designed for estimators needing an offline working file and repeatable construction project records.
 
 ## What It Helps You Track: Substructure Estimation Pain Points & Solutions
 
-- **Pain Point: Fragmented structural calculations.** 
-  **Solution:** Centralizes **foundation quantities** across piles, pile caps, ground beams, columns, and earthwork—eliminating the need for separate manual spreadsheets for each civil element type.
-- **Pain Point: Disconnect between measurements and volume.** 
-  **Solution:** Automatically links **concrete volume, formwork area, and earthwork quantities** directly to your measured PlanSwift or Bluebeam takeoff dimensions and element counts.
-- **Pain Point: Time-consuming rebar detailing.** 
-  **Solution:** Auto-generates **reinforcement quantities by bar diameter**, providing calculated cutting lengths, total linear metres, theoretical weight, and exact allowances for rebar waste (BBS automation).
-- **Pain Point: Manual transcription errors during pricing.** 
-  **Solution:** Creates a structured **Bill of Quantities (BOQ)** covering earthwork, concrete, formwork, and reinforcement. Calculated quantities are automatically carried into commercial tender values.
-- **Pain Point: Lack of immediate budget visibility.** 
-  **Solution:** Provides real-time **total estimated cost and material consumption indicators**, including reinforcement tonnage and reinforcement intensity (kg/m³) per cubic metre of structural concrete.
-- **Pain Point: Hidden input errors ruining the tender.** 
-  **Solution:** Surfaces calculation exceptions, missing dimensions, and invalid material rates through dedicated **validation checks** before you submit your final construction bid.
+| Pain Point | Solution |
+| :--- | :--- |
+| **Fragmented structural calculations** | Centralizes **foundation quantities** across piles, pile caps, ground beams, columns, and earthwork—eliminating the need for separate manual spreadsheets for each civil element type. |
+| **Disconnect between measurements and volume** | Automatically links **concrete volume, formwork area, and earthwork quantities** directly to your measured PlanSwift or Bluebeam takeoff dimensions and element counts. |
+| **Time-consuming rebar detailing** | Auto-generates **reinforcement quantities by bar diameter**, providing calculated cutting lengths, total linear metres, theoretical weight, and exact allowances for rebar waste (BBS automation). |
+| **Manual transcription errors during pricing** | Creates a structured **Bill of Quantities (BOQ)** covering earthwork, concrete, formwork, and reinforcement. Calculated quantities are automatically carried into commercial tender values. |
+| **Lack of immediate budget visibility** | Provides real-time **total estimated cost and material consumption indicators**, including reinforcement tonnage and reinforcement intensity (kg/m³) per cubic metre of structural concrete. |
+| **Hidden input errors ruining the tender** | Surfaces calculation exceptions, missing dimensions, and invalid material rates through dedicated **validation checks** before you submit your final construction bid. |
 
 ## Quick Start Tutorial: How to Automate Your Foundation Takeoff
 
@@ -45,7 +41,7 @@ No signup. No installation. Free to use in the browser. The downloadable Excel v
    Update the raw measurement data or project rates when structural drawings, engineer quantities, or market assumptions change. All downstream commercial calculations refresh automatically from the single source of truth.
 
 > **Ready to standardize your estimating process?** Start your first project online, and once you realize how much time it saves:  
-> **[📥 Download the Offline Foundation Estimating Excel Template to use for all your future tenders and variations.](https://alexhasgreatestuff.gumroad.com/l/ncaol)**
+> **[📥 Download the Offline Foundation Estimating Excel Template to use for all your future tenders and variations.](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)**
 
 ## Why I Built This Productized Estimating Workflow
 
