@@ -11,7 +11,7 @@ An integrated **foundation quantity takeoff (QTO) software alternative** and **c
 >
 > [🌐 Open Free Web-Based Foundation QTO Calculator](#)
 >
->  [📥 Download Offline BOQ & BBS Excel Template for Repeated Use](#)
+>  [📥 Download Offline BOQ & BBS Excel Template for Repeated Use](https://alexhasgreatestuff.gumroad.com/l/ncaol)
 
 No signup. No installation. Free to use in the browser. The downloadable Excel version is specifically designed for estimators needing an offline working file and repeatable construction project records.
 
@@ -45,7 +45,7 @@ No signup. No installation. Free to use in the browser. The downloadable Excel v
    Update the raw measurement data or project rates when structural drawings, engineer quantities, or market assumptions change. All downstream commercial calculations refresh automatically from the single source of truth.
 
 > **Ready to standardize your estimating process?** Start your first project online, and once you realize how much time it saves:  
-> **[📥 Download the Offline Foundation Estimating Excel Template to use for all your future tenders and variations.](#)**
+> **[📥 Download the Offline Foundation Estimating Excel Template to use for all your future tenders and variations.](https://alexhasgreatestuff.gumroad.com/l/ncaol)**
 
 ## Why I Built This Productized Estimating Workflow
 
