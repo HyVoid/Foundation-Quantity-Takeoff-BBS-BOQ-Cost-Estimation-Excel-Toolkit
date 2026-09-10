@@ -9,7 +9,9 @@ An integrated **foundation quantity takeoff (QTO) software alternative** and **c
 
 > **Test the free web-based foundation takeoff calculator.** If you require a secure, offline **construction estimation Excel template** for permanent project records, financial audit trails, and repeatable commercial bidding, you can purchase the premium version backed by a 30-day, no-questions-asked money-back guarantee.
 >
-> [🌐 Open Free Web-Based Foundation QTO Calculator](#) · [📥 Download Offline BOQ & BBS Excel Template for Repeated Use](#)
+> [🌐 Open Free Web-Based Foundation QTO Calculator](#)
+>
+>  [📥 Download Offline BOQ & BBS Excel Template for Repeated Use](#)
 
 No signup. No installation. Free to use in the browser. The downloadable Excel version is specifically designed for estimators needing an offline working file and repeatable construction project records.
 
