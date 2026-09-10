@@ -1,0 +1,6 @@
+{
+  "name": "Substructure Civil Estimation & BBS/BOQ System",
+  "description": "Integrated Substructure Civil Engineering Quantity Takeoff, BBS Rebar Engine, BOQ and Cost Estimation System with Real-Time Validation and Dashboard Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
