@@ -479,6 +479,3 @@ This project is released under the **Apache License 2.0**.
 See the [`LICENSE`](LICENSE) file for the complete license terms.
 
 
-
-**Part 1 ends at the complete README structure above; the remaining publication-level sections can be split further if needed.**
-```
