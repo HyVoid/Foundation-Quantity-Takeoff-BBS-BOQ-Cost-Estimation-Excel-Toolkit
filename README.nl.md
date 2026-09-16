@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Excel-sjabloon voor hoeveelhedenberekening (QTO) en bestekstaat (BOQ) van funderingen: geautomatiseerde wapeningsstaat (BBS) en toolkit voor kostenraming
 
