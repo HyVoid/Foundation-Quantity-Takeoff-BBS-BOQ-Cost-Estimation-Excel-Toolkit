@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Plantilla de Excel para Levantamiento de Cantidades (QTO) y Listado de Cantidades (BOQ) de Cimentación: Kit de Herramientas Automatizado de Esquema de Doblado de Barras (BBS) y Estimación de Costos
 
