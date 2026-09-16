@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # قالب إكسل لحصر كميات أساسات البناء (QTO) وجدول الكميات (BOQ): مجموعة أدوات مؤتمتة لجدول تسليح القضبان (BBS) وتقدير التكاليف
 
