@@ -8,6 +8,10 @@
 
 An integrated **foundation quantity takeoff (QTO) software alternative** and **cost estimation Excel template** for building and civil substructure projects. Transform raw measured foundation dimensions into precise concrete volumes, automated **Bar Bending Schedules (BBS)** for reinforcement tonnage, commercial **Bill of Quantities (BOQ)** values, and project cost-control indicators—eliminating the need to rebuild your structural estimating model for every commercial tender.
 
+<img width="1381" height="827" alt="image" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
+<img width="934" height="790" alt="image" src="https://github.com/user-attachments/assets/d17a6314-b4a6-41dc-8c99-bd6bb5f9a661" />
+
+
 > **Test the free web-based foundation takeoff calculator.** If you require a secure, offline **construction estimation Excel template** for permanent project records, financial audit trails, and repeatable commercial bidding, you can purchase the premium version backed by a 30-day, no-questions-asked money-back guarantee.
 >
 > [🌐 Open Free Web-Based Foundation QTO Calculator](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
