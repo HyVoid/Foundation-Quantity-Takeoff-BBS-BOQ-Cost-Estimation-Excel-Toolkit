@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Plantilla de Excel para Levantamiento de Cantidades (QTO) y Listado de Cantidades (BOQ) de Cimentación: Kit de Herramientas Automatizado de Esquema de Doblado de Barras (BBS) y Estimación de Costos
 
@@ -7,6 +7,10 @@
 [![Tool Type](https://img.shields.io/badge/Tool-Construction%20Estimation%20Software-orange.svg)](#what-it-helps-track)
 
 Una **alternativa de software de levantamiento de cantidades (QTO) de cimentación** integrada y una **plantilla de Excel para estimación de costos** para proyectos de edificación y subestructura civil. Transforme las dimensiones medidas en bruto de la cimentación en volúmenes precisos de concreto, **esquemas de doblado de barras (BBS)** automatizados para el tonelaje de acero de refuerzo, valores comerciales del **listado de cantidades (BOQ)** e indicadores de control de costos del proyecto, eliminando la necesidad de reconstruir su modelo de estimación estructural para cada licitación comercial.
+
+<img width="1381" height="827" alt="image" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
+<img width="934" height="790" alt="image" src="https://github.com/user-attachments/assets/d17a6314-b4a6-41dc-8c99-bd6bb5f9a661" />
+
 
 > **Pruebe la calculadora gratuita de levantamiento de cimentación basada en la web.** Si necesita una **plantilla de Excel para estimación de construcción** segura y sin conexión para registros permanentes del proyecto, rastros de auditoría financiera y licitaciones comerciales repetibles, puede adquirir la versión premium respaldada por una garantía de devolución del dinero de 30 días sin hacer preguntas.
 >
