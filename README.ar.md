@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # قالب إكسل لحصر كميات أساسات البناء (QTO) وجدول الكميات (BOQ): مجموعة أدوات مؤتمتة لجدول تسليح القضبان (BBS) وتقدير التكاليف
 
@@ -7,6 +7,10 @@
 [![Tool Type](https://img.shields.io/badge/Tool-Construction%20Estimation%20Software-orange.svg)](#what-it-helps-track)
 
 بديل برمجي متكامل لـ**حصر كميات الأساسات (QTO)** و**قالب إكسل لتقدير التكاليف** لمشاريع المباني والأساسات (البنية التحتية المدنية). حوّل أبعاد الأساسات المقاسة الخام إلى أحجام خرسانية دقيقة، و**جداول تسليح القضبان (BBS)** مؤتمتة لكميات حديد التسليح، وقيم تجارية لـ**جدول الكميات (BOQ)**، ومؤشرات لضبط تكاليف المشروع — مما يلغي الحاجة إلى إعادة بناء نموذج التقدير الإنشائي لكل مناقصة تجارية.
+
+<img width="1381" height="827" alt="image" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
+<img width="934" height="790" alt="image" src="https://github.com/user-attachments/assets/d17a6314-b4a6-41dc-8c99-bd6bb5f9a661" />
+
 
 > **اختبر مجانيًا حاسبة حصر كميات الأساسات عبر الويب.** إذا كنت تحتاج إلى **قالب تقدير إنشائي لإكسل** آمن يعمل دون اتصال لسجلات المشروع الدائمة ومسارات التدقيق المالي والتقديم التجاري المتكرر، يمكنك شراء النسخة المميزة المدعومة بضمان استرداد الأموال بدون أسئلة لمدة 30 يومًا.
 >
