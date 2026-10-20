@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Excel-sjabloon voor hoeveelhedenberekening (QTO) en bestekstaat (BOQ) van funderingen: geautomatiseerde wapeningsstaat (BBS) en toolkit voor kostenraming
 
@@ -7,6 +7,10 @@
 [![Tool Type](https://img.shields.io/badge/Tool-Construction%20Estimation%20Software-orange.svg)](#what-it-helps-track)
 
 Een geïntegreerd **alternatief voor software voor hoeveelhedenberekening van funderingen (QTO)** en een **Excel-sjabloon voor kostenraming** voor bouw- en civieltechnische onderbouwprojecten. Zet ruwe opgemeten funderingsafmetingen om in nauwkeurige betonvolumes, geautomatiseerde **wapeningsstaten (BBS)** voor wapeningsstaalgewichten, commerciële **bestekstaatwaarden (BOQ)** en indicatoren voor projectkostenbeheersing—zonder dat u uw constructieve ramingsmodel voor elke commerciële aanbesteding opnieuw hoeft op te bouwen.
+
+<img width="1381" height="827" alt="image" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
+<img width="934" height="790" alt="image" src="https://github.com/user-attachments/assets/d17a6314-b4a6-41dc-8c99-bd6bb5f9a661" />
+
 
 > **Test de gratis webgebaseerde calculator voor funderingshoeveelheden.** Als u een veilig, offline **Excel-sjabloon voor bouwkostenraming** nodig hebt voor permanente projectadministratie, financiële controlesporen en herhaalbare commerciële aanbestedingen, kunt u de premiumversie aanschaffen met een niet-goed-geld-terug-garantie van 30 dagen.
 >
