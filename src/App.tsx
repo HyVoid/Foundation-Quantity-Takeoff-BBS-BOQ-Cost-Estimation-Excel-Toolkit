@@ -268,10 +268,10 @@ export default function App() {
           <div className="max-w-[1400px] mx-auto px-6 sm:px-10 flex flex-col md:flex-row items-center justify-between gap-4 text-[12px] text-[#888888]">
             <div className="flex items-center gap-2">
               <span className="font-serif font-bold text-[#051C2C] text-[14px]">
-                SUBSTRUCT ESTIMATOR
+                Theseus Workshop
               </span>
               <span>·</span>
-              <span>Civil Substructure Takeoff, BBS & Commercial Cost Engine</span>
+              <span>Foundation Quantity Takeoff BBS BOQ Cost Estimation Excel Toolkit</span>
             </div>
 
             <div className="flex items-center gap-2 text-[11px] text-[#051C2C]/75 bg-[#F5F5F2] px-3.5 py-1.5 rounded-full border border-[#E8E8E6] text-center max-w-xl">

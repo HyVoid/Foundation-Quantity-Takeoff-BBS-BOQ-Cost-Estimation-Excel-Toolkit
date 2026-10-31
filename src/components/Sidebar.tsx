@@ -140,16 +140,16 @@ export const Sidebar: React.FC<SidebarProps> = ({
       <div>
         <div className="p-4 border-b border-[#E8E8E6] flex items-center justify-between">
           <div className="flex items-center gap-3 overflow-hidden">
-            <div className="w-9 h-9 rounded-lg bg-[#051C2C] text-white flex items-center justify-center font-serif text-lg font-bold shadow-sm shrink-0">
-              Σ
+            <div className="w-9 h-9 rounded-lg bg-[#051C2C] text-white flex items-center justify-center font-serif text-sm font-bold shadow-sm shrink-0 tracking-tight">
+              TW
             </div>
             {!isCollapsed && (
               <div className="min-w-0 transition-opacity duration-200">
                 <div className="font-serif text-[15px] font-bold tracking-tight text-[#051C2C] leading-none truncate">
-                  SUBSTRUCT ESTIMATOR
+                  Theseus Workshop
                 </div>
-                <div className="text-[10px] font-semibold tracking-wider text-[#888888] uppercase mt-1 truncate">
-                  Civil Takeoff & Cost Engine
+                <div className="text-[10px] font-medium tracking-wide text-[#888888] mt-1 truncate" title="Foundation Quantity Takeoff BBS BOQ Cost Estimation Excel Toolkit">
+                  Foundation Quantity Takeoff BBS BOQ Cost Estimation Excel Toolkit
                 </div>
               </div>
             )}
@@ -392,11 +392,16 @@ export const Sidebar: React.FC<SidebarProps> = ({
             <Menu className="w-5 h-5" />
           </button>
           <div className="flex items-center gap-2">
-            <div className="w-7 h-7 rounded-md bg-[#051C2C] text-white flex items-center justify-center font-serif text-sm font-bold shadow-xs">
-              Σ
+            <div className="w-7 h-7 rounded-md bg-[#051C2C] text-white flex items-center justify-center font-serif text-xs font-bold shadow-xs">
+              TW
             </div>
-            <div className="font-serif text-[15px] font-bold text-[#051C2C]">
-              SUBSTRUCT ESTIMATOR
+            <div className="min-w-0">
+              <div className="font-serif text-[14px] font-bold text-[#051C2C] leading-tight">
+                Theseus Workshop
+              </div>
+              <div className="text-[9px] text-[#888888] truncate leading-none">
+                Foundation Quantity Takeoff BBS BOQ Cost Estimation Excel Toolkit
+              </div>
             </div>
           </div>
         </div>
