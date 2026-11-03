@@ -14,9 +14,6 @@
 <p align="center">
   <img width="1381" height="827" alt="Construction Foundation Quantity Takeoff QTO and BOQ Cost Estimation Excel Template Dashboard showing concrete volume and rebar weight calculations" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
 </p>
-<p align="center">
-  <img width="934" height="790" alt="Automated Bar Bending Schedule BBS and Rebar Tonnage Calculator Spreadsheet for civil substructure and footing takeoff" src="https://github.com/user-attachments/assets/d17a6314-b4a6-41dc-8c99-bd6bb5f9a661" />
-</p>
 
 > **Try the Live Browser Calculator or Download the Permanent Offline Excel Workbook:**  
 > Test the calculation logic immediately in your browser, or download the unlocked, repeatable **Microsoft Excel estimating workbook** for local project storage, client bid submissions, financial audit trails, and busy bid-season execution (backed by a 30-day money-back guarantee).
