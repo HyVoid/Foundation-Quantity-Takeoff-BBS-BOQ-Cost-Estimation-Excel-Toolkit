@@ -487,19 +487,7 @@ The source validation matrix defines four core checks covering geometry, pricing
 
 </details>
 
-## The Business Logic & Methodology
-
-The model is built around one commercial principle: **keep the estimate connected from physical work to financial consequence**.
-
-* **Element-level quantity calculation** converts measured dimensions into consistent physical quantities, so the estimate starts from construction reality rather than manually assembled totals.
-* **Reinforcement calculation** converts bar diameter, element geometry, and quantities into procurement-oriented tonnage, making steel consumption visible alongside the structural quantity.
-* **BOQ aggregation** converts physical quantities into commercial line items, reducing the gap between estimating and tender pricing.
-* **Centralized assumptions** keep material rates, waste allowances, and other project parameters in one place, so a change in the commercial environment does not require rebuilding the estimate.
-* **Validation and reconciliation** test whether the estimate is complete and internally consistent before the number is used for a commercial decision.
-
-The result is deliberately narrower than an enterprise construction platform. It is a reusable estimating and decision-support workflow for the recurring question:
-
-**What quantity is actually required, what will it cost under the current assumptions, and can the final number be traced back to the measured work?**
+---
 
 ## Other Tools in This Series
 
