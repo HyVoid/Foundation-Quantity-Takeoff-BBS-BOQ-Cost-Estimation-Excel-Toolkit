@@ -25,6 +25,17 @@ Designed for immediate deployment: run a quick substructure takeoff directly in 
 
 ---
 
+## Questions, Feedback & Product Updates
+
+This foundation takeoff toolkit is designed around practical substructure measurement, concrete and formwork quantities, reinforcement scheduling, and BOQ pricing workflows. Feedback from contractors and quantity surveyors helps improve the clarity and usefulness of the takeoff process.
+
+- **Questions & workflow fit:** [Ask about footing, pile, slab, or beam inputs; concrete volumes; formwork; rebar BBS; or priced BOQ outputs](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest additional structural elements, measurement rules, reinforcement schedules, validation checks, or cost reports](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the foundation QTO issue form](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+When describing a problem, mention the element type, worksheet, input dimensions, affected bar size or quantity, and expected versus actual result. Use synthetic dimensions and rates. Do not upload client drawings, live tenders, structural design files, reinforcement schedules containing confidential project details, or supplier quotations.
+
 ## What It Helps You Track: Substructure Takeoff Pain Points & Automated Excel Solutions
 
 | Common Estimating Pain Point | High-Frequency Tracking Metric | Automated Excel Template Solution |
