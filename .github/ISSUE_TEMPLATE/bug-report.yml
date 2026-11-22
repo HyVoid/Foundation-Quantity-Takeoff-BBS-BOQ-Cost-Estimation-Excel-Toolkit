@@ -1,0 +1,107 @@
+name: "Workbook / Tool Issue"
+description: "Report a reproducible calculation, import, compatibility, browser-tool, or documentation problem."
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for a technical problem that can be described or reproduced. For workflow questions or feature ideas, use the [Theseus Workshop Discussions](https://github.com/HyVoid/business-decision-toolbox/discussions) instead.
+
+        Do not upload client drawings, live tenders, structural design files, confidential reinforcement schedules, supplier quotations, or commercially sensitive project information. Use fictional, synthetic, or anonymized examples.
+
+  - type: dropdown
+    id: problem_area
+    attributes:
+      label: Which area is affected?
+      options:
+        - "Footing / pile / pile cap dimensions"
+        - "Concrete volume / earthwork quantities"
+        - "Formwork area calculations"
+        - "Rebar weight / Bar Bending Schedule (BBS)"
+        - "BOQ mapping / unit-rate pricing"
+        - "Rebar intensity / material ratios"
+        - "Input validation / audit flags"
+        - "Browser calculator behaviour"
+        - "Excel formula / calculation issue"
+        - "Compatibility / documentation"
+        - "Other"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Where did this happen?
+      options:
+        - "Microsoft Excel for Windows"
+        - "Microsoft Excel for Mac"
+        - "Excel for the web"
+        - "Free browser calculator"
+        - "Google Sheets preview"
+        - "Other / not sure"
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Excel version or browser-tool version
+      description: Optional. Include the Excel version/build if known, or the date you tested the browser tool.
+      placeholder: "Microsoft 365 desktop, Excel 2024, or browser tool tested on YYYY-MM-DD"
+    validations:
+      required: false
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Describe the problem in plain language. Include the relevant structural element, worksheet, input dimensions, bar size, or quantity output if known.
+      placeholder: "When I enter... the workbook/tool..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_result
+    attributes:
+      label: What did you expect to happen?
+      placeholder: "I expected the result to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual_result
+    attributes:
+      label: What happened instead?
+      description: Include the displayed result, error message, or unexpected behaviour.
+      placeholder: "Instead, I see..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction_steps
+    attributes:
+      label: Steps to reproduce
+      description: List the smallest sequence of actions that reproduces the issue. If it is intermittent, describe the conditions.
+      placeholder: |
+        1. Open the workbook/tool...
+        2. Enter a synthetic sample value...
+        3. Review the affected output...
+    validations:
+      required: false
+
+  - type: textarea
+    id: safe_example
+    attributes:
+      label: Sanitized example or affected cell / field
+      description: Optional. Include worksheet/cell names, column names, or a small synthetic example. Do not paste real business data.
+      placeholder: "Sheet: ... | Cell/field: ... | Synthetic input: ..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: privacy_check
+    attributes:
+      label: Data safety confirmation
+      options:
+        - label: I have removed personal identifiers, confidential financial or project data, customer information, supplier information, passwords, API keys, and other sensitive details.
+          required: true
