@@ -1,156 +1,179 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
+# Métré de quantités des fondations (QTO), BBS des armatures et modèle Excel BOQ pour la construction (calculateur Web gratuit) — Volumes de béton, coffrage et estimateur de coûts
 
-# Métré de fondations (QTO) et modèle Excel BOQ pour la construction : Bar Bending Schedule (BBS) automatisé des armatures, volumes de béton et estimateur de coûts
-<img width="1049" height="790" alt="image" src="https://github.com/user-attachments/assets/55faa135-a626-40be-b88a-ee7264fbc96a" />
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Excel Workbook: One-Time Purchase](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase-1E3A8A.svg)
+![Interactive Demo: Free Web Calculator](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Guarantee: 30-Day Money-Back](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
+<img width="1049" height="790" alt="Construction Foundation Quantity Takeoff QTO, Rebar BBS and BOQ Excel Template Overview" src="https://github.com/user-attachments/assets/55faa135-a626-40be-b88a-ee7264fbc96a" />
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)](#access)
-[![Tool Type](https://img.shields.io/badge/Tool-Construction%20Estimation%20Software-orange.svg)](#what-it-helps-track)
+**Ne laissez plus vos offres d'infrastructure s'effondrer à cause des typos de métré manuel, des feuilles d'armatures déconnectées et des erreurs cachées dans les ratios béton/acier.** Ce **classeur Excel plug-and-play à 6 onglets de métré de quantités des fondations (QTO), Bar Bending Schedule (BBS) des armatures et estimation des coûts BOQ** (accompagné d'un **calculateur en ligne gratuit dans le navigateur**) convertit directement les dimensions brutes de semelles, de pieux, de têtes de pieux, de longrines, de poteaux et de tranchées en **volumes de béton ($m^3$), surfaces de coffrage ($m^2$), quantités de terrassement, tonnages d'armatures triés par diamètre, contrôles d'intensité de ferraillage ($kg/m^3$) et bordereaux des quantités (BOQ) chiffrés** précis — sans aucun glisser-déposer de formules, sans aucune macro VBA et sans aucun abonnement coûteux à un logiciel de métré génie civil.
 
-**Un calculateur de fondations prêt à l'emploi et un modèle Excel d'estimation des coûts (.xlsx)** conçu pour les débutants, les petits entrepreneurs et les économistes de la construction. Convertissez instantanément les dimensions brutes de semelles, pieux, dalles et poutres en **volumes de béton précis ($m^3$), quantités de terrassement, surfaces de coffrage ($m^2$), Bar Bending Schedules (BBS) automatisés pour le tonnage d'armatures et bordereaux des quantités (BOQ) chiffrés** — une **alternative logicielle de métré bâtiment** prête à l'emploi, qui ne nécessite aucun glisser-déposer de formule ni aucune configuration de macro.
+> ### Démarrez en quelques minutes
+>
+> - 📥 **Obtenez le classeur Excel hors ligne complet de métré et BBS à 6 onglets (achat unique · garantie satisfait ou remboursé de 30 jours sans condition) :** [**Téléchargez le modèle Excel complet de fondations QTO, BBS et BOQ (.xlsx) sur Theseus Workshop**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README) — un système `.xlsx` local déverrouillé avec workflow SOP intégré, formules dynamiques à mise à jour automatique, moteur BBS des armatures et contrôles de validation avant soumission. Réutilisable sur un nombre illimité de projets, confidentialité 100 % hors ligne, zéro frais SaaS récurrents.
+> - 🌐 **Testez d'abord le calcul de métré en direct (calculateur 100 % gratuit dans le navigateur · sans inscription) :** [**Lancez le calculateur Web gratuit de fondations QTO et d'armatures béton**](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/) pour exécuter un contrôle d'infrastructure instantané directement dans votre navigateur.
+> - 🎁 **Nouveau sur Theseus Workshop et envie de tester un fichier Excel hors ligne pour \$0 d'abord ?** Récupérez notre [**Modèle Excel mensuel gratuit de CVR et charges à payer pour la construction (\$0+ Pay What You Want)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_qto_readme_crosslink) pour tester notre savoir-faire Excel plug-and-play hors ligne avant d'améliorer votre workflow de métré d'infrastructure.
+
+---
+
+## Comment cette boîte à outils QTO et BBS de fondations s'intègre à votre workflow commercial complet
+
+Si vous avez déjà téléchargé notre **modèle gratuit mensuel de CVR et charges à payer**, vous savez à quelle vitesse un lot de béton ou d'armatures sous-évalué peut détruire la marge du projet sur chantier. **Les pertes sur l'infrastructure commencent presque toujours au métré sur plans** — au moment où la ressaisie manuelle entre la géométrie, les feuilles d'armatures et le chiffrage BOQ dissimule une erreur de quantité de 5 % à 10 %.
+
+Voici comment ce classeur s'articule avec le reste de la suite construction **Theseus Workshop** :
+
+| Étape commerciale | Boîte à outils de la suite Theseus Workshop | L'erreur coûteuse qu'elle élimine |
+|---|---|---|
+| **Étape 1A — Métré sur plans et détail des armatures** | **Ce classeur : estimateur de fondations QTO, BBS et BOQ** (*Achat unique*) | Élimine la transcription manuelle entre les dimensions de semelles/pieux, les volumes de béton/coffrage, les Bar Bending Schedules (BBS) des armatures et le chiffrage BOQ de l'infrastructure |
+| **Étape 1B — Chiffrage complet de l'appel d'offres** | [Atelier d'estimation et de chiffrage BOQ pour la construction](https://github.com/HyVoid/construction-estimating) (*Achat unique*) | Normalise les BOQ clients multi-corps en assemblages de coûts réutilisables, multiplicateurs de productivité et budgets prêts pour Procore |
+| **Étape 2 — Exécution active du projet** | [Classeur de gestion de projet et de trésorerie pour la construction](https://github.com/HyVoid/construction-project-management-excel) (*Achat unique*) | Contrôle les budgets hebdomadaires par code de coûts, les avenants approuvés, la facturation à l'avancement du calendrier des valeurs (SOV), les retenues de garantie et la trésorerie glissante |
+| **Étape 3 — Audit des profits en fin de mois** | [Modèle mensuel de CVR et charges à payer pour la construction](https://github.com/HyVoid/construction-cvr-accruals-excel-template) (**Gratuit · \$0+ PWYW**) | Rapproche le profit comptable des charges à payer de chantier non facturées, du risque d'avenants et de la dérive de marge de l'estimation à l'achèvement (EAC) en fin de mois |
+
+---
+
+## Ce qu'il suit et automatise : les points de douleur du métré d'infrastructure associés à des contrôles instantanés
 
 <p align="center">
   <img width="1381" height="827" alt="Construction Foundation Quantity Takeoff QTO and BOQ Cost Estimation Excel Template Dashboard showing concrete volume and rebar weight calculations" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
 </p>
 
-> **Essayez le calculateur en ligne dans votre navigateur ou téléchargez le classeur Excel hors ligne définitif :**  
-> Testez immédiatement la logique de calcul dans votre navigateur, ou téléchargez le **classeur d'estimation Microsoft Excel** déverrouillé et réutilisable pour le stockage local de vos projets, la remise d'offres aux clients, les pistes d'audit financier et l'exécution des périodes de soumission intenses (garantie satisfait ou remboursé de 30 jours).
->
-> * [🌐 **Lancer le calculateur Web gratuit de métré de fondations et d'armatures béton** *(Aperçu en ligne instantané — aucune création de compte ni installation de logiciel)*](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
-> * [📥 **Télécharger le modèle Excel hors ligne de BOQ de fondations, BBS et estimation des coûts (.xlsx)** *(Workflow SOP préconstruit et formules à mise à jour automatique pour un nombre illimité de projets commerciaux)*](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
-
-Pensé pour un déploiement immédiat : réalisez un métré d'infrastructure rapide directement dans votre navigateur, ou téléchargez le tableur `.xlsx` local pour y coller les dimensions de votre propre projet et générer en quelques secondes des décompositions de coûts prêtes à présenter au client.
-
----
-
-## Ce que ce modèle vous aide à suivre : les difficultés du métré d'infrastructure et les solutions Excel automatisées
-
-| Difficulté courante du chiffrage | Indicateur de suivi à haute fréquence | Solution apportée par le modèle Excel automatisé |
+| Point de douleur courant du chiffrage d'infrastructure | Indicateur de suivi à haute fréquence | Ce que ce modèle Excel automatisé calcule pour vous |
 | :--- | :--- | :--- |
-| **Calculs de fondations et de semelles fragmentés** | **Quantités d'éléments d'infrastructure** *(pieux, têtes de pieux, semelles isolées, longrines, poteaux, fouilles en tranchée)* | Centralise toutes les **mesures de métré de l'infrastructure** dans un tableau de saisie unique, en supprimant les tableurs manuels distincts pour chaque type d'élément en béton. |
-| **Déconnexion entre les dimensions des plans et les volumes** | **Volume de béton ($m^3$), surface de coffrage ($m^2$), déblais et remblais** | Relie automatiquement les dimensions de métré et le nombre d'éléments issus de **PlanSwift, Bluebeam Revu, AutoCAD ou de plans PDF** aux formules de volume structurel et de coffrage. |
-| **Détail d'armatures complexe et chronophage** | **Calculateur de poids d'armatures et Bar Bending Schedule (BBS) par diamètre de barre** | Génère automatiquement **les longueurs de coupe des aciers, les mètres linéaires totaux, le poids théorique des armatures ($kg / tonnes$) et les tolérances de chutes**, triés par diamètre de barre (par ex. de 10 mm à 32 mm). |
-| **Erreurs de copier-coller manuel lors du chiffrage de l'appel d'offres** | **Bordereau des quantités (BOQ) chiffré et ventilation des coûts par lot** | Reporte directement les totaux calculés de terrassement, de béton, de coffrage et d'armatures dans un **bordereau BOQ commercial normalisé**, en multipliant automatiquement les quantités par les prix unitaires. |
-| **Soumission à l'aveugle, sans contrôle des ratios de matériaux** | **Intensité d'armatures ($kg/m^3$) et indicateurs de coût unitaire** | Calcule en temps réel **la densité d'armatures par mètre cube de béton ($kg/m^3$)** et la répartition des coûts, ce qui permet aux débutants comme aux responsables de repérer instantanément une sous-estimation ou une sur-commande. |
-| **Erreurs de saisie invisibles qui ruinent les marges finales** | **Détection des erreurs avant soumission et indicateurs d'audit des formules** | Exécute des **contrôles de validation des données** automatisés pour signaler les dimensions de semelle manquantes, les prix unitaires à zéro, les paramètres d'armatures invalides ou les lignes BOQ non liées avant la remise de l'offre. |
+| **Feuilles de calcul de fondations et de semelles fragmentées** | **Quantités d'éléments d'infrastructure** *(pieux, têtes de pieux, semelles isolées, longrines, poteaux, fouilles en tranchée)* | Centralise toutes les **mesures de métré d'infrastructure** dans un tableau de saisie unifié, en supprimant les feuilles manuelles distinctes pour chaque type d'élément. |
+| **Déconnexion entre les plans et le calcul des volumes** | **Volume de béton ($m^3$), surface de coffrage ($m^2$) et déblais/remblais de terrassement** | Relie directement les dimensions brutes du métré géométrique issues de **PlanSwift, Bluebeam Revu, AutoCAD ou de plans PDF** aux formules de volume, de coffrage et de foisonnement des sols. |
+| **Détail des armatures lent et source d'erreurs** | **Calculateur de poids d'armatures et Bar Bending Schedule (BBS) par diamètre de barre** | Génère automatiquement **les longueurs de coupe, les nombres totaux de barres, les mètres linéaires, le poids théorique des armatures ($kg$ / tonnes) et les tolérances de chutes de coupe** groupés par diamètre de barre. |
+| **Erreurs de copier-coller manuel lors du chiffrage BOQ** | **Bordereau des quantités (BOQ) chiffré et ventilation des coûts** | Reporte directement les totaux calculés de terrassement, de béton, de coffrage et d'armatures dans un **BOQ commercial normalisé**, en multipliant automatiquement les quantités par les prix unitaires en temps réel. |
+| **Soumission à l'aveugle sans contrôle des ratios de matériaux** | **Intensité d'armatures ($kg/m^3$) et indicateurs clés de structure des coûts** | Calcule en temps réel **la densité d'acier par mètre cube de béton ($kg/m^3$)** afin que débutants comme directeurs repèrent immédiatement les sous-évaluations ou les typos d'unités. |
+| **Erreurs de saisie silencieuses qui ruinent les marges des offres** | **Détection d'erreurs avant soumission et indicateurs d'audit** | Exécute des **contrôles de validation** automatisés (`PASS / FAIL / WARNING / MISMATCH`) pour signaler les profondeurs de semelle manquantes, les prix unitaires à zéro ou les lignes BOQ non liées avant la remise de l'offre. |
 
 ---
 
-## Tutoriel de démarrage rapide : comment automatiser votre métré de fondations et votre estimation de coûts en 4 étapes
+## Aperçu du tableur
 
-Même sans aucune formation avancée sur Excel ni parcours formel en métré, cette boîte à outils intègre un **workflow SOP (Standard Operating Procedure) préconstruit**. Les mathématiques d'ingénierie sous-jacentes et les règles de liaison commerciale sont préconfigurées : il vous suffit de suivre les onglets numérotés, de coller vos mesures brutes et de lire le retour analytique instantané.
+Vous voulez examiner les 6 onglets, le moteur BBS des armatures et le tableau de bord des coûts avant de télécharger ? Prévisualisez le classeur directement dans Google Sheets :
 
-### Étape 1 : paramétrer les prix locaux des matériaux de construction et les facteurs de perte
-Ouvrez le tableau de bord de paramétrage pour initialiser votre environnement de soumission. Saisissez votre devise locale, les prix unitaires du **béton structurel prêt à l'emploi, du terrassement, du coffrage bois/acier et des aciers d'armature**, ainsi que les tolérances standard pour **les chutes de coupe d'armatures (%)** et **les facteurs de foisonnement/retrait des sols**.
+**[Consultez l'aperçu du tableur en direct sur Google Sheets](https://docs.google.com/spreadsheets/d/1EDtiAxAGifr8hsWZ3oCV34T4AlyNzHJ8/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
-### Étape 2 : coller vos dimensions brutes de métré de fondations (aucune formule à glisser)
-Copiez et collez vos éléments de fondation mesurés — issus de **Bluebeam, PlanSwift, CostX ou de métrés manuels sur plans PDF** — directement dans le tableau de saisie structuré. Saisissez l'identifiant de l'élément, la référence du plan, la catégorie de fondation (pieu, tête de pieu, semelle, longrine ou poteau), les dimensions longueur/largeur/profondeur, ainsi que les paramètres de base d'espacement et de diamètre des armatures.
-
-### Étape 3 : consulter les volumes de béton, le BBS d'armatures et le BOQ chiffré générés automatiquement
-Regardez le moteur d'estimation tout calculer simultanément. Comme toutes les règles de recherche et les formules de matrice dynamique sont pré-cartographiées dans le modèle, **vous n'avez même pas besoin de double-cliquer sur la poignée de recopie Excel ni de faire glisser les formules vers le bas**. Vos volumes de béton, surfaces de coffrage, **Bar Bending Schedule (BBS)** diamètre par diamètre, **bordereau des quantités (BOQ)** commercial et **diagnostics d'intensité d'armatures ($kg/m^3$)** se remplissent en un seul clic.
-
-### Étape 4 : télécharger le classeur Excel réutilisable pour les périodes de soumission chargées
-Lorsque les ingénieurs structure publient des révisions de plans, des avenants ou des ordres de modification (VO), il suffit d'écraser les cellules de dimensions modifiées ou de mettre à jour un seul prix unitaire de matériau : chaque tableau BBS en aval et chaque total BOQ se met à jour automatiquement.
-
-> **Arrêtez de reconstruire vos tableurs de zéro à chaque période de soumission :**  
-> Les calculs de construction et le recoupement commercial sont complexes, mais votre flux de travail quotidien ne doit pas l'être. Grâce à des règles de calcul à correspondance automatique préconstruites, des formules dynamiques à mise à jour automatique et une SOP intégrée pas à pas, vous pouvez faire l'économie totale du débogage de formules. Téléchargez simplement le fichier en local, collez vos données de projet et obtenez un retour décisionnel commercial immédiat, pour rester concentré sur la conquête de projets plutôt que sur des tableurs défaillants.
->
-> 👉 **[📥 Télécharger le modèle Excel hors ligne complet de métré de fondations, BBS et BOQ (.xlsx) pour un usage local illimité](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)**
+> **Remarque de compatibilité :** l'aperçu Google Sheets peut afficher occasionnellement des avertissements `#NAME?` en raison des différences de formules matricielles dynamiques entre Google Sheets et Microsoft Excel. Il s'agit d'artefacts propres à l'aperçu qui n'apparaissent pas dans le fichier `.xlsx` téléchargé lorsqu'il est ouvert dans Microsoft Excel.
 
 ---
 
-## La logique métier et la méthodologie : éliminer les fuites de profit cachées dans la soumission de fondations
+## Tutoriel de démarrage rapide : automatisez votre métré de fondations et votre offre en 4 étapes simples
 
-Pour les débutants, les estimateurs juniors et les petits entrepreneurs débordés, la soumission d'infrastructure est l'une des phases les plus risquées d'un projet de construction. La plupart des pertes sur appel d'offres ne surviennent pas parce qu'un estimateur est incapable de mesurer une semelle sur un plan, mais à cause des **angles morts du workflow structurel** entre le métré et la tarification finale.
+Même sans compétences Excel avancées ni formation formelle en économie de la construction, ce classeur inclut un **workflow SOP numéroté intégré**. Chaque règle géométrique, chaque recherche BBS des armatures et chaque contrôle de validation est déjà pré-câblé — il vous suffit de coller vos mesures et de lire le résultat commercial instantané :
 
-Voici les trois risques commerciaux objectifs qui font perdre de l'argent aux entrepreneurs, et la façon dont la logique métier intégrée à ce modèle les élimine :
+### Étape 1 : définissez vos prix locaux de matériaux et vos facteurs de pertes (`01_Parameters`)
+Saisissez votre devise, les prix unitaires du **béton prêt à l'emploi, du terrassement, du coffrage et de l'acier d'armatures**, ainsi que votre **tolérance standard de chutes de coupe des armatures (%)** et votre **facteur de foisonnement des terrassements** dans un onglet de contrôle central unique.
+
+### Étape 2 : collez les dimensions brutes du métré de fondations (`02_Qty_Input`)
+Copiez et collez les dimensions mesurées depuis **Bluebeam, PlanSwift, CostX, AutoCAD ou des métrés manuels sur PDF** dans les colonnes de saisie propres (`A:K`) — identifiant de l'élément, référence du plan, catégorie (pieu, tête de pieu, semelle, longrine, poteau ou terrassement), dimensions, nombre et saisies de base du diamètre/nombre de barres d'armatures.
+
+### Étape 3 : consultez les volumes de béton, le BBS des armatures et le BOQ chiffré générés automatiquement (onglets de sortie `03`–`05`)
+Comme toutes les formules matricielles dynamiques sont pré-mappées, **vous n'avez jamais besoin de faire glisser des formules vers le bas ni de réparer des plages `VLOOKUP` cassées**. Ouvrez `03_Reinforcement_Engine`, `04_BOQ_Summary` et `05_Cost_Dashboard` pour afficher instantanément votre **Bar Bending Schedule (BBS)** trié par diamètre, votre **BOQ** chiffré et votre **diagnostic d'intensité d'armatures ($kg/m^3$)**.
+- 👉 [**Testez le calcul de métré béton et armatures gratuitement dans votre navigateur**](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
+
+### Étape 4 : auditez avec les indicateurs avant soumission et gérez les révisions en quelques secondes (`06_Validation`)
+Vérifiez `06_Validation` pour confirmer que chaque contrôle de géométrie, de chiffrage, d'alignement des armatures et de BOQ affiche `PASS`. Lorsque les ingénieurs structure publient une révision de plans ou un ordre de variation (VO), écrasez simplement la dimension ou le prix unitaire modifié — chaque tonnage BBS en aval et chaque total d'offre se met à jour automatiquement.
+
+---
+
+## Calculateur Web gratuit vs classeur Excel hors ligne complet à 6 onglets
+
+| Fonctionnalité | Calculateur Web en ligne gratuit | **Classeur Excel local complet à 6 onglets (Achat unique)** |
+|---|---|---|
+| **Idéal pour** | Test bac à sable instantané de 2 minutes de la géométrie de fondations et du calcul des armatures | Chiffrage commercial réel, approvisionnement en acier et projets d'infrastructure illimités |
+| **Registre multi-éléments d'infrastructure** | Test rapide en une seule session | Collez un nombre illimité de semelles, pieux, têtes de pieux, longrines, poteaux et tranchées |
+| **BBS des armatures automatisé et répartition des tonnages** | Calcul récapitulatif | Moteur complet `03_Reinforcement_Engine` avec longueurs de coupe, pertes et groupement par diamètre (`>=16mm` vs `<16mm`) |
+| **BOQ chiffré et tableau de bord d'intensité d'armatures** | Aperçu de sortie de base | `04_BOQ_Summary` complet + `05_Cost_Dashboard` (indicateurs de référence $kg/m^3$) |
+| **Audit avant soumission et détection d'erreurs** | — | Feuille dédiée `06_Validation` détectant les profondeurs manquantes, les prix à zéro et les erreurs de rapprochement |
+| **Confidentialité et réutilisation des données** | Session de navigateur | **Fichier `.xlsx` local 100 % hors ligne** — plans, prix et marges d'offres restent strictement sur votre disque |
+| **Modèle de coût et garantie** | Démo gratuite dans le navigateur | **Petit achat unique** (zéro frais SaaS) · **garantie satisfait ou remboursé de 30 jours sans condition** |
+
+> **Prêt à arrêter de ressaisir vos métrés de fondations et à détecter les erreurs coûteuses béton/armatures avant de soumissionner ?**
+> 👉 [**Obtenez le modèle Excel complet de fondations QTO, BBS et BOQ (Achat unique · Garantie 30 jours)**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
+
+---
+
+## La logique métier et la méthodologie : 3 fuites de profit cachées dans le chiffrage des fondations
+
+La plupart des pertes sur les offres d'infrastructure ne surviennent pas parce qu'un estimateur ne sait pas lire un plan de semelle — elles surviennent à cause de **trois angles morts structurels** entre le métré et le chiffrage commercial :
 
 ### 1. Éliminer la « taxe de ressaisie manuelle » entre des feuilles déconnectées
-* **Le fait objectif :** dans les workflows traditionnels, l'estimateur calcule le volume de béton dans une feuille, estime le poids d'armatures dans un deuxième fichier, puis retape manuellement ces totaux dans une troisième feuille de bordereau des quantités (BOQ) pour la tarification. Les études d'audit du secteur montrent systématiquement que les transferts de cellules manuels et les retouches de `VLOOKUP` codées en dur introduisent un **écart de quantité ou de prix de 3 % à 8 %**. Comme les marges nettes typiques d'une entreprise générale se situent entre **5 % et 10 %**, une seule ligne oubliée ou une seule liaison de formule cassée anéantit la totalité du profit du projet avant même le premier coup de pelle.
-* **La solution intégrée :** cette boîte à outils impose un pipeline de données linéaire strict, à source unique de vérité :
-  $$\text{Measured Drawing Dimensions} \longrightarrow \text{Automated Geometry (Concrete / Formwork / Earthwork)} \longrightarrow \text{Linked Rebar BBS} \longrightarrow \text{Priced Commercial BOQ} \longrightarrow \text{Automated Error Validation}$$
-  Vous saisissez les dimensions brutes une seule fois. Chaque état commercial s'alimente directement à cette saisie unique.
+- **Le risque :** calculer le béton dans un onglet, les armatures dans un deuxième fichier, puis retaper les totaux dans un troisième tableur BOQ introduit régulièrement **des erreurs de quantité ou de prix de 3 % à 8 %**. Quand les marges nettes typiques des entreprises se situent autour de **5 % à 10 %**, une seule ligne oubliée ou une liaison périmée anéantit le profit du chantier avant même le début des fouilles.
+- **Comment ce classeur le résout :** il impose un pipeline linéaire strict à source unique de vérité :
+  $$\text{Measured Drawing Dimensions} \longrightarrow \text{Automated Geometry (Concrete / Formwork / Earthwork)} \longrightarrow \text{Linked Rebar BBS} \longrightarrow \text{Priced BOQ} \longrightarrow \text{Automated Validation}$$
 
 ### 2. Révéler l'angle mort décisionnel de l'« intensité d'armatures ($kg/m^3$) »
-* **Le fait objectif :** les débutants jugent presque toujours une estimation en ne regardant que le montant final. Or les directeurs commerciaux expérimentés auditent les estimations à l'aide de **l'intensité d'armatures ($kg \text{ of steel per } m^3 \text{ of concrete}$)**. Si une semelle isolée ou une longrine commerciale standard exige typiquement **80 à 130 $kg/m^3$** d'armatures, et que votre tableur manuel produit accidentellement **25 $kg/m^3$** (à cause d'un multiplicateur de nombre de barres oublié) ou **260 $kg/m^3$** (à cause d'une erreur d'unité millimètre-mètre), regarder le coût total seul masquera l'erreur. À **25 $kg/m^3$**, vous gagnez l'appel d'offres mais subissez une perte financière massive à l'achat d'acier sur chantier ; à **260 $kg/m^3$**, votre offre est surévaluée et rejetée d'office.
-* **La solution intégrée :** le tableau de bord calcule et affiche automatiquement **l'intensité d'armatures globale et par élément ($kg/m^3$)** à côté du tonnage total, offrant aux utilisateurs novices exactement la même visibilité de diagnostic qu'un économiste de la construction senior.
+- **Le risque :** les débutants jugent les offres uniquement d'après le montant final en dollars. Les directeurs commerciaux seniors auditent les offres de fondations à l'aide de **l'intensité de ferraillage** ($kg$ d'acier par $m^3$ de béton). Si des semelles isolées ou des longrines standards exigent **80 à 130 $kg/m^3$**, une typo manuelle produisant **25 $kg/m^3$** vous fait remporter un contrat à perte — tandis que **260 $kg/m^3$** surestime votre offre au point d'un rejet automatique.
+- **Comment ce classeur le résout :** il affiche automatiquement **l'intensité globale d'armatures ($kg/m^3$)** directement sur le tableau de bord des coûts, offrant aux débutants exactement le même radar de contrôle qu'un économiste de la construction chevronné.
 
-### 3. Protéger la trésorerie contre les pertes de matières et le foisonnement des sols non comptabilisés
-* **Le fait objectif :** payer exactement le volume géométrique indiqué sur les plans structurels CAD garantit des ruptures de stock sur chantier. Les armatures exigent des tolérances de chutes de coupe et de recouvrement (généralement **5 % à 10 %**), et les terres excavées augmentent de volume une fois déblayées (facteurs de foisonnement des terrassements de **15 % à 30 %**), ce qui impacte directement le nombre de camions de transport et les coûts d'évacuation.
-* **La solution intégrée :** des cellules de paramètres globaux dédiées appliquent automatiquement les multiplicateurs de pertes et de foisonnement à tous les postes BOQ concernés, garantissant que votre prix d'offre couvre la consommation réelle sur chantier plutôt que la géométrie nette théorique.
+### 3. Protéger la marge contre les pertes non comptabilisées et le foisonnement des sols
+- **Le risque :** chiffrer la géométrie nette exacte du CAD garantit des dépassements sur chantier. Les armatures exigent des tolérances de chutes/recouvrements (**3 % à 10 %**), et les terres excavées foisonnent une fois déblayées (**15 % à 30 %** de foisonnement), ce qui alourdit les coûts de transport et d'évacuation.
+- **Comment ce classeur le résout :** des multiplicateurs de paramètres centralisés appliquent automatiquement les facteurs de pertes et de terrassement à tous les postes BOQ concernés, afin que votre offre reflète la consommation réelle du chantier.
 
 ---
 
-## Tableurs de construction manuels vs. boîte à outils Excel automatisée de métré de fondations et de BOQ
+## Tableurs manuels vs boîte à outils Excel automatisée de métré de fondations et de BOQ
 
-| Opération d'estimation de construction | Workflow traditionnel sur tableur improvisé | Boîte à outils Excel automatisée QTO et BOQ de fondations |
+| Opération d'estimation de construction | Tableurs improvisés traditionnels | **Boîte à outils Excel automatisée de QTO et BOQ de fondations** |
 | :--- | :--- | :--- |
-| **Transfert des quantités métrées vers la tarification** | Les quantités mesurées sur PDF sont ressaisies ou copiées et collées manuellement dans un onglet de tarification BOQ distinct, avec un risque élevé de désalignement de lignes et d'erreurs `#REF!`. | Les dimensions des éléments alimentent directement le **moteur de calcul BOQ automatisé** via des références structurées dynamiques, sans aucune ressaisie manuelle. |
-| **Calcul du poids d'armatures et des longueurs de coupe** | Les estimateurs calculent les Bar Bending Schedules (BBS) dans des tableaux isolés à l'aide de formules manuelles $D^2 / 162$ qui deviennent inopérantes dès que les dimensions de fondation changent. | Les **paramètres d'armatures (BBS)** sont mathématiquement liés à la géométrie de l'élément, avec calcul automatique des longueurs de barres, des déductions de pliage, des poids unitaires et des totaux par diamètre. |
-| **Changement de type d'élément d'infrastructure** | Les utilisateurs jonglent entre des onglets de calcul distincts pour les pieux forés, têtes de pieux, semelles isolées, longrines, poteaux courts et fouilles en tranchée. | Les **étiquettes de catégorie d'élément** intégrées déclenchent automatiquement la formule géométrique exacte requise pour le volume de béton, la surface de coffrage périmétrique et le terrassement. |
-| **Gestion des révisions de plans et des avenants** | Lorsqu'un ingénieur modifie la profondeur d'une semelle ou la classe de béton, les estimateurs passent des heures à traquer les cellules codées en dur dans de multiples feuilles. | La mise à jour d'une seule ligne de dimensions ou du **tableau de bord central des prix unitaires** recalcule instantanément tous les poids BBS et tous les prix d'offre en aval. |
-| **Audit de l'estimation avant remise de l'offre** | Les dimensions manquantes, les postes non tarifés ou les plages `SUM` cassées survivent régulièrement, sans que personne ne le remarque, jusqu'au dossier d'appel d'offres final remis au client. | Des **indicateurs de validation automatisés** dédiés signalent en temps réel les géométries incomplètes, les prix à zéro, les incohérences d'armatures et les écarts de rapprochement BOQ. |
+| **Transfert du métré vers le chiffrage BOQ** | Les quantités mesurées sont ressaisies dans des feuilles de chiffrage distinctes, avec un risque de décalage de lignes et d'erreurs `#REF!`. | Les dimensions alimentent directement le **moteur BOQ** via des références dynamiques structurées — zéro transcription manuelle. |
+| **Calcul du poids d'armatures et du BBS** | Les tableaux manuels isolés $D^2 / 162$ cassent dès que les dimensions de semelles ou les nombres de barres changent. | Le **BBS des armatures** est mathématiquement verrouillé sur la géométrie des éléments, avec mise à jour automatique des longueurs de coupe, des poids et des totaux par diamètre. |
+| **Changement de catégories d'éléments** | Onglets séparés pour pieux, têtes de pieux, semelles, longrines, poteaux et tranchées. | Les **étiquettes de catégorie** intégrées déclenchent automatiquement les formules exactes de béton, de périmètre de coffrage et de terrassement. |
+| **Gestion des révisions de plans et des VO** | Des heures perdues à traquer des cellules codées en dur dans plusieurs onglets après un addendum structurel. | Écrasez une dimension ou un prix — chaque tonnage BBS et chaque total BOQ en aval se rafraîchit immédiatement. |
+| **Audit avant la remise de l'offre** | Des profondeurs manquantes, des lignes non chiffrées ou des plages `SUM` cassées se glissent sans être vues dans les offres clients. | Des **indicateurs d'audit dédiés `06_Validation`** exposent en temps réel la géométrie manquante, les prix à zéro et les incohérences d'armatures. |
 
 ---
 
-## Qui doit utiliser ce modèle Excel d'estimation de fondations ? (Rôles et cas d'usage)
+## À qui s'adresse ce modèle Excel d'estimation de fondations
 
-Cette boîte à outils est conçue pour les professionnels de la construction, les entrepreneurs de corps d'état et les débutants qui ont besoin d'un pont immédiat et fiable entre **le métré sur plans, le calcul des armatures et la tarification commerciale**, sans débourser des milliers de dollars pour un logiciel ERP d'estimation d'entreprise lourd :
+- **Économistes de la construction juniors (QS) et ingénieurs coûts assistants :** exécutez un **workflow BOQ et BBS d'infrastructure** normalisé et contrôlé contre les erreurs, avec une piste d'audit transparente prête pour la revue par un directeur senior.
+- **Petites entreprises générales et constructeurs de maisons individuelles :** chiffrez avec précision les semelles de maisons, têtes de pieux, longrines et dallages pendant les saisons d'appels d'offres intenses, sans embaucher d'estimateur à temps plein ni acheter un logiciel génie civil lourd.
+- **Sous-traitants béton, coffrage et armatures :** transformez les plans structurels en tonnages d'approvisionnement en acier triés par diamètre et en offres de lots techniques compétitives en quelques minutes.
+- **Estimateurs génie civil et ingénieurs de chantier :** vérifiez en toute indépendance les demandes de paiement des sous-traitants, les réquisitions béton/acier de chantier et les ratios d'intensité de ferraillage ($kg/m^3$).
+- **Chefs de projet et représentants du maître d'ouvrage :** comparez les devis de fondations des sous-traitants et quantifiez instantanément l'impact financier des ordres de variation (VO) lorsque les plans changent.
+- **Étudiants en génie civil, stagiaires et estimateurs indépendants :** reliez la géométrie des manuels à l'appel d'offres BOQ commercial réel grâce à un modèle Excel propre et de qualité production.
 
-* **Économistes de la construction juniors (QS) et ingénieurs de coûts débutants :** à la recherche d'un **modèle Excel de bordereau des quantités (BOQ)** normalisé, doté d'une SOP intégrée qui évite les erreurs de calcul embarrassantes et maintient une piste d'audit transparente pour la revue par un senior.
-* **Petites entreprises générales et constructeurs de maisons individuelles :** ayant besoin d'un **tableur d'estimation des coûts de fondations** rapide et accessible aux débutants pour chiffrer avec précision les semelles de maison, les longrines et les dalles béton pendant les périodes de soumission intenses, sans embaucher un estimateur à temps plein.
-* **Sous-traitants béton, coffrage et armatures :** cherchant un **calculateur de poids d'armatures et une feuille Excel de Bar Bending Schedule (BBS)** automatisés pour convertir les plans structurels en tonnage d'approvisionnement acier et en offres de lots techniques compétitives en quelques minutes.
-* **Estimateurs en génie civil et ingénieurs de chantier :** nécessitant une **alternative légère aux logiciels de métré de génie civil** pour recouper les demandes de paiement des entrepreneurs, vérifier les réquisitions de matériaux sur chantier et suivre les ratios d'intensité béton-acier ($kg/m^3$).
-* **Chefs de projet construction et représentants du maître d'ouvrage :** utilisant un **modèle structuré de suivi budgétaire d'infrastructure** pour comparer les devis des sous-traitants, évaluer les options d'ingénierie de valeur et auditer l'impact financier des ordres de modification (VO).
-* **Étudiants en génie civil, stagiaires et estimateurs indépendants :** apprenant les **workflows concrets de métré et d'estimation de construction** grâce à un modèle Excel transparent et de qualité production, qui fait le lien entre la géométrie des manuels et l'appel d'offres commercial réel.
+### Applications de projets à haute fréquence
+- **Chiffrage rapide d'offres d'infrastructure** à partir de mesures PlanSwift, Bluebeam Revu, Cubicost ou AutoCAD.
+- **Bar Bending Schedule (BBS) des armatures et approvisionnement en acier** triés par diamètre de barre ($kg$ et tonnes).
+- **Quantification des révisions de plans et des ordres de variation (VO)** en quelques secondes.
+- **Audit des devis de sous-traitants** à l'aide de l'intensité $kg/m^3$ instantanée et des coûts unitaires de référence.
 
----
-
-## Scénarios de construction fréquents et applications de projets à longue traîne
-
-* **Préparation rapide de dossiers d'appel d'offres et de soumissions commerciales :** convertissez des mesures brutes exportées de **PlanSwift, Bluebeam Revu, Cubicost ou de plans AutoCAD** en un **bordereau des quantités (BOQ) d'infrastructure** entièrement chiffré et prêt pour le client, en moins de 15 minutes.
-* **Bar Bending Schedule (BBS) automatisé et approvisionnement en armatures :** générez des listes de coupe d'acier triées par diamètre et des synthèses de tonnage théorique ($kg$ et tonnes métriques) pour les commandes de fabrication d'acier, sans plugins complexes de détail CAO.
-* **Chiffrage des révisions de plans, avenants et ordres de modification (VO) :** quantifiez instantanément le coût exact et l'écart de matériaux lorsque les ingénieurs structure révisent des têtes de pieux, approfondissent des fouilles de semelles ou modifient l'espacement des armatures en cours de projet.
-* **Audit des devis de sous-traitants et vérification des références de marché :** utilisez **l'indicateur automatisé d'intensité d'armatures ($kg/m^3$)** et la ventilation des prix unitaires pour repérer les offres de sous-traitants gonflées ou les devis anormalement bas avant de signer les contrats de sous-traitance.
-* **Études de faisabilité préliminaires et budgétisation conceptuelle de l'infrastructure :** saisissez des dimensions structurelles de référence et les prix locaux des matériaux pour établir des estimations de coûts de fondations défendables en phase amont, pour des projets résidentiels, commerciaux ou industriels.
-
-*(Avertissement d'ingénierie : cette boîte à outils est conçue pour automatiser les mathématiques du métré, l'agrégation BBS et la tarification commerciale BOQ. Elle ne remplace pas un logiciel de conception structurelle agréé tel que ETABS, STAAD.Pro ou SAFE. Les utilisateurs doivent toujours vérifier les règles de détail des armatures, les longueurs de recouvrement, les facteurs de perte et les prix unitaires au regard des plans structurels propres au projet, des codes de construction locaux et des conditions géotechniques du site.)*
+*(Avertissement d'ingénierie : cette boîte à outils automatise les calculs de métré de quantités, l'agrégation BBS et le chiffrage commercial BOQ. Elle ne remplace pas les logiciels de conception structurelle agréés tels que ETABS, STAAD.Pro ou SAFE. Vérifiez toujours les règles de détail, les longueurs de recouvrement, les facteurs de pertes et les prix unitaires au regard des plans structurels propres au projet, des codes locaux et des rapports géotechniques.)*
 
 ---
 
-## À propos de Theseus Workshop : des boîtes à outils Excel pragmatiques d'aide à la décision et d'exploitation
+## À propos de Theseus Workshop — boîtes à outils Excel hors ligne plug-and-play pour l'aide à la décision
 
-Je conçois des **modèles Excel et des outils d'aide à la décision dans le navigateur** légers et prêts pour la production, destinés à des workflows opérationnels et commerciaux qui comportent trop d'éléments variables pour être gérés de façon fiable dans un tableur improvisé ou de mémoire.
+**Theseus Workshop** conçoit des boîtes à outils Excel légères, abordables et stockées localement pour l'aide à la décision, destinées aux entrepreneurs de terrain, estimateurs, professionnels QS et exploitants qui veulent **une clarté analytique de niveau direction en quelques minutes — sans logiciels d'entreprise encombrants ni abonnements SaaS récurrents**.
 
-Chaque boîte à outils de **Theseus Workshop** repose sur un principe d'ingénierie central :
+- 📥 [**Obtenez ce modèle Excel complet de fondations QTO, BBS et BOQ**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
+- 🎁 [**Commencez gratuitement : modèle Excel mensuel de CVR et charges à payer pour la construction (\$0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_qto_readme_crosslink)
+- 🧰 [**Explorez la bibliothèque complète des boîtes à outils Theseus Workshop (`theseusworkshop.com`)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README_About)
 
-> **Quelle information critique doit être reliée en un seul endroit pour que vous puissiez prendre la prochaine décision commerciale avec une confiance totale ?**
-
-Cette **boîte à outils de métré de fondations (QTO), BBS et estimation des coûts BOQ** applique ce principe à la soumission d'infrastructures de génie civil : elle relie les dimensions brutes des plans, les quantités de béton, de terrassement et de coffrage, le détail des armatures, la tarification commerciale et la validation des erreurs dans un workflow SOP unique, réutilisable et infaillible pour les débutants.
-
-### Découvrez d'autres boîtes à outils métier et d'ingénierie prêtes à l'emploi
-* 🛒 **[Visiter la boutique officielle Theseus Workshop (`theseusworkshop.com`)](https://theseusworkshop.com)** — Parcourez notre catalogue complet de modèles Excel prêts à l'emploi, de modèles d'analyse commerciale automatisée et de boîtes à outils SOP opérationnelles, conçus pour vous faire gagner des heures de travail manuel sur tableur.
-* 📥 **[Obtenir ici le modèle Excel hors ligne de métré de fondations QTO, BBS et estimation des coûts BOQ](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)** — Téléchargement numérique instantané (.xlsx), avec accès à vie et garantie satisfait ou remboursé de 30 jours.
+---
 
 ## Détails techniques
 
 <details>
-<summary>Pour les relecteurs techniques, les praticiens d'Excel et les collaborateurs</summary>
+<summary><strong>Pour les relecteurs techniques, les praticiens d'Excel et les collaborateurs (architecture en 6 feuilles, 3 pièges du métré, scénario d'exemple, référence des formules et règles de validation)</strong></summary>
 
 ### Architecture du classeur
 
-Le classeur est structuré en une chaîne de calcul contrôlée de six feuilles :
+Le classeur est structuré comme une chaîne de calcul contrôlée en six feuilles :
 
 | Feuille | Rôle | Sortie principale |
 |---|---|---|
-| `01_Parameters` | Configuration centralisée des paramètres | Devise, prix des matériaux, constante d'armatures, tolérance de pertes, facteur de terrassement |
+| `01_Parameters` | Configuration centrale des paramètres | Devise, prix des matériaux, constante d'armatures, tolérance de pertes, facteur de terrassement |
 | `02_Qty_Input` | Couche principale de saisie des données | Quantités d'éléments, volume de béton, surface de coffrage, saisie des armatures |
-| `03_Reinforcement_Engine` | Moteur de calcul des armatures | Longueur de coupe, nombre de barres, mètres linéaires, poids théorique, total en tonnes |
+| `03_Reinforcement_Engine` | Moteur de calcul des armatures | Longueur de coupe, nombre de barres, mètres linéaires, poids théorique, tonnage total |
 | `04_BOQ_Summary` | Agrégation commerciale | Quantités BOQ, prix unitaires, montants par poste, coût total estimé |
 | `05_Cost_Dashboard` | Analyse de gestion | Coût total, quantités de matériaux, structure des coûts, intensité d'armatures |
-| `06_Validation` | Contrôle d'intégrité et des erreurs | État de la géométrie, de la tarification, de l'alignement des armatures et du rapprochement BOQ |
+| `06_Validation` | Contrôle d'intégrité et d'erreurs | Statut de la géométrie, du chiffrage, de l'alignement des armatures et du rapprochement BOQ |
 
 Le flux de données prévu est le suivant :
 
@@ -174,48 +197,30 @@ Measured Drawings / Takeoff Data
 01_Parameters
       │
       └──────► shared assumptions and rates
-````
+```
 
-La spécification source définit `02_Qty_Input` comme la feuille de saisie manuelle principale, les colonnes `A:K` étant utilisées pour les identifiants d'éléments, les références de plans, les catégories, les dimensions, les quantités et les paramètres d'armatures. Les champs calculés occupent `L:P`. 
+La spécification source définit `02_Qty_Input` comme la feuille de saisie manuelle principale, les colonnes `A:K` étant utilisées pour les identifiants d'éléments, les références de plans, les catégories, les dimensions, les quantités et les paramètres d'armatures. Les champs calculés occupent `L:P`.
 
-Le moteur d'armatures est piloté par des formules et ne filtre que les éléments contenant des paramètres d'armatures. Sa sortie comprend la référence de l'élément, la catégorie, le diamètre de barre, la longueur de coupe, le nombre total de barres, le total de mètres linéaires, le poids unitaire théorique, le poids net et le poids incluant les pertes. 
+Le moteur d'armatures est piloté par des formules et ne filtre que les éléments contenant des paramètres d'armatures. Sa sortie comprend la référence de l'élément, la catégorie, le diamètre de barre, la longueur de coupe, le nombre total de barres, le total de mètres linéaires, le poids unitaire théorique, le poids net et le poids incluant les pertes.
 
-La couche BOQ agrège six postes d'estimation prédéfinis couvrant le terrassement, le béton de pieux, le béton de fondations structurelles, le coffrage, les armatures à `>=16mm` et les armatures inférieures à `16mm`. 
+La couche BOQ agrège six postes d'estimation prédéfinis couvrant le terrassement, le béton des pieux, le béton des fondations structurelles, le coffrage, les armatures à $\ge 16\text{ mm}$ et les armatures inférieures à $16\text{ mm}$.
 
-### Trois pièges qui guettent même les estimateurs expérimentés
+---
 
-#### Piège 1 — Métré correct, total commercial erroné
+### Trois pièges qui prennent au dépourvu même les estimateurs expérimentés
 
-1. **Une décision a été prise :**
-   Un prix d'offre est préparé à partir des quantités de fondations métrées.
+#### Piège 1 — Un métré correct, un total commercial erroné
 
-2. **Le défaut caché :**
-   Les valeurs de quantités et les prix commerciaux sont maintenus dans des tableaux distincts, copiés manuellement.
-
-3. **En quoi le défaut change la recommandation :**
-   Une révision de prix peut laisser une partie de l'estimation sur une hypothèse ancienne, ce qui fait paraître l'offre plus compétitive qu'elle ne l'est réellement.
-
-4. **Pourquoi le raisonnement est incorrect :**
-   Le résultat commercial n'est plus une fonction fiable des hypothèses actuelles du projet.
-
-5. **Approche corrigée :**
-   Maintenir les prix de référence de façon centralisée et calculer les montants BOQ à partir des totaux de quantités actuels.
-
-6. **Résultat décisionnel corrigé :**
-   Une modification de prix se propage dans les valeurs BOQ concernées, ce qui permet à l'estimateur de revoir la position d'offre qui en résulte depuis une chaîne de calcul unique.
+1. **Décision :** un prix d'offre est préparé à partir des quantités de fondations métrées.
+2. **Défaut caché :** les valeurs de quantités et les prix commerciaux vivent dans des tableaux distincts copiés manuellement.
+3. **Impact :** une révision de prix laisse une partie de l'estimation sur une hypothèse ancienne, faisant paraître l'offre faussement compétitive.
+4. **Approche corrigée :** maintenir les prix de référence de façon centralisée dans `01_Parameters` et calculer les montants BOQ dynamiquement à partir des totaux actuels.
 
 <details>
 <summary>Référence des formules</summary>
 
-Le montant BOQ suit la relation de base :
-
 ```excel
 =Quantity*Unit_Rate
-```
-
-Le total est ensuite rapproché ainsi :
-
-```excel
 =SUM(F5:F10)
 ```
 
@@ -223,34 +228,15 @@ Le total est ensuite rapproché ainsi :
 
 #### Piège 2 — Un tonnage d'armatures plausible mais déconnecté
 
-1. **Une décision a été prise :**
-   L'approvisionnement en acier repose sur un total d'armatures préparé séparément.
-
-2. **Le défaut caché :**
-   La synthèse acier n'est pas directement liée aux dimensions au niveau des éléments, aux diamètres de barres, aux quantités et aux longueurs de coupe calculées.
-
-3. **En quoi le défaut change la recommandation :**
-   Une modification du nombre d'éléments ou de la géométrie peut changer les armatures nécessaires alors que le chiffre d'approvisionnement reste inchangé.
-
-4. **Pourquoi le raisonnement est incorrect :**
-   Un total plausible ne suffit pas si sa source ne peut pas être rattachée à la saisie structurelle actuelle.
-
-5. **Approche corrigée :**
-   Dériver les enregistrements d'armatures depuis le même tableau de saisie des éléments et calculer les mètres linéaires totaux avant de convertir en poids théorique.
-
-6. **Résultat décisionnel corrigé :**
-   L'estimation d'armatures évolue avec les données d'éléments sous-jacentes et peut être rapprochée du nombre d'éléments source.
+1. **Décision :** l'approvisionnement en acier est commandé à partir d'un récapitulatif d'armatures préparé séparément.
+2. **Défaut caché :** le récapitulatif acier n'est pas directement lié aux dimensions au niveau des éléments, aux diamètres de barres, aux nombres et aux longueurs de coupe.
+3. **Impact :** une révision du nombre d'éléments ou de la géométrie modifie le besoin réel en acier pendant que l'approvisionnement reste périmé.
+4. **Approche corrigée :** dériver tous les enregistrements d'armatures directement de `02_Qty_Input`, calculer les mètres linéaires et convertir en poids théorique avec tolérance de pertes.
 
 <details>
 <summary>Référence des formules</summary>
 
-L'implémentation utilise la relation théorique des armatures :
-
-```excel
-W = den * d^2
-```
-
-puis convertit la valeur en kilogrammes obtenue en tonnes après application de la tolérance de pertes configurée :
+Le poids unitaire théorique suit $W = \text{den} \cdot d^2$, converti en tonnes métriques avec tolérance de pertes :
 
 ```excel
 =(tot_m*(den*dia*dia)*(1+waste))/1000
@@ -260,28 +246,13 @@ puis convertit la valeur en kilogrammes obtenue en tonnes après application de 
 
 #### Piège 3 — Une saisie manquante prise pour un résultat à bas coût
 
-1. **Une décision a été prise :**
-   L'estimation apparaît anormalement basse et est acceptée comme un chiffre compétitif.
-
-2. **Le défaut caché :**
-   Un élément structurel présente une quantité positive mais une dimension omise ou nulle.
-
-3. **En quoi le défaut change la recommandation :**
-   La dimension manquante peut réduire la quantité calculée et donc sous-estimer la valeur commerciale.
-
-4. **Pourquoi le raisonnement est incorrect :**
-   Le modèle produit un résultat mathématiquement valide à partir de données de construction incomplètes. La validité mathématique ne garantit pas la validité de l'estimation.
-
-5. **Approche corrigée :**
-   Valider la géométrie requise et les données de tarification avant d'accepter l'estimation.
-
-6. **Résultat décisionnel corrigé :**
-   L'estimation est revue avant de devenir un engagement d'offre ou d'approvisionnement.
+1. **Décision :** une estimation anormalement basse est acceptée comme une offre compétitive.
+2. **Défaut caché :** un élément structurel a un nombre positif mais une profondeur/hauteur omise ou nulle.
+3. **Impact :** une hauteur nulle supprime silencieusement le volume — le calcul est valide, mais l'offre est fatalement sous-évaluée.
+4. **Approche corrigée :** exécuter les contrôles de validation automatisés de la géométrie et des prix dans `06_Validation` avant d'accepter tout total d'offre.
 
 <details>
 <summary>Référence des formules</summary>
-
-La couche de validation recherche les éléments hors terrassement dont le nombre est positif mais dont la profondeur/hauteur manque :
 
 ```excel
 =IF(
@@ -297,50 +268,38 @@ La couche de validation recherche les éléments hors terrassement dont le nombr
 
 </details>
 
+---
+
 ### Scénario d'exemple
 
-Prenons une estimation de fondations comprenant des pieux, des têtes de pieux, des longrines, des poteaux courts et du terrassement.
+Considérons une estimation de fondations comprenant des pieux, des têtes de pieux, des longrines, des poteaux courts et des fouilles :
 
-Le workflow commence par des saisies au niveau des éléments, telles que :
-
-| Saisie                      |           Exemple |
+| Saisie                       |           Exemple |
 | --------------------------- | ----------------: |
 | Diamètre du pieu            |            0.60 m |
 | Profondeur du pieu          |           18.00 m |
 | Quantité de pieux           |                24 |
-| Longueur de tête de pieu    |            2.40 m |
-| Largeur de tête de pieu     |            2.40 m |
-| Profondeur de tête de pieu  |            0.80 m |
+| Longueur de la tête de pieu |            2.40 m |
+| Largeur de la tête de pieu  |            2.40 m |
+| Profondeur de la tête de pieu |            0.80 m |
 | Quantité de têtes de pieux  |                 6 |
-| Diamètre acier principal    |             20 mm |
-| Nombre d'aciers principaux  | 16 barres / élément |
+| Diamètre des armatures principales |     20 mm |
+| Quantité d'armatures principales | 16 barres / élément |
 
-La couche de saisie calcule la quantité propre à la géométrie de chaque élément. Les éléments circulaires utilisent le calcul basé sur le diamètre, tandis que les éléments rectangulaires utilisent longueur × largeur × profondeur. Le terrassement reçoit le facteur de terrassement configuré séparément des quantités d'éléments structurels. 
+La couche de saisie calcule le volume propre à la géométrie de chaque élément : les éléments circulaires utilisent le volume basé sur le diamètre ($\pi (d/2)^2 h$), les éléments rectangulaires utilisent $\text{Length} \times \text{Width} \times \text{Depth}$, et le terrassement applique séparément le facteur de foisonnement configuré. Le moteur d'armatures filtre les éléments armés, dérive les nombres totaux de barres et les longueurs de coupe, et convertit les mètres linéaires en tonnes incluant les pertes. Ces quantités alimentent directement `04_BOQ_Summary` et `05_Cost_Dashboard`, confirmant non seulement *« Quel est le total ? »* mais aussi *« La géométrie, l'intensité d'armatures ($kg/m^3$), les prix unitaires et les totaux BOQ sont-ils cohérents en interne et traçables ? »*
 
-Le moteur d'armatures filtre ensuite les éléments comportant des informations d'armatures et dérive le nombre total de barres à partir de la quantité d'éléments et du nombre d'armatures spécifié. La longueur de coupe est ajustée selon la catégorie d'élément, et le total de mètres linéaires est converti en poids théorique à l'aide de la constante de diamètre et de la tolérance de pertes configurées. 
-
-Les quantités obtenues alimentent le BOQ. Les quantités de béton, de coffrage, de terrassement et d'armatures sont multipliées par leurs prix configurés pour produire les montants par poste et un coût total estimé. 
-
-La couche de gestion expose ensuite le résultat commercial à travers un ensemble plus restreint d'indicateurs : coût total, volume de béton, tonnage d'armatures, quantité de terrassement et intensité d'armatures par mètre cube de béton structurel. 
-
-La décision finale n'est pas simplement **« Quel est le total ? »**
-
-C'est :
-
-**« La quantité, le besoin d'armatures, l'hypothèse de prix et le total commercial forment-ils une estimation traçable et cohérente en interne ? »**
-
-Cette distinction est importante lorsque le classeur sert à la revue de l'appel d'offres, à la préparation budgétaire ou à la planification des approvisionnements.
+---
 
 ### Référence des formules
 
 <details>
 <summary>Géométrie des éléments</summary>
 
-Pour les éléments circulaires, l'implémentation calcule le volume à partir du diamètre et de la hauteur/profondeur :
+Pour les éléments circulaires, le volume est calculé à partir du diamètre et de la hauteur/profondeur ; les éléments rectangulaires retombent sur $\text{Length} \times \text{Width} \times \text{Height}$ :
 
 ```excel
 =LET(
-    len, A5:INDEX(D:D, COUNTA(A:A)),
+    len, D5:INDEX(D:D, COUNTA(A:A)),
     wid, E5:INDEX(E:E, COUNTA(A:A)),
     hgt, F5:INDEX(F:F, COUNTA(A:A)),
     dia, G5:INDEX(G:G, COUNTA(A:A)),
@@ -348,18 +307,10 @@ Pour les éléments circulaires, l'implémentation calcule le volume à partir d
 )
 ```
 
-Pour les éléments rectangulaires, le calcul retombe sur :
-
-```text
-Length × Width × Height
-```
-
 </details>
 
 <details>
 <summary>Quantité de terrassement</summary>
-
-Le terrassement reçoit le facteur configuré dans `01_Parameters` :
 
 ```excel
 =LET(
@@ -374,14 +325,10 @@ Le terrassement reçoit le facteur configuré dans `01_Parameters` :
 )
 ```
 
-L'implémentation maintient donc le facteur de terrassement en dehors du calcul géométrique de base et l'applique selon la catégorie d'élément. 
-
 </details>
 
 <details>
 <summary>Calcul du coffrage</summary>
-
-La quantité de coffrage est déterminée à partir de la catégorie d'élément :
 
 ```excel
 =LET(
@@ -402,14 +349,12 @@ La quantité de coffrage est déterminée à partir de la catégorie d'élément
 )
 ```
 
-Cela reflète le traitement, tel que déclaré dans l'implémentation, des surfaces de contact de coffrage par catégorie d'élément. 
-
 </details>
 
 <details>
 <summary>Poids des armatures</summary>
 
-Le moteur d'armatures calcule le poids total à l'aide de la constante de poids théorique et de la tolérance de pertes configurées :
+La table des paramètres définit la constante de poids théorique à `0.006165` et la tolérance de pertes d'armatures par défaut à `3.0%` :
 
 ```excel
 =LET(
@@ -421,36 +366,14 @@ Le moteur d'armatures calcule le poids total à l'aide de la constante de poids 
 )
 ```
 
-La table des paramètres définit la constante de poids théorique à `0.006165` et la tolérance de pertes d'armatures par défaut à `3.0%`. 
-
 </details>
 
 <details>
 <summary>Agrégation BOQ</summary>
 
-Le BOQ utilise une agrégation par catégorie, par exemple :
-
 ```excel
-=SUMIFS(
-    '02_Qty_Input'!M:M,
-    '02_Qty_Input'!C:C,
-    "Earthwork"
-)
-```
-
-et une agrégation par diamètre d'armatures, par exemple :
-
-```excel
-=SUMIFS(
-    '03_Reinforcement_Engine'!I:I,
-    '03_Reinforcement_Engine'!C:C,
-    ">=16"
-)
-```
-
-Le total BOQ final est :
-
-```excel
+=SUMIFS('02_Qty_Input'!M:M, '02_Qty_Input'!C:C, "Earthwork")
+=SUMIFS('03_Reinforcement_Engine'!I:I, '03_Reinforcement_Engine'!C:C, ">=16")
 =SUM(F5:F10)
 ```
 
@@ -459,7 +382,7 @@ Le total BOQ final est :
 <details>
 <summary>Indicateurs du tableau de bord des coûts</summary>
 
-L'indicateur d'intensité d'armatures est calculé ainsi :
+Intensité d'armatures exprimée en $kg$ d'acier par $m^3$ de béton structurel :
 
 ```excel
 =LET(
@@ -469,21 +392,19 @@ L'indicateur d'intensité d'armatures est calculé ainsi :
 )
 ```
 
-Cette valeur exprime la consommation d'armatures en kilogrammes par mètre cube de béton structurel. 
-
 </details>
+
+---
 
 ### Règles de validation
 
 | Champ / Contrôle       | Règle                                                                                          | Comportement en cas d'erreur          |
 | ----------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------- |
-| Complétude géométrique  | Les éléments hors terrassement dont le nombre est positif doivent avoir une hauteur/profondeur positive. | `FAIL`                                |
-| Validité des prix unitaires | Les prix configurés du béton, du terrassement, du coffrage et des armatures doivent être supérieurs à zéro. | `WARNING`                             |
-| Alignement des armatures | Les lignes d'armatures générées doivent correspondre aux éléments saisis contenant des données d'armatures. | `MISMATCH`                            |
-| Rapprochement BOQ       | Le total BOQ doit être égal à la somme des valeurs quantité × prix unitaire après arrondi.     | `ERR`                                 |
-| Intégrité des matrices dynamiques | Les plages de propagation des formules doivent rester libres de valeurs saisies manuellement ou de cellules fusionnées. | `#SPILL!` nécessite le nettoyage de la zone de saisie |
-
-La matrice de validation source définit quatre contrôles essentiels couvrant la géométrie, la tarification, l'alignement des lignes d'armatures et le rapprochement des montants BOQ. 
+| Complétude géométrique   | Les éléments hors terrassement avec un nombre positif doivent avoir une hauteur/profondeur positive.               | `FAIL`                                |
+| Validité des prix unitaires      | Les prix configurés du béton, du terrassement, du coffrage et des armatures doivent être supérieurs à zéro. | `WARNING`                             |
+| Alignement des armatures | Les lignes d'armatures générées doivent correspondre aux éléments saisis contenant des données d'armatures.    | `MISMATCH`                            |
+| Rapprochement BOQ       | Le total BOQ doit être égal à la somme des quantités par poste multipliées par le prix unitaire après arrondi.    | `ERR`                                 |
+| Intégrité des matrices dynamiques | Les plages de propagation des formules doivent rester libres de toute valeur saisie manuellement ou de cellules fusionnées.     | `#SPILL!` nécessite le nettoyage de la zone de saisie |
 
 </details>
 
@@ -491,18 +412,32 @@ La matrice de validation source définit quatre contrôles essentiels couvrant l
 
 ## Autres outils de cette série
 
-* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — La conception de l'arbre satisfait-elle la logique de calcul applicable ? — Appliquez les normes de calcul d'arbre DIN 743 aux décisions de conception technique.
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Combien coûtera ce périmètre de construction dans les hypothèses actuelles ? — Normalisez l'estimation d'appel d'offres de construction et transformez les estimations réalisées en bibliothèques de coûts réutilisables.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Comment les estimations et les coûts suivis se comparent-ils tout au long de la réalisation ? — Comparez les estimations de construction aux coûts réels pendant toute la réalisation du projet, au format standard AIA.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — La situation financière du projet est-elle exacte après intégration des modifications approuvées, des coûts réels et de l'avancement de la facturation ? — Intégrez budgets, ordres de modification, facturation à l'avancement et trésorerie dans un cadre unique de contrôle de projet de construction.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Quelle option énergétique offre le coût total de possession le plus bas pour ce projet précis, dans ses conditions d'exploitation réelles ? — Comparez les sources d'énergie industrielles sur une base d'énergie réellement utile, en normalisant les coûts de combustible, l'efficacité des équipements, l'investissement en infrastructures et les coûts de possession sur le cycle de vie.
-* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Combien coûtera ce projet résidentiel et quels lots sont déjà en dépassement budgétaire ? — Estimez les coûts de construction résidentielle à partir des métrés et des prix BOQ, tout en suivant les budgets approuvés par rapport aux dépenses réelles.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Combien coûtera ce projet de tunnel à l'explosif dans le cycle de construction supposé ? — Estimez les besoins de terrassement, de forage, de tir, de soutènement, d'équipement et de main-d'œuvre d'un tunnel à l'explosif pour obtenir un coût de projet et un BOQ complets.
+Explorez davantage de boîtes à outils Excel légères et plug-and-play pour l'aide à la décision de **[Theseus Workshop](https://theseusworkshop.com/)** :
+
+- 🎁 **[Modèle Excel mensuel de CVR et charges à payer pour la construction (Gratuit · \$0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *Commencez ici gratuitement :* rapprochez la valeur certifiée, les charges à payer de chantier non facturées, le risque d'avenants et les prévisions de profit EAC en fin de mois.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Normalisez l'estimation complète des appels d'offres de construction et transformez les offres réalisées en bibliothèques de coûts réutilisables.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Intégrez les budgets par code de coûts, les avenants, la facturation à l'avancement du calendrier des valeurs (SOV), les retenues de garantie et la trésorerie glissante dans un cadre de contrôle unique par projet.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Comparez les estimations de construction aux coûts réels tout au long de la réalisation du projet, aux formats standard AIA.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Estimez les coûts de construction résidentielle à partir des métrés et des prix BOQ, tout en suivant les budgets approuvés par rapport aux dépenses réelles.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Estimez l'excavation de tunnel à l'explosif, le soutènement, l'équipement et la main-d'œuvre dans un BOQ complet.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Comparez les sources d'énergie industrielles sur la base du coût total de possession en énergie réellement utile sur le cycle de vie.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Appliquez les normes de calcul d'arbres DIN 743 aux décisions de conception technique.
+
+---
+
+## Questions, retours et mises à jour produit
+
+Cette boîte à outils de métré de fondations est conçue autour du relevé pratique de l'infrastructure, des quantités de béton et de coffrage, de la planification des armatures et des workflows de chiffrage BOQ. Utilisez les canaux ci-dessous pour séparer les rapports de bugs techniques des questions de workflow et des idées produit :
+
+- **Questions et adéquation au workflow :** [Posez vos questions sur les saisies de semelles, pieux, dallages ou longrines ; les volumes de béton ; le coffrage ; le BBS des armatures ; ou les sorties BOQ chiffrées](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Idées et améliorations :** [Suggérez des éléments structurels supplémentaires, des règles de métré, des plannings d'armatures, des contrôles de validation ou des rapports de coûts](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Signaler un problème technique :** [Ouvrez le formulaire de rapport de bug du QTO de fondations](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/issues/new?template=bug-report.yml).
+- **Mises à jour produit :** [Suivez les notes de maintenance et d'amélioration](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+Lorsque vous décrivez un problème, mentionnez le type d'élément, la feuille de calcul, les dimensions saisies, le diamètre ou la quantité de barres concernés, ainsi que le résultat attendu et le résultat obtenu. Utilisez des dimensions et des prix synthétiques. Ne téléversez pas de plans clients, d'appels d'offres en cours, de fichiers de conception structurelle, de plannings d'armatures contenant des détails confidentiels du projet ni de devis de fournisseurs.
 
 ## Licence
 
 Ce projet est publié sous la **Apache License 2.0**.
 
 Consultez le fichier [`LICENSE`](LICENSE) pour les conditions complètes de la licence.
-
-
