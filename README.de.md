@@ -1,152 +1,175 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
+# Excel-Vorlage für Bau-Gründungs-Mengenermittlung (QTO), Bewehrungs-BBS & Leistungsverzeichnis (BOQ) (kostenloser Web-Rechner) — Betonvolumen, Schalung & Kostenschätzer
 
-# Excel-Vorlage für Mengenermittlung (QTO) und Leistungsverzeichnis (BOQ) im Gründungsbau: Automatisierte Bewehrungs-Biegeformliste (BBS), Betonvolumen und Kostenkalkulator
-<img width="1049" height="790" alt="image" src="https://github.com/user-attachments/assets/55faa135-a626-40be-b88a-ee7264fbc96a" />
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Excel Workbook: One-Time Purchase](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase-1E3A8A.svg)
+![Interactive Demo: Free Web Calculator](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Guarantee: 30-Day Money-Back](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
+<img width="1049" height="790" alt="Construction Foundation Quantity Takeoff QTO, Rebar BBS and BOQ Excel Template Overview" src="https://github.com/user-attachments/assets/55faa135-a626-40be-b88a-ee7264fbc96a" />
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)](#access)
-[![Tool Type](https://img.shields.io/badge/Tool-Construction%20Estimation%20Software-orange.svg)](#what-it-helps-track)
+**Verlieren Sie keine Ausschreibungen für den Unterbau mehr durch manuelle Aufmaß-Tippfehler, isolierte Bewehrungsblätter und versteckte Fehler im Beton-/Stahl-Kennwertverhältnis.** Diese sofort einsetzbare **Excel-Arbeitsmappe mit 6 Registerkarten für Gründungs-Mengenermittlung (QTO), Biegeformliste (BBS) & BOQ-Kostenschätzung** (gekoppelt mit einem **kostenlosen Online-Browser-Rechner**) wandelt rohe Abmessungen von Fundamenten, Pfählen, Pfahlköpfen, Gründungsbalken, Stützen und Gräben direkt in präzise **Betonvolumina ($m^3$), Schalungsflächen ($m^2$), Erdarbeiten-Mengen, nach Durchmesser sortierte Bewehrungstonnagen, Prüfungen der Bewehrungsintensität ($kg/m^3$) und bepreiste Leistungsverzeichnisse (BOQ)** um — ohne manuelles Ziehen von Formeln, ohne VBA-Makros und ohne teure Software-Abos für Bauaufmaß.
 
-**Ein sofort einsetzbarer Kalkulator für Gründungskonstruktionen und eine Excel-Vorlage zur Kostenkalkulation (.xlsx)** – entwickelt für Einsteiger, kleine Bauunternehmer und Baukostenplaner. Wandeln Sie rohe Abmessungen von Fundamenten, Pfählen, Platten und Balken sofort in präzise **Betonvolumina ($m^3$), Erdbau-Aushubmengen, Schalungsflächen ($m^2$), automatisierte Biegeformlisten (BBS) für den Bewehrungsstahl in Tonnen und bepreiste Leistungsverzeichnisse (BOQ)** um – als sofort nutzbare **Alternative zu kommerzieller Baukalkulationssoftware**, die weder manuelles Ziehen von Formeln noch Makro-Einrichtung erfordert.
+> ### In Minuten loslegen
+>
+> - 📥 **Holen Sie sich die vollständige Offline-Excel-Arbeitsmappe für Aufmaß & BBS mit 6 Registerkarten (Einmalkauf · 30-tägige bedingungslose Geld-zurück-Garantie):** [**Die vollständige Excel-Vorlage für Gründungs-QTO, BBS & BOQ (.xlsx) auf Theseus Workshop herunterladen**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README) — ungeschütztes lokales `.xlsx`-System mit eingebettetem SOP-Workflow, selbstaktualisierenden dynamischen Formeln, Bewehrungs-BBS-Engine und Validierungsprüfungen vor der Angebotsabgabe. Unbegrenzt projektübergreifend wiederverwendbar, 100 % Offline-Datenschutz, keine wiederkehrenden SaaS-Gebühren.
+> - 🌐 **Testen Sie die Aufmaß-Mathematik zuerst live (100 % kostenloser Browser-Rechner · keine Registrierung):** [**Den kostenlosen webbasierten Gründungs-QTO- & Betonbewehrungs-Rechner starten**](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/) und einen sofortigen Unterbau-Check direkt in Ihrem Browser durchführen.
+> - 🎁 **Neu bei Theseus Workshop und möchten Sie zuerst eine Offline-Excel-Datei für \$0 testen?** Holen Sie sich unsere [**Kostenlose monatliche Bau-CVR- & Accruals-Excel-Vorlage (\$0+ Pay What You Want)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_qto_readme_crosslink), um unsere sofort einsetzbare Excel-Qualität offline zu testen, bevor Sie Ihren Unterbau-Aufmaß-Workflow aufrüsten.
+
+---
+
+## Wie dieses Gründungs-QTO- & BBS-Toolkit in Ihren gesamten kaufmännischen Workflow passt
+
+Wenn Sie unsere **kostenlose monatliche CVR- & Accruals-Vorlage** bereits heruntergeladen haben, wissen Sie, wie schnell ein zu niedrig bepreistes Beton- oder Bewehrungspaket die Projektmarge auf der Baustelle ruinieren kann. **Unterbau-Verluste beginnen fast immer bei der Zeichnungs-Mengenermittlung** — wenn manuelles erneute Eintippen zwischen Geometrie, Bewehrungsblättern und BOQ-Preisbildung einen Mengenfehler von 5 %–10 % verbirgt.
+
+So fügt sich diese Arbeitsmappe in die übrige **Theseus Workshop**-Bau-Suite ein:
+
+| Kaufmännische Phase | Toolkit in der Theseus Workshop-Suite | Der teure Fehler, den es beseitigt |
+|---|---|---|
+| **Phase 1A — Zeichnungs-Aufmaß & Bewehrungs-Detailplanung** | **Diese Arbeitsmappe: Gründungs-QTO-, BBS- & BOQ-Kalkulator** (*Einmalkauf*) | Beseitigt manuelle Übertragung zwischen Fundament-/Pfahlabmessungen, Beton-/Schalungsvolumina, Bewehrungs-Biegeformlisten (BBS) und Unterbau-BOQ-Preisbildung |
+| **Phase 1B — Ausschreibungspreisbildung für das Gesamtprojekt** | [Construction Estimating & BOQ Pricing Workbench](https://github.com/HyVoid/construction-estimating) (*Einmalkauf*) | Normalisiert vollständige Mehr-Gewerke-Kunden-BOQs in wiederverwendbare Kostengruppen, Produktivitätsfaktoren und Procore-fähige Budgets |
+| **Phase 2 — Laufende Projektabwicklung** | [Construction Project Management & Cash Flow Workbook](https://github.com/HyVoid/construction-project-management-excel) (*Einmalkauf*) | Steuert wöchentliche Kostenarten-Budgets, genehmigte Nachträge, SOV-Fortschrittsrechnungen, Einbehalthalterungen und rollierenden Cashflow |
+| **Phase 3 — Monatsabschluss-Gewinnprüfung** | [Monthly Construction CVR & Accruals Template](https://github.com/HyVoid/construction-cvr-accruals-excel-template) (**Kostenlos · \$0+ PWYW**) | Gleicht Buchgewinn gegen nicht fakturierte Baustellen-Accruals, Nachtragsrisiken und Margenabweichungen der geschätzten Endkosten (EAC) zum Monatsende ab |
+
+---
+
+## Was sie erfasst & automatisiert: Schmerzpunkte der Unterbau-Mengenermittlung mit Sofort-Kontrollen verknüpft
 
 <p align="center">
-  <img width="1381" height="827" alt="Dashboard der Excel-Vorlage für Mengenermittlung (QTO) und BOQ-Kostenkalkulation im Gründungsbau mit Berechnungen zu Betonvolumen und Bewehrungsgewicht" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
+  <img width="1381" height="827" alt="Construction Foundation Quantity Takeoff QTO and BOQ Cost Estimation Excel Template Dashboard showing concrete volume and rebar weight calculations" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
 </p>
 
-> **Testen Sie den Live-Kalkulator im Browser oder laden Sie die dauerhaft offline nutzbare Excel-Arbeitsmappe herunter:**  
-> Prüfen Sie die Berechnungslogik sofort im Browser oder laden Sie die ungeschützte, beliebig wiederverwendbare **Excel-Kalkulationsarbeitsmappe von Microsoft Excel** für die lokale Projektablage, die Einreichung von Kundenangeboten, revisionssichere Finanznachweise und die hektische Ausschreibungsphase herunter (abgesichert durch eine 30-Tage-Geld-zurück-Garantie).
->
-> * [🌐 **Den kostenlosen webbasierten Kalkulator für Gründungs-QTO und Betonbewehrung starten** *(Sofortige Online-Vorschau – keine Kontoregistrierung, keine Softwareinstallation)*](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
-> * [📥 **Die Offline-Excel-Vorlage für Gründungs-BOQ, BBS und Kostenkalkulation herunterladen (.xlsx)** *(Vorkonfigurierter SOP-Workflow und selbstaktualisierende Formeln für unbegrenzte gewerbliche Projekte)*](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
-
-Konzipiert für den sofortigen Einsatz: Führen Sie eine schnelle Mengenermittlung des Unterbaus direkt in Ihrem Webbrowser durch oder laden Sie die lokale `.xlsx`-Tabelle herunter, um Ihre eigenen Projektabmessungen einzufügen und in Sekunden kundentaugliche Kostenaufstellungen zu erzeugen.
-
----
-
-## Was Sie damit im Blick behalten: Schmerzpunkte der Unterbau-Mengenermittlung und automatisierte Excel-Lösungen
-
-| Häufiger Kalkulations-Schmerzpunkt | Häufig erfasste Kennzahl | Automatisierte Lösung in der Excel-Vorlage |
+| Häufiger Schmerzpunkt der Unterbau-Kalkulation | Häufig erfasste Kennzahl | Was diese automatisierte Excel-Vorlage für Sie berechnet |
 | :--- | :--- | :--- |
-| **Fragmentierte Berechnungen von Gründung und Fundamenten** | **Mengen der Unterbau-Elemente** *(Pfähle, Pfahlkopfplatten, Einzelfundamente, Fundamentbalken, Stützen, Grabenaushub)* | Bündelt alle **Aufmaße der Mengenermittlung im Ingenieurbau-Unterbau** in einer einheitlichen Eingabetabelle und ersetzt separate manuelle Tabellen für die einzelnen Betonelementtypen. |
-| **Fehlende Verbindung zwischen Zeichnungsabmessungen und Volumen** | **Betonvolumen ($m^3$), Schalungsfläche ($m^2$) sowie Erdaushub/Auftrag** | Verknüpft geometrische Aufmaßabmessungen und Elementanzahlen aus **PlanSwift, Bluebeam Revu, AutoCAD oder PDF-Zeichnungen** automatisch direkt mit den Formeln für Bauteilvolumen und Schalung. |
-| **Komplexe, zeitaufwendige Bewehrungsplanung** | **Bewehrungsgewicht-Rechner und Biegeformliste (BBS) nach Stabdurchmesser** | Erzeugt automatisch **Zuschnittlängen der Bewehrung, Gesamtlaufmeter, theoretisches Bewehrungsgewicht ($kg / Tonnen$) und Zuschlagsreserven für Verschnitt**, sortiert nach Stabgröße (z. B. 10 mm bis 32 mm). |
-| **Manuelle Kopierfehler bei der Angebotskalkulation** | **Bepreistes Leistungsverzeichnis (BOQ) und Kostenaufteilung nach Leistungsbereichen** | Überführt die berechneten Summen für Erd-, Beton-, Schalungs- und Bewehrungsarbeiten direkt in ein standardisiertes **kaufmännisches Leistungsverzeichnis** und multipliziert Mengen automatisch mit Einheitspreisen. |
-| **Blindes Bieten ohne Prüfung der Materialkennwerte** | **Bewehrungsintensität ($kg/m^3$) und Kennzahlen zu Stückkosten** | Berechnet in Echtzeit die **Bewehrungsdichte je Kubikmeter Beton ($kg/m^3$)** und die Kostenverteilung, sodass Einsteiger und Führungskräfte sofort eine Unterkalkulation oder Überbestellung erkennen. |
-| **Versteckte Eingabefehler, die die endgültige Angebotsmarge zerstören** | **Fehlererkennung vor Angebotsabgabe und Prüfmarkierungen für Formeln** | Führt automatische **Datenvalidierungsprüfungen** durch, die fehlende Fundamentabmessungen, Einheitspreise mit Nullwert, ungültige Bewehrungsparameter oder nicht verknüpfte BOQ-Zeilen vor der Angebotsabgabe hervorheben. |
+| **Fragmentierte Gründungs- & Fundament-Tabellen** | **Mengen der Unterbau-Elemente** *(Pfähle, Pfahlköpfe, Einzelfundamente, Gründungsbalken, Stützen, Grabenaushub)* | Zentralisiert alle **Aufmaße des Ingenieurbau-Unterbaus** in einer einheitlichen Eingabetabelle und ersetzt separate manuelle Blätter für jeden Elementtyp. |
+| **Fehlende Verbindung zwischen Zeichnungen & Volumenmathematik** | **Betonvolumen ($m^3$), Schalungsfläche ($m^2$) & Erdbau-Aushub/Auftrag** | Verknüpft rohe geometrische Aufmaßabmessungen aus **PlanSwift, Bluebeam Revu, AutoCAD oder PDF-Zeichnungen** direkt mit Volumen-, Schalungs- und Bodenauflockerungsformeln. |
+| **Langsame, fehleranfällige Bewehrungs-Detailplanung** | **Bewehrungsgewicht-Rechner & Biegeformliste (BBS) je Stabgröße** | Erzeugt automatisch **Zuschnittlängen, Gesamtstabanzahlen, Laufmeter, theoretisches Bewehrungsgewicht ($kg$ / Tonnen) und Verschnittzuschläge**, gruppiert nach Stabdurchmesser. |
+| **Manuelle Kopier- und Einfügefehler bei der BOQ-Preisbildung** | **Bepreistes Leistungsverzeichnis (BOQ) & Kostenaufschlüsselung** | Überführt berechnete Erdarbeiten-, Beton-, Schalungs- und Bewehrungssummen direkt in ein standardisiertes **kaufmännisches BOQ** und multipliziert Mengen automatisch mit aktuellen Einheitspreisen. |
+| **Blindes Bieten ohne Prüfung der Materialkennwerte** | **Bewehrungsintensität ($kg/m^3$) & Kostenstruktur-KPIs** | Berechnet in Echtzeit die **Stahldichte je Kubikmeter Beton ($kg/m^3$)**, sodass Einsteiger und Geschäftsführer Unterkalkulationen oder Einheiten-Tippfehler sofort erkennen. |
+| **Stille Eingabefehler, die Ausschreibungsmargen ruinieren** | **Fehlererkennung vor Angebotsabgabe & Prüfmarkierungen** | Führt automatische **Validierungsprüfungen** (`PASS / FAIL / WARNING / MISMATCH`) durch, um fehlende Fundamenttiefen, Null-Einheitspreise oder nicht verknüpfte BOQ-Zeilen vor der Abgabe zu kennzeichnen. |
 
 ---
 
-## Schnellstart-Anleitung: So automatisieren Sie Ihre Gründungs-Mengenermittlung und Kostenkalkulation in 4 Schritten
+## Tabellen-Vorschau
 
-Selbst ohne fortgeschrittene Excel-Kenntnisse oder eine formale Ausbildung im Baukostenwesen enthält dieses Toolkit einen **integrierten Workflow nach Standardvorgehensweise (SOP)**. Die zugrunde liegende Bauteilmathematik und die Regeln zur kaufmännischen Verknüpfung sind vorkonfiguriert – Sie folgen einfach den nummerierten Registerkarten, fügen Ihre Rohmaße ein und lesen die unmittelbare analytische Rückmeldung ab.
+Möchten Sie alle 6 Registerkarten, die Bewehrungs-BBS-Engine und das Kosten-Dashboard vor dem Download prüfen? Sehen Sie sich die Arbeitsmappe direkt in Google Sheets an:
 
-### Schritt 1: Lokale Baustoffpreise und Verschnittfaktoren einrichten
-Öffnen Sie das Dashboard zur Parametereinstellung, um Ihre Angebotsumgebung zu initialisieren. Geben Sie Ihre lokale Währung, die Einheitspreise für **Transportbeton für tragende Bauteile, Aushub, Holz- und Stahlschalung sowie Bewehrungsstahl** ein, dazu die üblichen Zuschläge für **Verschnitt beim Bewehrungsschnitt (%)** und **Auflockerungs- bzw. Schwindfaktoren des Bodens**.
+**[Live-Tabellen-Vorschau auf Google Sheets ansehen](https://docs.google.com/spreadsheets/d/1EDtiAxAGifr8hsWZ3oCV34T4AlyNzHJ8/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
-### Schritt 2: Ihre Rohmaße aus der Gründungs-Mengenermittlung einfügen (ohne Formeln zu ziehen)
-Kopieren Sie Ihre aufgemessenen Gründungselemente – aus **Bluebeam, PlanSwift, CostX oder manuellen Aufmaßen aus PDF-Zeichnungen** – und fügen Sie sie direkt in die strukturierte Dateneingabetabelle ein. Erfassen Sie Element-ID, Zeichnungsverweis, Gründungskategorie (Pfahl, Pfahlkopfplatte, Einzelfundament, Fundamentbalken oder Stütze), die Abmessungen Länge/Breite/Tiefe sowie grundlegende Angaben zu Bewehrungsabstand und Stabgröße.
-
-### Schritt 3: Automatisch erzeugte Betonvolumina, Bewehrungs-BBS und bepreiste BOQ-Berichte prüfen
-Beobachten Sie, wie die Kalkulations-Engine alles gleichzeitig berechnet. Da alle Nachschlageregeln und dynamischen Matrixformeln in der Vorlage vorkonfiguriert sind, **müssen Sie weder den Excel-Füllgriff doppelklicken noch Formeln über die Zeilen nach unten ziehen**. Ihre Betonvolumina, Schalungsflächen, die **Biegeformliste (BBS)** je Durchmesser, das kaufmännische **Leistungsverzeichnis (BOQ)** und die **Diagnose der Bewehrungsintensität ($kg/m^3$)** füllen sich mit einem einzigen Klick.
-
-### Schritt 4: Die wiederverwendbare Excel-Arbeitsmappe für hektische Ausschreibungsphasen herunterladen
-Wenn Tragwerksplaner Zeichnungsrevisionen, Nachträge oder Änderungsaufträge (VO) herausgeben, überschreiben Sie einfach die geänderten Abmessungszellen oder aktualisieren einen einzigen Material-Einheitspreis – jede nachgelagerte BBS-Tabelle und jede BOQ-Summe aktualisiert sich automatisch.
-
-> **Hören Sie auf, in jeder Ausschreibungsphase Tabellen von Grund auf neu zu bauen:**  
-> Bauteilmathematik und kaufmännische Gegenprüfung sind komplex, aber Ihr täglicher Workflow muss es nicht sein. Mit vorkonfigurierten Regeln zur automatischen Zuordnung, dynamischen selbstaktualisierenden Formeln und einer schrittweisen integrierten SOP können Sie das Debuggen von Formeln vollständig überspringen. Laden Sie die Datei einfach lokal herunter, fügen Sie Ihre Projektdaten ein und erhalten Sie unmittelbares Feedback für kaufmännische Entscheidungen – damit Sie sich darauf konzentrieren können, Aufträge zu gewinnen, statt mit defekten Tabellen zu kämpfen.
->
-> 👉 **[📥 Die vollständige Offline-Excel-Vorlage für Gründungs-Mengenermittlung, BBS und BOQ zur unbegrenzten lokalen Nutzung herunterladen](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)**
+> **Hinweis zur Kompatibilität:** Die Google Sheets-Vorschau zeigt gelegentlich `#NAME?`-Warnungen aufgrund von Unterschieden bei dynamischen Matrixformeln zwischen Google Sheets und Microsoft Excel an. Dies sind reine Vorschau-Artefakte und treten in der heruntergeladenen `.xlsx`-Datei beim Öffnen in Microsoft Excel nicht auf.
 
 ---
 
-## Die Geschäftslogik und Methodik: Versteckte Gewinnverluste bei der Gründungskalkulation aufdecken
+## Schnellstart-Anleitung: Automatisieren Sie Ihr Gründungs-Aufmaß & Angebot in 4 einfachen Schritten
 
-Für Einsteiger, junge Kalkulatoren und vielbeschäftigte kleine Bauunternehmer ist die Kalkulation des Unterbaus eine der risikoreichsten Phasen eines Bauprojekts. Die meisten Verluste bei der Angebotsabgabe entstehen nicht, weil ein Kalkulator ein Fundament auf einer Zeichnung nicht messen kann – sie entstehen durch **blinde Flecken im Arbeitsablauf** zwischen Aufmaß und endgültiger Preisbildung.
+Auch ohne fortgeschrittene Excel-Kenntnisse oder eine formale Ausbildung im Vermessungswesen enthält diese Arbeitsmappe einen **integrierten nummerierten SOP-Workflow**. Jede geometrische Regel, jeder Bewehrungs-BBS-Nachschlag und jede Validierungsprüfung ist bereits vorkonfiguriert — Sie fügen einfach Ihre Messwerte ein und lesen das sofortige kaufmännische Ergebnis ab:
 
-Hier sind die drei objektiven kaufmännischen Risiken, die dazu führen, dass Bauunternehmer Geld verlieren, und wie die integrierte Geschäftslogik dieser Vorlage sie beseitigt:
+### Schritt 1: Lokale Materialpreise & Verschnittfaktoren festlegen (`01_Parameters`)
+Geben Sie Ihre Währung, Einheitspreise für **Transportbeton, Aushub, Schalung und Bewehrungsstahl** sowie Ihren üblichen **Verschnitt beim Bewehrungsschnitt (%)** und **Auflockerungsfaktor für Erdarbeiten** in einer zentralen Steuerungsregisterkarte ein.
 
-### 1. Die „manuelle Übertragungssteuer“ zwischen getrennten Tabellenblättern abschaffen
-* **Der objektive Sachverhalt:** In traditionellen Workflows berechnen Kalkulatoren das Betonvolumen in einem Blatt, schätzen das Bewehrungsgewicht in einer zweiten Datei und tippen diese Summen dann manuell in ein drittes Blatt für das Leistungsverzeichnis (BOQ) zur Preisbildung. Branchenprüfungen zeigen durchgängig, dass manuelle Zellübertragungen und fest eingetragene `VLOOKUP`-Änderungen zu einer **Mengen- oder Preisabweichung von 3 % bis 8 %** führen. Da die Nettogewinnmargen im typischen Generalunternehmergeschäft zwischen **5 % und 10 %** liegen, löscht eine einzige vergessene Zeile oder eine unterbrochene Formelverknüpfung den gesamten Projektgewinn aus, bevor der erste Spatenstich erfolgt.
-* **Die integrierte Lösung:** Dieses Toolkit erzwingt eine strikte, lineare Datenkette mit einer einzigen Quelle der Wahrheit:
-  $$\text{Aufgemessene Zeichnungsabmessungen} \longrightarrow \text{Automatisierte Geometrie (Beton / Schalung / Erdarbeiten)} \longrightarrow \text{Verknüpfte Bewehrungs-BBS} \longrightarrow \text{Bepreistes kaufmännisches BOQ} \longrightarrow \text{Automatisierte Fehlervalidierung}$$
-  Sie geben die Rohabmessungen einmal ein. Jede kaufmännische Aufstellung greift direkt auf diese eine Eingabe zurück.
+### Schritt 2: Rohabmessungen aus dem Gründungs-Aufmaß einfügen (`02_Qty_Input`)
+Kopieren und fügen Sie aufgemessene Abmessungen aus **Bluebeam, PlanSwift, CostX, AutoCAD oder manuellen PDF-Aufmaßen** in die übersichtlichen Eingabespalten (`A:K`) ein — Element-ID, Zeichnungsverweis, Kategorie (Pfahl, Pfahlkopf, Einzelfundament, Gründungsbalken, Stütze oder Erdarbeiten), Abmessungen, Anzahl sowie grundlegende Eingaben zu Bewehrungsdurchmesser/Stabanzahl.
+
+### Schritt 3: Automatisch erzeugte Betonvolumina, Bewehrungs-BBS & bepreistes BOQ prüfen (`03`–`05` Ausgabe-Registerkarten)
+Da alle dynamischen Matrixformeln vorkonfiguriert sind, **müssen Sie niemals Formeln über Zeilen nach unten ziehen oder defekte `VLOOKUP`-Bereiche reparieren**. Öffnen Sie `03_Reinforcement_Engine`, `04_BOQ_Summary` und `05_Cost_Dashboard`, um Ihre nach Durchmesser sortierte **Biegeformliste (BBS)**, das bepreiste **BOQ** und die **Diagnose der Bewehrungsintensität ($kg/m^3$)** sofort einzusehen.
+- 👉 [**Die Beton- & Bewehrungs-Aufmaß-Mathematik kostenlos in Ihrem Browser testen**](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
+
+### Schritt 4: Mit Prüfmarkierungen vor der Angebotsabgabe auditieren & Revisionen in Sekunden verarbeiten (`06_Validation`)
+Prüfen Sie `06_Validation`, um zu bestätigen, dass jede Geometrie-, Preis-, Bewehrungsabgleich- und BOQ-Prüfung `PASS` lautet. Wenn Tragwerksplaner eine Zeichnungsrevision oder einen Nachtrag (VO) herausgeben, überschreiben Sie einfach die einzelne geänderte Abmessung oder den Einheitspreis — jede nachgelagerte BBS-Tonnage und jede Angebotssumme aktualisiert sich automatisch.
+
+---
+
+## Kostenloser Browser-Rechner vs. vollständige Offline-Excel-Arbeitsmappe mit 6 Registerkarten
+
+| Funktion | Kostenloser Online-Web-Rechner | **Vollständige lokale Excel-Arbeitsmappe mit 6 Registerkarten (Einmalkauf)** |
+|---|---|---|
+| **Am besten geeignet für** | Sofortiger 2-Minuten-Sandbox-Test von Gründungsgeometrie & Bewehrungsmathematik | Echte kaufmännische Ausschreibungen, Stahlbeschaffung & unbegrenzte Unterbau-Projekte |
+| **Mehr-Element-Register für den Unterbau** | Schneller Test in einer einzigen Sitzung | Unbegrenzte Fundamente, Pfähle, Pfahlköpfe, Gründungsbalken, Stützen & Gräben einfügen |
+| **Automatisierte Bewehrungs-BBS & Tonnage-Aufteilung** | Zusammenfassende Berechnung | Vollständige `03_Reinforcement_Engine` mit Zuschnittlängen, Verschnitt & Durchmessergliederung (`>=16mm` vs `<16mm`) |
+| **Bepreistes BOQ & Bewehrungsintensitäts-Dashboard** | Grundlegende Ergebnispvorschau | Vollständiges `04_BOQ_Summary` + `05_Cost_Dashboard` (Benchmark-KPIs in $kg/m^3$) |
+| **Audit vor Angebotsabgabe & Fehlererkennung** | — | Dediziertes `06_Validation`-Blatt, das fehlende Tiefen, Nullpreise & Abstimmungsfehler abfängt |
+| **Datenschutz & Wiederverwendung** | Browser-Sitzung | **100 % offline lokale `.xlsx`-Datei** — Zeichnungen, Preise & Angebotsmargen bleiben strikt auf Ihrer Festplatte |
+| **Kostenmodell & Garantie** | Kostenlose Browser-Demo | **Kleiner Einmalkauf** (keine SaaS-Gebühren) · **30-tägige bedingungslose Geld-zurück-Garantie** |
+
+> **Bereit, Gründungs-Aufmaße nicht mehr neu zu tippen und teure Bewehrungs-/Betonfehler vor dem Bieten zu erkennen?**
+> 👉 [**Die vollständige Excel-Vorlage für Gründungs-QTO, BBS & BOQ holen (Einmalkauf · 30-Tage-Garantie)**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
+
+---
+
+## Die Geschäftslogik & Methodik: 3 versteckte Gewinnlecks bei der Gründungs-Kalkulation
+
+Die meisten Verluste bei Unterbau-Ausschreibungen entstehen nicht, weil ein Kalkulator eine Fundamentzeichnung nicht lesen kann — sie entstehen durch **drei strukturelle blinde Flecken** zwischen Aufmaß und kaufmännischer Preisbildung:
+
+### 1. Die „manuelle Übertragungssteuer“ über getrennte Blätter hinweg abschaffen
+- **Das Risiko:** Beton in einer Registerkarte zu berechnen, Bewehrung in einer zweiten Datei und die Summen in ein drittes BOQ-Blatt neu zu tippen, führt routinemäßig zu **Mengen- oder Preisfehlern von 3 % bis 8 %**. Wenn die typischen Nettomargen von Bauunternehmern bei **5 % bis 10 %** liegen, tilgt eine einzige übersehene Zeile oder ein veralteter Verweis den Projektgewinn, bevor der Aushub beginnt.
+- **So löst es diese Arbeitsmappe:** Erzwingt eine strikte lineare Pipeline mit einer einzigen Quelle der Wahrheit:
+  $$\text{Measured Drawing Dimensions} \longrightarrow \text{Automated Geometry (Concrete / Formwork / Earthwork)} \longrightarrow \text{Linked Rebar BBS} \longrightarrow \text{Priced BOQ} \longrightarrow \text{Automated Validation}$$
 
 ### 2. Den Entscheidungs-Blindfleck „Bewehrungsintensität ($kg/m^3$)“ offenlegen
-* **Der objektive Sachverhalt:** Einsteiger beurteilen eine Kalkulation fast immer nur anhand des endgültigen Dollarbetrags in der letzten Zeile. Erfahrene kaufmännische Leiter prüfen Kalkulationen jedoch anhand der **Bewehrungsintensität ($kg \text{ Stahl je } m^3 \text{ Beton}$)**. Wenn ein übliches kaufmännisches Einzelfundament oder ein Fundamentbalken typischerweise **80 bis 130 $kg/m^3$** Bewehrung erfordert und Ihre manuelle Tabelle versehentlich **25 $kg/m^3$** ausgibt (wegen eines fehlenden Multiplikators für die Stabanzahl) oder **260 $kg/m^3$** (wegen eines Einheitenfehlers von Millimetern zu Metern), dann verbirgt die Betrachtung der Gesamtkosten allein den Fehler. Bei **25 $kg/m^3$** gewinnen Sie die Ausschreibung, erleiden aber beim Stahleinkauf auf der Baustelle einen massiven finanziellen Verlust; bei **260 $kg/m^3$** ist Ihr Angebot überteuert und wird automatisch abgelehnt.
-* **Die integrierte Lösung:** Das Dashboard berechnet und zeigt automatisch die **Bewehrungsintensität insgesamt und auf Elementebene ($kg/m^3$)** zusammen mit der Gesamttonnage an und verschafft unerfahrenen Nutzern exakt dieselbe diagnostische Transparenz wie einem erfahrenen Baukostenplaner.
+- **Das Risiko:** Einsteiger beurteilen Angebote allein anhand des endgültigen Dollarbetrags. Erfahrene kaufmännische Leiter auditieren Gründungsangebote anhand der **Bewehrungsintensität** ($kg$ Stahl je $m^3$ Beton). Wenn übliche Einzelfundamente oder Gründungsbalken **80 bis 130 $kg/m^3$** erfordern, gewinnen Sie mit einem manuellen Tippfehler, der **25 $kg/m^3$** ausgibt, einen verlustreichen Auftrag — während **260 $kg/m^3$** Ihr Angebot überteuert und zur automatischen Ablehnung führt.
+- **So löst es diese Arbeitsmappe:** Zeigt die gesamte **Bewehrungsintensität ($kg/m^3$)** automatisch direkt im Kosten-Dashboard an und gibt Einsteigern denselben Plausibilitätsradar wie einem erfahrenen Baukostenplaner.
 
-### 3. Den Cashflow gegen nicht berücksichtigten Materialverschnitt und Bodenauflockerung absichern
-* **Der objektive Sachverhalt:** Wer genau das geometrische Volumen bezahlt, das in den CAD-Tragwerkszeichnungen dargestellt ist, garantiert Materialengpässe auf der Baustelle. Bewehrungsstahl erfordert Zuschläge für Schnitt- und Übergreifungsverschnitt (typischerweise **5 % bis 10 %**), und ausgehobener Boden dehnt sich beim Ausheben aus (Auflockerungsfaktoren im Erdbau von **15 % bis 30 %**), was sich direkt auf die Anzahl der Transportfahrten und die Entsorgungskosten auswirkt.
-* **Die integrierte Lösung:** Dedizierte globale Parameterzellen wenden Verschnitt- und Auflockerungsfaktoren automatisch auf alle relevanten BOQ-Positionen an, sodass Ihr Angebotspreis den realen Verbrauch auf der Baustelle deckt und nicht nur die theoretische Nettogeometrie.
+### 3. Die Marge gegen nicht einkalkulierten Verschnitt & Bodenauflockerung schützen
+- **Das Risiko:** Die Preisbildung nach exakter Nettogeometrie aus CAD garantiert Mehrkosten auf der Baustelle. Bewehrung erfordert Zuschläge für Schnitt-/Übergreifungsverschnitt (**3 % bis 10 %**), und ausgehobener Boden dehnt sich beim Ausheben aus (**15 % bis 30 %** Auflockerung), was Transport- und Entsorgungskosten in die Höhe treibt.
+- **So löst es diese Arbeitsmappe:** Zentralisierte Parameter-Multiplikatoren wenden Verschnitt- und Erdarbeiten-Faktoren automatisch auf alle betroffenen BOQ-Positionen an, sodass Ihr Angebot den realen Baustellenverbrauch widerspiegelt.
 
 ---
 
-## Manuelle Bautabellen vs. automatisiertes Excel-Toolkit für Gründungs-Mengenermittlung und BOQ
+## Manuelle Tabellen vs. automatisiertes Excel-Toolkit für Gründungs-Aufmaß & BOQ
 
-| Vorgang in der Baukalkulation | Traditioneller Workflow mit selbstgebauter Tabelle | Automatisiertes Excel-Toolkit für Gründungs-QTO und BOQ |
+| Vorgang der Baukalkulation | Traditionelle selbstgebaute Tabellen | **Automatisiertes Gründungs-QTO- & BOQ-Excel-Toolkit** |
 | :--- | :--- | :--- |
-| **Übertragung der Aufmaßmengen in die Preisbildung** | Aufgemessene Mengen aus PDF-Aufmaßen werden manuell neu eingetippt oder in eine separate BOQ-Preisregisterkarte kopiert, was ein hohes Risiko für Zeilenverschiebungen und `#REF!`-Fehler schafft. | Elementabmessungen fließen über dynamische strukturierte Bezüge direkt in die **automatisierte BOQ-Berechnungs-Engine** – ohne jede manuelle Übertragung. |
-| **Berechnung von Bewehrungsgewicht und Zuschnittlängen** | Kalkulatoren erstellen Biegeformlisten (BBS) in isolierten Tabellen mit manuellen $D^2 / 162$-Formeln, die brechen, sobald sich Gründungsabmessungen ändern. | **Bewehrungsparameter (BBS)** sind mathematisch an die Elementgeometrie gebunden und berechnen Stablängen, Biegeabzüge, Einheitsgewichte und Summen je Durchmesser automatisch. |
-| **Wechsel zwischen den Unterbau-Elementtypen** | Nutzer jonglieren mit getrennten Kalkulationsregistern für Bohrpfähle, Pfahlkopfplatten, Einzelfundamente, Fundamentbalken, Stützenfüße und Grabenaushub. | Integrierte **Kategoriekennzeichen für Elemente** lösen automatisch genau die geometrische Formel aus, die für Betonvolumen, Schalungsumfangfläche und Erdarbeiten erforderlich ist. |
-| **Umgang mit Zeichnungsrevisionen und Nachträgen** | Wenn ein Planer die Fundamenttiefe oder die Betongüte ändert, verbringen Kalkulatoren Stunden damit, fest eingetragene Zellen in mehreren Blättern aufzuspüren. | Die Aktualisierung einer einzigen Abmessungszeile oder des zentralen **Dashboards für Material-Einheitspreise** berechnet sofort alle nachgelagerten BBS-Gewichte und Angebotspreise neu. |
-| **Prüfung der Kalkulation vor der Angebotsabgabe** | Fehlende Abmessungen, unbepreiste Positionen oder fehlerhafte `SUM`-Bereiche gelangen routinemäßig unbemerkt in das endgültige Angebotspaket für den Kunden. | Dedizierte **automatisierte Prüfmarkierungen** heben unvollständige Geometrien, Nullpreise, Bewehrungsabweichungen und Abweichungen beim BOQ-Abgleich in Echtzeit hervor. |
+| **Übertragung des Aufmaßes in die BOQ-Preisbildung** | Aufgemessene Mengen werden in separate Preisblätter neu eingetippt, was Zeilenverschiebungen und `#REF!`-Fehler einlädt. | Abmessungen fließen über strukturierte dynamische Bezüge direkt in die **BOQ-Engine** — null manuelle Übertragung. |
+| **Berechnung von Bewehrungsgewicht & BBS** | Isolierte manuelle $D^2 / 162$-Tabellen brechen, sobald sich Fundamentgrößen oder Stabanzahlen ändern. | Die **Bewehrungs-BBS** ist mathematisch an die Elementgeometrie gekoppelt und aktualisiert Zuschnittlängen, Gewichte und Durchmessersummen automatisch. |
+| **Wechsel zwischen Elementkategorien** | Separate Registerkarten für Pfähle, Pfahlköpfe, Fundamente, Balken, Stützen und Gräben. | Eingebaute **Kategorie-Tags** lösen automatisch exakte Beton-, Schalungsumfangs- und Erdarbeiten-Formeln aus. |
+| **Umgang mit Zeichnungsrevisionen & Nachträgen (VO)** | Nach einem tragwerksplanerischen Nachtrag vergeuden sich Stunden mit der Suche nach fest eingetragenen Zellen über Registerkarten hinweg. | Eine Abmessung oder einen Preis überschreiben — jede nachgelagerte BBS-Tonnage und jede BOQ-Summe aktualisiert sich sofort. |
+| **Auditierung vor der Angebotsabgabe** | Fehlende Tiefen, unbepreiste Zeilen oder defekte `SUM`-Bereiche schleichen unbemerkt in Kundenangebote ein. | Dedizierte **`06_Validation`-Prüfmarkierungen** decken fehlende Geometrie, Nullpreise und Bewehrungsabweichungen in Echtzeit auf. |
 
 ---
 
-## Für wen ist diese Excel-Vorlage zur Gründungskalkulation gedacht? (Rollen und Anwendungsfälle)
+## Für wen diese Excel-Vorlage zur Gründungs-Kalkulation gedacht ist
 
-Dieses Toolkit ist für Bauexperten, Fachunternehmer und Einsteiger konzipiert, die eine sofort verfügbare, verlässliche Brücke zwischen **Aufmaß aus Zeichnungen, Bewehrungsberechnung und kaufmännischer Preisbildung** benötigen, ohne Tausende von Dollar für eine schwergewichtige Unternehmens-ERP-Software zur Kalkulation zu zahlen:
+- **Junior-Baukostenplaner (QS) & Assistenz-Kosteningenieure:** Führen Sie einen standardisierten, fehlergeprüften **Unterbau-BOQ- & BBS-Workflow** mit transparenter Prüfspur aus, bereit für die Prüfung durch Vorgesetzte.
+- **Kleine Generalunternehmer & Bauherren:** Bepreisen Sie Hausfundamente, Pfahlköpfe, Gründungsbalken und Platten in hektischen Ausschreibungsphasen präzise — ohne die Einstellung eines Vollzeit-Kalkulators oder den Kauf schwergewichtiger Tiefbau-Software.
+- **Beton-, Schalungs- & Bewehrungs-Nachunternehmer:** Verwandeln Sie Tragwerkszeichnungen in wenigen Minuten in nach Durchmesser sortierte Stahlbeschaffungstonnagen und wettbewerbsfähige Gewerke-Paketangebote.
+- **Kalkulatoren im Ingenieurbau & Bauleiter:** Überprüfen Sie Zahlungsforderungen von Nachunternehmern, Beton-/Stahlanforderungen der Baustelle und Bewehrungsintensitäts-Kennwerte ($kg/m^3$) unabhängig.
+- **Projektleiter & Vertreter des Bauherrn:** Vergleichen Sie Gründungsangebote von Nachunternehmern als Benchmark und quantifizieren Sie die Kostenwirkungen von Nachträgen (VO) sofort, wenn sich Zeichnungen ändern.
+- **Studierende des Bauingenieurwesens, Praktikanten & freiberufliche Kalkulatoren:** Verbinden Sie Lehrbuchgeometrie mit realer kaufmännischer BOQ-Ausschreibungspraxis anhand eines sauberen, produktionsreifen Excel-Modells.
 
-* **Junge Baukostenplaner (QS) und Berufseinsteiger im Kostenwesen:** Sie suchen eine standardisierte **Excel-Vorlage für das Leistungsverzeichnis (BOQ)** mit integrierter SOP, die peinliche Rechenfehler verhindert und eine nachvollziehbare Prüfspur für die Freigabe durch Vorgesetzte gewährleistet.
-* **Kleine Generalunternehmer und Bauherren im Wohnungsbau:** Sie benötigen eine schnelle, einsteigerfreundliche **Tabellenvorlage zur Kalkulation von Gründungskosten**, um in hektischen Ausschreibungsphasen Hausfundamente, Fundamentbalken und Betonplatten präzise zu bepreisen, ohne einen Vollzeit-Kalkulator einzustellen.
-* **Nachunternehmer für Beton-, Schalungs- und Bewehrungsarbeiten:** Sie suchen einen automatisierten **Bewehrungsgewicht-Rechner und eine Excel-Tabelle für die Biegeformliste (BBS)**, um Tragwerkszeichnungen in wenigen Minuten in Stahlbeschaffungstonnagen und wettbewerbsfähige Angebote für Gewerkspakete umzuwandeln.
-* **Kalkulatoren im Ingenieurbau und Bauleiter:** Sie benötigen eine schlanke **Alternative zu Software für die Mengenermittlung im Ingenieurbau**, um Zahlungsforderungen von Nachunternehmern gegenzuprüfen, Materialanforderungen auf der Baustelle zu verifizieren und das Verhältnis von Beton zu Stahl ($kg/m^3$) zu verfolgen.
-* **Bauprojektleiter und Vertreter des Bauherrn:** Sie nutzen eine strukturierte **Vorlage zur Budgetverfolgung im Unterbau**, um Nachunternehmerangebote zu vergleichen, Optionen des Value Engineering zu bewerten und die Kostenwirkungen von Änderungsaufträgen (VO) zu prüfen.
-* **Studierende des Bauingenieurwesens, Praktikanten und freiberufliche Kalkulatoren:** Sie erlernen praktische **Workflows für Bauaufmaß und Kalkulation** anhand eines transparenten, produktionsreifen Excel-Modells, das die Geometrie aus dem Lehrbuch mit der realen kaufmännischen Ausschreibungspraxis verbindet.
+### Häufige Projektanwendungen
+- **Schnelle Unterbau-Ausschreibungspreisbildung** aus PlanSwift-, Bluebeam Revu-, Cubicost- oder AutoCAD-Messungen.
+- **Bewehrungs-Biegeformliste (BBS) & Stahlbeschaffung** sortiert nach Stabdurchmesser ($kg$ und Tonnen).
+- **Quantifizierung von Zeichnungsrevisionen & Nachträgen (VO)** in Sekunden.
+- **Auditierung von Nachunternehmerangeboten** mit sofortiger $kg/m^3$-Intensität und Einheitskosten-Benchmarks.
 
----
-
-## Häufige Bauszenarien und Anwendungen für projektspezifische Sonderfälle
-
-* **Schnelle Erstellung von Ausschreibungs- und Angebotsunterlagen für Gewerbebauten:** Wandeln Sie Rohmaße aus **PlanSwift, Bluebeam Revu, Cubicost oder AutoCAD-Zeichnungen** in weniger als 15 Minuten in ein vollständig bepreistes, kundentaugliches **Leistungsverzeichnis (BOQ) für den Unterbau** um.
-* **Automatisierte Biegeformliste (BBS) und Bewehrungsbeschaffung:** Erzeugen Sie nach Durchmesser sortierte Zuschnittlisten für die Bewehrung sowie Zusammenfassungen der theoretischen Tonnage ($kg$ und metrische Tonnen) für Bestellungen bei der Stahlverarbeitung – ohne komplexe CAD-Detaillierungs-Plugins.
-* **Preisbildung bei Zeichnungsrevisionen, Nachträgen und Änderungsaufträgen (VO):** Quantifizieren Sie sofort die exakte Kosten- und Materialdifferenz, wenn Tragwerksplaner Pfahlkopfplatten überarbeiten, Fundamentaushübe vertiefen oder den Abstand der Bewehrungsstäbe mitten im Projekt ändern.
-* **Prüfung von Nachunternehmerangeboten und Verifikation von Vergleichswerten:** Nutzen Sie den automatisierten **Indikator für die Bewehrungsintensität ($kg/m^3$)** und die Aufschlüsselung der Einheitspreise, um überhöhte Angebote von Nachunternehmern oder ungewöhnlich niedrige Preise vor der Vertragsunterzeichnung zu erkennen.
-* **Vorläufige Machbarkeitsprüfung und konzeptionelle Budgetierung des Unterbaus:** Geben Sie grundlegende Tragwerksabmessungen und lokale Materialpreise ein, um belastbare frühe Kostenschätzungen für die Gründung von Wohn-, Gewerbe- oder Industrievorhaben zu erstellen.
-
-*(Technischer Haftungsausschluss: Dieses Toolkit automatisiert die Mathematik der Mengenermittlung, die Aggregation der BBS und die kaufmännische BOQ-Preisbildung. Es ersetzt keine zugelassene Software für die Tragwerksplanung wie ETABS, STAAD.Pro oder SAFE. Nutzer müssen die Regeln zur Bewehrungsdetaillierung, Übergreifungslängen, Verschnittfaktoren und Einheitspreise stets anhand der projektspezifischen Tragwerkszeichnungen, der lokalen Bauvorschriften und der geotechnischen Bedingungen auf der Baustelle überprüfen.)*
+*(Ingenieurtechnischer Haftungsausschluss: Dieses Toolkit automatisiert die Mathematik der Mengenermittlung, die BBS-Aggregation und die kaufmännische BOQ-Preisbildung. Es ersetzt keine zugelassene Tragwerksplanungssoftware wie ETABS, STAAD.Pro oder SAFE. Überprüfen Sie Detaillierungsregeln, Übergreifungslängen, Verschnittfaktoren und Einheitspreise stets anhand der projektspezifischen Tragwerkszeichnungen, der örtlichen Vorschriften und der geotechnischen Gutachten.)*
 
 ---
 
-## Über Theseus Workshop: Praxisnahe Entscheidungshilfen und operative Excel-Toolkits
+## Über Theseus Workshop — Sofort einsetzbare Offline-Excel-Entscheidungs-Toolkits
 
-Ich entwickle leichtgewichtige, produktionsreife **Excel-Vorlagen und browserbasierte Entscheidungshilfen** für operative und kaufmännische Workflows, die zu viele bewegliche Teile haben, um sie zuverlässig in einer selbstgebauten Tabelle oder im Kopf zu steuern.
+**Theseus Workshop** entwickelt leichtgewichtige, erschwingliche, lokal gespeicherte Excel-Entscheidungs-Toolkits für praktisch tätige Bauunternehmer, Kalkulatoren, QS-Fachleute und Geschäftsoperatoren, die **analytische Klarheit auf Führungsebene in Minuten wollen — ohne aufgeblähte Unternehmenssoftware und ohne wiederkehrende SaaS-Abos**.
 
-Jedes Toolkit von **Theseus Workshop** folgt einem zentralen Konstruktionsprinzip:
+- 📥 [**Diese vollständige Excel-Vorlage für Gründungs-QTO, BBS & BOQ holen**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
+- 🎁 [**Kostenlos starten: Monatliche Bau-CVR- & Accruals-Excel-Vorlage (\$0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_qto_readme_crosslink)
+- 🧰 [**Die vollständige Theseus Workshop-Toolkit-Bibliothek erkunden (`theseusworkshop.com`)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README_About)
 
-> **Welche kritischen Informationen müssen an einer Stelle miteinander verbunden werden, damit Sie die nächste kaufmännische Entscheidung mit 100 % Sicherheit treffen können?**
-
-Dieses **Toolkit für Mengenermittlung (QTO), BBS und BOQ-Kostenkalkulation im Gründungsbau** wendet dieses Prinzip auf die Ausschreibung von Ingenieurbau-Unterbauten an – es verbindet rohe Zeichnungsabmessungen, Mengen für Beton, Erdarbeiten und Schalung, Bewehrungsdetaillierung, kaufmännische Preisbildung und Fehlervalidierung zu einem wiederholbaren, einsteigersicheren SOP-Workflow.
-
-### Weitere sofort einsetzbare Business- und Engineering-Toolkits entdecken
-* 🛒 **[Den offiziellen Theseus Workshop Store besuchen (`theseusworkshop.com`)](https://theseusworkshop.com)** — Durchsuchen Sie unseren vollständigen Katalog an sofort nutzbaren Excel-Vorlagen, automatisierten kaufmännischen Analysemodellen und operativen SOP-Toolkits, die Stunden manueller Tabellenarbeit einsparen.
-* 📥 **[Die Offline-Excel-Vorlage für Gründungs-QTO, BBS und BOQ-Kostenkalkulation hier herunterladen](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)** — Sofortiger digitaler Download (.xlsx) mit lebenslangem Zugriff und einer 30-Tage-Geld-zurück-Garantie.
+---
 
 ## Technische Details
 
 <details>
-<summary>Für technische Prüfer, Excel-Anwender und Mitwirkende</summary>
+<summary><strong>Für technische Prüfer, Excel-Anwender und Mitwirkende (Architektur mit 6 Blättern, 3 Aufmaß-Fallen, Beispielszenario, Formelreferenz & Validierungsregeln)</strong></summary>
 
-### Aufbau der Arbeitsmappe
+### Architektur der Arbeitsmappe
 
 Die Arbeitsmappe ist als kontrollierte Berechnungskette aus sechs Blättern aufgebaut:
 
 | Blatt | Rolle | Primäre Ausgabe |
 |---|---|---|
-| `01_Parameters` | Zentrale Parameterkonfiguration | Währung, Materialpreise, Bewehrungskonstante, Verschnittzuschlag, Erdbau-Faktor |
-| `02_Qty_Input` | Primäre Datenerfassungsebene | Elementmengen, Betonvolumen, Schalungsfläche, Bewehrungseingabe |
+| `01_Parameters` | Zentrale Parameterkonfiguration | Währung, Materialpreise, Bewehrungskonstante, Verschnittzuschlag, Erdarbeiten-Faktor |
+| `02_Qty_Input` | Primäre Dateneingabe-Ebene | Elementmengen, Betonvolumen, Schalungsfläche, Bewehrungseingabe |
 | `03_Reinforcement_Engine` | Berechnungs-Engine für die Bewehrung | Zuschnittlänge, Stabanzahlen, Laufmeter, theoretisches Gewicht, Gesamttonnen |
 | `04_BOQ_Summary` | Kaufmännische Aggregation | BOQ-Mengen, Einheitspreise, Positionsbeträge, geschätzte Gesamtkosten |
 | `05_Cost_Dashboard` | Managementanalyse | Gesamtkosten, Materialmengen, Kostenstruktur, Bewehrungsintensität |
@@ -174,48 +197,30 @@ Measured Drawings / Takeoff Data
 01_Parameters
       │
       └──────► shared assumptions and rates
-````
+```
 
-Die Quellspezifikation definiert `02_Qty_Input` als das primäre Blatt für die manuelle Eingabe, wobei die Spalten `A:K` für Elementkennungen, Zeichnungsverweise, Kategorien, Abmessungen, Mengen und Bewehrungsparameter verwendet werden. Berechnete Felder belegen `L:P`. 
+Die Quellspezifikation definiert `02_Qty_Input` als das primäre Blatt für die manuelle Eingabe, wobei die Spalten `A:K` für Elementkennungen, Zeichnungsverweise, Kategorien, Abmessungen, Mengen und Bewehrungsparameter verwendet werden. Berechnete Felder belegen `L:P`.
 
-Die Bewehrungs-Engine ist formelgetrieben und filtert ausschließlich Elemente, die Bewehrungsparameter enthalten. Ihre Ausgabe umfasst Elementverweis, Kategorie, Stabdurchmesser, Zuschnittlänge, Gesamtstabanzahl, Gesamtlaufmeter, theoretisches Einheitsgewicht, Nettogewicht sowie Gewicht einschließlich Verschnitt. 
+Die Bewehrungs-Engine ist formelgetrieben und filtert nur Elemente, die Bewehrungsparameter enthalten. Ihre Ausgabe umfasst Elementverweis, Kategorie, Stabdurchmesser, Zuschnittlänge, Gesamtstabanzahl, Gesamtlaufmeter, theoretisches Einheitsgewicht, Nettogewicht und Gewicht einschließlich Verschnitt.
 
-Die BOQ-Ebene aggregiert sechs vordefinierte Kalkulationspositionen für Erdarbeiten, Pfahlbeton, Beton für Gründungskörper, Schalung, Bewehrung ab `>=16mm` und Bewehrung unter `16mm`. 
+Die BOQ-Ebene aggregiert sechs vordefinierte Kalkulationspositionen für Erdarbeiten, Pfahlbeton, Beton für tragende Gründungsbauwerke, Schalung, Bewehrung ab $\ge 16\text{ mm}$ und Bewehrung unter $16\text{ mm}$.
+
+---
 
 ### Drei Fallen, die selbst erfahrene Kalkulatoren erwischen
 
 #### Falle 1 — Korrektes Aufmaß, falsche kaufmännische Gesamtsumme
 
-1. **Es wurde eine Entscheidung getroffen:**
-   Aus den aufgemessenen Gründungsmengen wird ein Angebotspreis erstellt.
-
-2. **Der versteckte Mangel:**
-   Mengenwerte und kaufmännische Preise werden in getrennten, manuell kopierten Tabellen gepflegt.
-
-3. **Wie der Mangel die Empfehlung verändert:**
-   Eine Preisänderung kann dazu führen, dass ein Teil der Kalkulation noch mit einer alten Annahme arbeitet, sodass das Angebot wettbewerbsfähiger erscheint, als es tatsächlich ist.
-
-4. **Warum die Schlussfolgerung falsch ist:**
-   Das kaufmännische Ergebnis ist keine verlässliche Funktion der aktuellen Projektannahmen mehr.
-
-5. **Korrigiertes Vorgehen:**
-   Zentrale Preise zentral pflegen und die BOQ-Beträge aus den aktuellen Mengensummen berechnen.
-
-6. **Korrigiertes Entscheidungsergebnis:**
-   Eine Preisänderung pflanzt sich in die betroffenen BOQ-Werte fort, sodass der Kalkulator die resultierende Angebotsposition aus einer einzigen Berechnungskette prüfen kann.
+1. **Entscheidung:** Ein Angebotspreis wird aus den aufgemessenen Gründungsmengen erstellt.
+2. **Versteckter Mangel:** Mengenwerte und kaufmännische Preise liegen in getrennten, manuell kopierten Tabellen.
+3. **Auswirkung:** Eine Preisrevision lässt einen Teil der Kalkulation mit einer alten Annahme rechnen, sodass das Angebot fälschlich wettbewerbsfähig erscheint.
+4. **Korrigiertes Vorgehen:** Kernpreise zentral in `01_Parameters` pflegen und BOQ-Beträge dynamisch aus den aktuellen Summen berechnen.
 
 <details>
 <summary>Formelreferenz</summary>
 
-Der BOQ-Betrag folgt der grundlegenden Beziehung:
-
 ```excel
 =Quantity*Unit_Rate
-```
-
-Die Summe wird anschließend abgestimmt als:
-
-```excel
 =SUM(F5:F10)
 ```
 
@@ -223,34 +228,15 @@ Die Summe wird anschließend abgestimmt als:
 
 #### Falle 2 — Die Bewehrungstonnage wirkt plausibel, ist aber nicht verknüpft
 
-1. **Es wurde eine Entscheidung getroffen:**
-   Die Stahlbeschaffung stützt sich auf eine separat erstellte Bewehrungssumme.
-
-2. **Der versteckte Mangel:**
-   Die Stahlzusammenfassung ist nicht direkt an die Abmessungen auf Elementebene, die Stabgrößen, die Mengen und die berechneten Zuschnittlängen gebunden.
-
-3. **Wie der Mangel die Empfehlung verändert:**
-   Eine Änderung der Elementanzahl oder der Geometrie kann die erforderliche Bewehrung verändern, während die Beschaffungszahl unverändert bleibt.
-
-4. **Warum die Schlussfolgerung falsch ist:**
-   Eine plausible Summe genügt nicht, wenn ihre Herkunft nicht bis zur aktuellen Tragwerkseingabe zurückverfolgt werden kann.
-
-5. **Korrigiertes Vorgehen:**
-   Bewehrungsdatensätze aus derselben Elementeingabetabelle ableiten und die Gesamtlaufmeter berechnen, bevor in das theoretische Gewicht umgerechnet wird.
-
-6. **Korrigiertes Entscheidungsergebnis:**
-   Die Bewehrungskalkulation bewegt sich mit den zugrunde liegenden Elementdaten und kann gegen die Anzahl der Quellelemente abgestimmt werden.
+1. **Entscheidung:** Die Stahlbeschaffung wird aus einer separat erstellten Bewehrungszusammenfassung bestellt.
+2. **Versteckter Mangel:** Die Stahlzusammenfassung ist nicht direkt an Abmessungen auf Elementebene, Stabgrößen, Mengen und Zuschnittlängen gekoppelt.
+3. **Auswirkung:** Eine Änderung der Elementanzahl oder Geometrie verändert den realen Stahlbedarf, während die Beschaffung veraltet bleibt.
+4. **Korrigiertes Vorgehen:** Alle Bewehrungsdatensätze direkt aus `02_Qty_Input` ableiten, Laufmeter berechnen und mit Verschnittzuschlag in das theoretische Gewicht umrechnen.
 
 <details>
 <summary>Formelreferenz</summary>
 
-Die Umsetzung verwendet die theoretische Bewehrungsbeziehung:
-
-```excel
-W = den * d^2
-```
-
-und rechnet den resultierenden Kilogrammwert nach Anwendung des konfigurierten Verschnittzuschlags in Tonnen um:
+Das theoretische Einheitsgewicht folgt $W = \text{den} \cdot d^2$, umgerechnet in metrische Tonnen mit Verschnittzuschlag:
 
 ```excel
 =(tot_m*(den*dia*dia)*(1+waste))/1000
@@ -260,28 +246,13 @@ und rechnet den resultierenden Kilogrammwert nach Anwendung des konfigurierten V
 
 #### Falle 3 — Eine fehlende Eingabe wird mit einem kostengünstigen Ergebnis verwechselt
 
-1. **Es wurde eine Entscheidung getroffen:**
-   Die Kalkulation erscheint ungewöhnlich niedrig und wird als wettbewerbsfähiger Wert akzeptiert.
-
-2. **Der versteckte Mangel:**
-   Ein Tragwerkselement hat eine positive Menge, aber eine ausgelassene oder mit null angesetzte Abmessung.
-
-3. **Wie der Mangel die Empfehlung verändert:**
-   Die fehlende Abmessung kann die berechnete Menge unterdrücken und damit den kaufmännischen Wert zu niedrig ausweisen.
-
-4. **Warum die Schlussfolgerung falsch ist:**
-   Das Modell erzeugt aus unvollständigen Baudaten ein mathematisch gültiges Ergebnis. Mathematische Gültigkeit begründet noch keine kalkulatorische Gültigkeit.
-
-5. **Korrigiertes Vorgehen:**
-   Erforderliche Geometrie- und Preisbildungseingaben validieren, bevor die Kalkulation akzeptiert wird.
-
-6. **Korrigiertes Entscheidungsergebnis:**
-   Die Kalkulation wird geprüft, bevor sie zu einer Angebots- oder Beschaffungsverpflichtung wird.
+1. **Entscheidung:** Eine ungewöhnlich niedrige Kalkulation wird als scharfes, wettbewerbsfähiges Angebot akzeptiert.
+2. **Versteckter Mangel:** Ein Tragwerkselement hat eine positive Anzahl, aber eine ausgelassene oder null betragende Tiefe/Höhe.
+3. **Auswirkung:** Eine Höhe von null unterdrückt das Volumen stillschweigend — die Mathematik ist gültig, aber das Angebot ist fatal unterbewertet.
+4. **Korrigiertes Vorgehen:** Automatische Geometrie- und Preisvalidierungsprüfungen in `06_Validation` ausführen, bevor eine Angebotssumme akzeptiert wird.
 
 <details>
 <summary>Formelreferenz</summary>
-
-Die Validierungsebene prüft auf Elemente außerhalb der Erdarbeiten mit positiver Anzahl, aber fehlender Tiefe/Höhe:
 
 ```excel
 =IF(
@@ -297,50 +268,38 @@ Die Validierungsebene prüft auf Elemente außerhalb der Erdarbeiten mit positiv
 
 </details>
 
+---
+
 ### Beispielszenario
 
-Betrachten Sie eine Gründungskalkulation mit Pfählen, Pfahlkopfplatten, Fundamentbalken, kurzen Stützen und Aushub.
+Betrachten Sie eine Gründungskalkulation mit Pfählen, Pfahlköpfen, Gründungsbalken, kurzen Stützen und Aushub:
 
-Der Workflow beginnt mit Eingaben auf Elementebene, zum Beispiel:
-
-| Eingabe                     |            Beispiel |
+| Eingabe                     |           Beispiel |
 | --------------------------- | ----------------: |
 | Pfahldurchmesser            |            0.60 m |
 | Pfahltiefe                  |           18.00 m |
 | Pfahlanzahl                 |                24 |
-| Länge der Pfahlkopfplatte   |            2.40 m |
-| Breite der Pfahlkopfplatte  |            2.40 m |
-| Tiefe der Pfahlkopfplatte   |            0.80 m |
-| Anzahl der Pfahlkopfplatten |                 6 |
+| Pfahlkopflänge              |            2.40 m |
+| Pfahlkopfbreite             |            2.40 m |
+| Pfahlkopftiefe              |            0.80 m |
+| Pfahlkopfanzahl             |                 6 |
 | Durchmesser Hauptbewehrung  |             20 mm |
-| Menge der Hauptbewehrung    | 16 Stäbe / Element |
+| Menge Hauptbewehrung        | 16 Stäbe / Element |
 
-Die Eingabeschicht berechnet die geometriespezifische Menge für jedes Element. Kreisrunde Elemente verwenden die durchmesserbasierte Berechnung, während rechteckige Elemente Länge × Breite × Tiefe verwenden. Die Erdarbeiten erhalten den konfigurierten Erdbau-Faktor getrennt von den Mengen der Tragwerkselemente. 
+Die Eingabeebene berechnet das geometriespezifische Volumen je Element: Kreisrunde Elemente verwenden das durchmesserbasierte Volumen ($\pi (d/2)^2 h$), rechteckige Elemente verwenden $\text{Length} \times \text{Width} \times \text{Depth}$, und die Erdarbeiten wenden den konfigurierten Auflockerungsfaktor separat an. Die Bewehrungs-Engine filtert bewehrte Elemente, leitet Gesamtstabanzahlen und Zuschnittlängen ab und rechnet Laufmeter inklusive Verschnitt in Tonnen um. Diese Mengen fließen direkt in `04_BOQ_Summary` und `05_Cost_Dashboard` und bestätigen nicht nur *"Wie hoch ist die Summe?"*, sondern *"Sind Geometrie, Bewehrungsintensität ($kg/m^3$), Einheitspreise und BOQ-Summen in sich stimmig und nachvollziehbar?"*
 
-Die Bewehrungs-Engine filtert anschließend die Elemente mit Bewehrungsinformationen und leitet die Gesamtstabanzahl aus der Elementmenge und der angegebenen Bewehrungsanzahl ab. Die Zuschnittlänge wird entsprechend der Elementkategorie angepasst, und die Gesamtlaufmeter werden unter Verwendung der konfigurierten Durchmesserkonstante und des Verschnittzuschlags in theoretisches Gewicht umgerechnet. 
-
-Die resultierenden Mengen fließen in das BOQ. Beton-, Schalungs-, Erdbau- und Bewehrungsmengen werden mit ihren konfigurierten Preisen multipliziert, um Positionsbeträge und geschätzte Gesamtkosten zu erzeugen. 
-
-Die Managementebene stellt das kaufmännische Ergebnis anschließend über eine kleinere Gruppe von Kennzahlen dar: Gesamtkosten, Betonvolumen, Bewehrungstonnage, Erdbau-Menge und Bewehrungsintensität je Kubikmeter Konstruktionsbeton. 
-
-Die abschließende Entscheidung lautet nicht einfach **„Wie hoch ist die Summe?“**
-
-Sie lautet:
-
-**„Bilden Menge, Bewehrungsbedarf, Preisannahme und kaufmännische Gesamtsumme eine nachvollziehbare und in sich stimmige Kalkulation?“**
-
-Diese Unterscheidung ist wichtig, wenn die Arbeitsmappe für die Prüfung von Angeboten, die Budgetvorbereitung oder die Beschaffungsplanung verwendet wird.
+---
 
 ### Formelreferenz
 
 <details>
 <summary>Elementgeometrie</summary>
 
-Für kreisrunde Elemente berechnet die Umsetzung das Volumen aus Durchmesser und Höhe/Tiefe:
+Für kreisrunde Elemente wird das Volumen aus Durchmesser und Höhe/Tiefe berechnet; rechteckige Elemente greifen auf $\text{Length} \times \text{Width} \times \text{Height}$ zurück:
 
 ```excel
 =LET(
-    len, A5:INDEX(D:D, COUNTA(A:A)),
+    len, D5:INDEX(D:D, COUNTA(A:A)),
     wid, E5:INDEX(E:E, COUNTA(A:A)),
     hgt, F5:INDEX(F:F, COUNTA(A:A)),
     dia, G5:INDEX(G:G, COUNTA(A:A)),
@@ -348,18 +307,10 @@ Für kreisrunde Elemente berechnet die Umsetzung das Volumen aus Durchmesser und
 )
 ```
 
-Für rechteckige Elemente greift die Berechnung zurück auf:
-
-```text
-Length × Width × Height
-```
-
 </details>
 
 <details>
 <summary>Erdbaumenge</summary>
-
-Die Erdarbeiten erhalten den konfigurierten Faktor aus `01_Parameters`:
 
 ```excel
 =LET(
@@ -374,14 +325,10 @@ Die Erdarbeiten erhalten den konfigurierten Faktor aus `01_Parameters`:
 )
 ```
 
-Die Umsetzung hält den Erdbau-Faktor somit außerhalb der geometrischen Grundberechnung und wendet ihn entsprechend der Elementkategorie an. 
-
 </details>
 
 <details>
 <summary>Schalungsberechnung</summary>
-
-Die Schalungsmenge wird aus der Elementkategorie bestimmt:
 
 ```excel
 =LET(
@@ -402,14 +349,12 @@ Die Schalungsmenge wird aus der Elementkategorie bestimmt:
 )
 ```
 
-Dies spiegelt die in der Umsetzung dokumentierte Behandlung der Schalungskontaktflächen nach Elementkategorie wider. 
-
 </details>
 
 <details>
 <summary>Bewehrungsgewicht</summary>
 
-Die Bewehrungs-Engine berechnet das Gesamtgewicht anhand der konfigurierten Konstante für das theoretische Gewicht und des Verschnittzuschlags:
+Die Parametertabelle definiert die Konstante für das theoretische Gewicht als `0.006165` und den standardmäßigen Bewehrungs-Verschnittzuschlag als `3.0%`:
 
 ```excel
 =LET(
@@ -421,36 +366,14 @@ Die Bewehrungs-Engine berechnet das Gesamtgewicht anhand der konfigurierten Kons
 )
 ```
 
-Die Parametertabelle definiert die Konstante für das theoretische Gewicht als `0.006165` und den standardmäßigen Verschnittzuschlag für Bewehrung als `3.0%`. 
-
 </details>
 
 <details>
 <summary>BOQ-Aggregation</summary>
 
-Das BOQ verwendet kategoriebasierte Aggregationen wie:
-
 ```excel
-=SUMIFS(
-    '02_Qty_Input'!M:M,
-    '02_Qty_Input'!C:C,
-    "Earthwork"
-)
-```
-
-sowie durchmesserbasierte Aggregationen der Bewehrung wie:
-
-```excel
-=SUMIFS(
-    '03_Reinforcement_Engine'!I:I,
-    '03_Reinforcement_Engine'!C:C,
-    ">=16"
-)
-```
-
-Die endgültige BOQ-Summe lautet:
-
-```excel
+=SUMIFS('02_Qty_Input'!M:M, '02_Qty_Input'!C:C, "Earthwork")
+=SUMIFS('03_Reinforcement_Engine'!I:I, '03_Reinforcement_Engine'!C:C, ">=16")
 =SUM(F5:F10)
 ```
 
@@ -459,7 +382,7 @@ Die endgültige BOQ-Summe lautet:
 <details>
 <summary>Kennzahlen des Kosten-Dashboards</summary>
 
-Die Kennzahl der Bewehrungsintensität wird berechnet als:
+Bewehrungsintensität ausgedrückt als $kg$ Stahl je $m^3$ Konstruktionsbeton:
 
 ```excel
 =LET(
@@ -469,21 +392,19 @@ Die Kennzahl der Bewehrungsintensität wird berechnet als:
 )
 ```
 
-Damit wird der Bewehrungsverbrauch als Kilogramm je Kubikmeter Konstruktionsbeton ausgedrückt. 
-
 </details>
+
+---
 
 ### Validierungsregeln
 
-| Feld / Prüfung          | Regel                                                                                          | Fehlerverhalten                        |
+| Feld / Prüfung          | Regel                                                                                         | Fehlerverhalten                       |
 | ----------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------- |
 | Vollständigkeit der Geometrie | Elemente außerhalb der Erdarbeiten mit positiver Anzahl müssen eine positive Höhe/Tiefe aufweisen. | `FAIL`                                |
-| Gültigkeit der Einheitspreise | Die konfigurierten Preise für Beton, Aushub, Schalung und Bewehrung müssen größer als null sein. | `WARNING`                             |
-| Abgleich der Bewehrung | Erzeugte Bewehrungszeilen müssen mit den Eingabeelementen übereinstimmen, die Bewehrungsdaten enthalten. | `MISMATCH`                            |
-| BOQ-Abstimmung | Die BOQ-Summe muss nach der Rundung der Summe der Werte aus Positionsmenge × Einheitspreis entsprechen. | `ERR`                                 |
-| Integrität dynamischer Matrizen | Die Ausgabbereiche der Formeln dürfen nicht durch manuell eingegebene Werte oder verbundene Zellen blockiert werden. | `#SPILL!` erfordert die Bereinigung des Eingabebereichs |
-
-Die Validierungsmatrix der Quelle definiert vier Kernprüfungen für Geometrie, Preisbildung, Ausrichtung der Bewehrungszeilen und Abstimmung der BOQ-Beträge. 
+| Gültigkeit der Einheitspreise | Konfigurierte Beton-, Aushub-, Schalungs- und Bewehrungspreise müssen größer als null sein. | `WARNING`                             |
+| Abgleich der Bewehrung  | Erzeugte Bewehrungszeilen müssen mit den Eingabeelementen übereinstimmen, die Bewehrungsdaten enthalten. | `MISMATCH`                            |
+| BOQ-Abstimmung          | Die BOQ-Summe muss nach Rundung der Summe aus Positionsmenge × Einheitspreis entsprechen.     | `ERR`                                 |
+| Integrität dynamischer Matrizen | Formelüberlaufbereiche dürfen nicht durch manuell eingegebene Werte oder verbundene Zellen blockiert sein. | `#SPILL!` erfordert die Bereinigung des Eingabebereichs |
 
 </details>
 
@@ -491,18 +412,32 @@ Die Validierungsmatrix der Quelle definiert vier Kernprüfungen für Geometrie, 
 
 ## Weitere Tools aus dieser Reihe
 
-* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Erfüllt die Wellenauslegung die relevante Berechnungslogik? — Wenden Sie die Berechnungsnorm DIN 743 für Wellen auf technische Auslegungsentscheidungen an.
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Was kostet dieser Bauleistungsumfang unter den aktuellen Annahmen? — Standardisieren Sie die Kalkulation von Bauaufträgen und wandeln Sie abgeschlossene Kalkulationen in wiederverwendbare Kostenbibliotheken um.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Wie verhalten sich Kalkulation und verfolgte Kosten über die Projektabwicklung hinweg? — Vergleichen Sie Baukalkulationen mit den Ist-Kosten über die gesamte Projektabwicklung anhand von Formaten nach AIA-Standard.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Ist die finanzielle Projektposition nach Berücksichtigung genehmigter Änderungen, Ist-Kosten und Abrechnungsfortschritt korrekt? — Integrieren Sie Budgets, Nachträge, Abschlagsrechnungen und Cashflow in einen einheitlichen Steuerungsrahmen für Bauprojekte.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Welche Energieoption bietet für dieses spezifische Projekt unter seinen tatsächlichen Betriebsbedingungen die niedrigsten Gesamtbetriebskosten? — Vergleichen Sie industrielle Energiequellen auf Basis der tatsächlich nutzbaren Energie, indem Sie Brennstoffkosten, Anlageneffizienz, Infrastrukturinvestitionen und Lebenszykluskosten der Eigentumsnutzung normieren.
-* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Was kostet dieses Wohnprojekt und welche Leistungsbereiche sind bereits über dem Budget? — Kalkulieren Sie Wohnbaukosten aus BOQ-Aufmaßen und Preisen und verfolgen Sie genehmigte Budgets gegen die tatsächlichen Ausgaben.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Was kostet dieses Tunnelprojekt im Bohr- und Sprengverfahren unter dem angenommenen Bauzyklus? — Kalkulieren Sie Ausbruch, Bohren, Sprengen, Sicherung, Ausrüstung und Arbeitskräfte für Tunnel im Bohr- und Sprengverfahren zu vollständigen Projektkosten und einem BOQ.
+Entdecken Sie weitere leichtgewichtige, sofort einsetzbare Excel-Entscheidungs-Toolkits von **[Theseus Workshop](https://theseusworkshop.com/)**:
+
+- 🎁 **[Monatliche Bau-CVR- & Accruals-Excel-Vorlage (Kostenlos · \$0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *Kostenlos hier starten:* Gleichen Sie anerkannte Leistungen, nicht fakturierte Baustellen-Accruals, Nachtragsrisiken und EAC-Gewinnprognosen zum Monatsende ab.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Standardisieren Sie die Ausschreibungskalkulation für Gesamtprojekte und verwandeln Sie abgeschlossene Angebote in wiederverwendbare Kostenbibliotheken.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Integrieren Sie Kostenarten-Budgets, Nachträge, SOV-Fortschrittsabrechnung, Einbehalt und rollierenden Cashflow in einen einheitlichen Steuerungsrahmen für ein einzelnes Projekt.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Vergleichen Sie Baukalkulationen mit Ist-Kosten über die gesamte Projektabwicklung anhand von Formaten nach AIA-Standard.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Kalkulieren Sie Wohnbaukosten aus BOQ-Aufmaßen und Preisen und verfolgen Sie genehmigte Budgets gegen die tatsächlichen Ausgaben.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Kalkulieren Sie Tunnelausbruch im Bohr- und Sprengverfahren, Sicherung, Ausrüstung und Arbeitskosten zu einem vollständigen BOQ.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Vergleichen Sie industrielle Energiequellen auf Basis der tatsächlichen Nutzenenergie über den gesamten Lebenszyklus (TCO).
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Wenden Sie die Berechnungsnorm DIN 743 für Wellen auf technische Auslegungsentscheidungen an.
+
+---
+
+## Fragen, Feedback & Produkt-Updates
+
+Dieses Gründungs-Aufmaß-Toolkit ist auf praktische Unterbau-Aufmessung, Beton- und Schalungsmengen, Bewehrungsplanung und BOQ-Preisbildungs-Workflows ausgelegt. Nutzen Sie die folgenden Kanäle, um technische Fehlerberichte von Workflow-Fragen und Produktideen getrennt zu halten:
+
+- **Fragen & Workflow-Passung:** [Fragen Sie zu Einzelfundament-, Pfahl-, Platten- oder Balken-Eingaben, Betonvolumina, Schalung, Bewehrungs-BBS oder bepreisten BOQ-Ergebnissen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideen & Verbesserungen:** [Schlagen Sie zusätzliche Tragwerkselemente, Aufmaßregeln, Bewehrungsverzeichnisse, Validierungsprüfungen oder Kostenberichte vor](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Technisches Problem melden:** [Öffnen Sie das Gründungs-QTO-Fehlermeldeformular](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/issues/new?template=bug-report.yml).
+- **Produkt-Updates:** [Verfolgen Sie Wartungs- und Verbesserungshinweise](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+Wenn Sie ein Problem beschreiben, erwähnen Sie den Elementtyp, das Arbeitsblatt, die Eingabeabmessungen, die betroffene Stabgröße oder -anzahl sowie das erwartete versus das tatsächliche Ergebnis. Verwenden Sie synthetische Abmessungen und Preise. Laden Sie keine Kundenzeichnungen, laufenden Ausschreibungen, Tragwerksplanungsdateien, Bewehrungsverzeichnisse mit vertraulichen Projektdaten oder Anbieterangebote hoch.
 
 ## Lizenz
 
-Dieses Projekt steht unter der **Apache License 2.0**.
+Dieses Projekt wird unter der **Apache License 2.0** veröffentlicht.
 
 Siehe die Datei [`LICENSE`](LICENSE) für die vollständigen Lizenzbedingungen.
-
-
