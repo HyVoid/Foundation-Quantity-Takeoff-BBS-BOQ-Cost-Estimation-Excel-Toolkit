@@ -1,143 +1,166 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
+# Plantilla de Excel para levantamiento de cantidades (QTO) de cimentaciones, listado de doblado de barras (BBS) de armadura y cómputo y presupuesto BOQ (calculadora web gratuita) — Volumen de concreto, encofrado y estimador de costos
 
-# Plantilla de Excel para medición de cantidades (QTO) y BOQ de cimentaciones: listado automático de doblado de barras (BBS) de acero de refuerzo, volumen de concreto y estimador de costos
-<img width="1049" height="790" alt="image" src="https://github.com/user-attachments/assets/55faa135-a626-40be-b88a-ee7264fbc96a" />
+[![Licencia: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Libro de Excel: compra única](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase-1E3A8A.svg)
+![Demo interactiva: calculadora web gratuita](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Garantía: devolución del dinero en 30 días](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
+<img width="1049" height="790" alt="Vista general de la plantilla Excel para levantamiento de cantidades (QTO) de cimentaciones, BBS de armadura y BOQ en construcción" src="https://github.com/user-attachments/assets/55faa135-a626-40be-b88a-ee7264fbc96a" />
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)](#access)
-[![Tool Type](https://img.shields.io/badge/Tool-Construction%20Estimation%20Software-orange.svg)](#what-it-helps-track)
+**Deje de perder licitaciones de subestructura por errores tipográficos en levantamientos manuales, hojas de armadura desconectadas y errores ocultos en las ratios concreto/acero.** Esta **plantilla de Excel de levantamiento de cantidades (QTO) de cimentaciones, listado de doblado de barras (BBS) y cómputo y presupuesto BOQ de 6 pestañas, lista para usar** (acompañada de una **calculadora gratuita en el navegador**) convierte las dimensiones brutas de zapatas, pilotes, encajes de pilote, vigas de cimentación, columnas y zanjas directamente en **volúmenes de concreto ($m^3$), áreas de encofrado ($m^2$), cantidades de movimiento de tierras, tonelaje de armadura ordenado por diámetro, verificaciones de intensidad de refuerzo ($kg/m^3$) y listas de cantidades (BOQ) valorizadas**—sin arrastrar fórmulas a mano, sin macros VBA y sin costosas suscripciones a software de levantamiento civil.
 
-**Una calculadora de cimentaciones de obra y plantilla Excel de estimación de costos lista para usar (.xlsx)** creada para principiantes, pequeños contratistas y técnicos de mediciones. Convierta al instante las dimensiones brutas de zapatas, pilotes, losas y vigas en **volúmenes de concreto ($m^3$), cantidades de excavación de tierras, áreas de encofrado ($m^2$), listados automáticos de doblado de barras (BBS) para el tonelaje de acero de refuerzo y listas de cantidades (BOQ) valorizadas** precisos—funcionando como una **alternativa de software de estimación civil** lista para usar que no exige arrastrar fórmulas a mano ni configurar macros.
+> ### Empiece en minutos
+>
+> - 📥 **Obtenga el libro completo offline de Excel para levantamiento y BBS de 6 pestañas (compra única · garantía de devolución del dinero de 30 días sin preguntas):** [**Descargue la plantilla completa de Excel para QTO de cimentaciones, BBS y BOQ (.xlsx) en Theseus Workshop**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README) — un sistema local `.xlsx` desbloqueado con flujo de trabajo SOP integrado, fórmulas dinámicas de actualización automática, motor de BBS de armadura y verificaciones de validación previas a la licitación. Reutilizable en proyectos ilimitados, privacidad 100% offline, cero tarifas recurrentes de SaaS.
+> - 🌐 **Pruebe primero la matemática del levantamiento en vivo (calculadora 100% gratuita en el navegador · sin registro):** [**Abra la calculadora web gratuita de QTO de cimentaciones y armadura en concreto**](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/) para ejecutar una verificación instantánea de la subestructura directamente en su navegador.
+> - 🎁 **¿Nuevo en Theseus Workshop y quiere probar primero un archivo Excel offline por \$0?** Obtenga nuestra [**Plantilla gratuita mensual de Excel para CVR y devengos de construcción (\$0+ Pay What You Want)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_qto_readme_crosslink) para probar nuestro trabajo artesanal de Excel plug-and-play offline antes de actualizar su flujo de trabajo de levantamiento de subestructuras.
+
+---
+
+## Cómo este kit de herramientas de QTO y BBS de cimentaciones encaja en su flujo de trabajo comercial completo
+
+Si ya descargó nuestra **Plantilla gratuita mensual de CVR y devengos**, sabe lo rápido que un paquete de concreto o armadura mal presupuestado puede arruinar el margen del proyecto en obra. **Las pérdidas en subestructura casi siempre comienzan en la medición de planos**—cuando la re-digitación manual entre geometría, hojas de armadura y precios del BOQ oculta un error de cantidades del 5%–10%.
+
+Así es como este libro de trabajo se integra con el resto de la suite de construcción de **Theseus Workshop**:
+
+| Etapa comercial | Kit de herramientas en la suite de Theseus Workshop | El error costoso que elimina |
+|---|---|---|
+| **Etapa 1A — Medición en planos y detallado de armadura** | **Este libro de trabajo: estimador de QTO, BBS y BOQ de cimentaciones** (*compra única*) | Elimina la transcripción manual entre dimensiones de zapatas/pilotes, volúmenes de concreto/encofrado, listados de doblado de barras (BBS) de armadura y precios del BOQ de subestructura |
+| **Etapa 1B — Presupuestación de licitación de todo el proyecto** | [Banco de trabajo de estimación de construcción y precios de BOQ](https://github.com/HyVoid/construction-estimating) (*compra única*) | Normaliza los BOQ multi-partida del cliente en ensamblajes de costos reutilizables, multiplicadores de productividad y presupuestos listos para Procore |
+| **Etapa 2 — Ejecución activa del proyecto** | [Libro de trabajo de gestión de proyectos de construcción y flujo de caja](https://github.com/HyVoid/construction-project-management-excel) (*compra única*) | Controla presupuestos semanales por código de costo, órdenes de cambio aprobadas, facturación por avance del programa de valores (SOV), retenciones y flujo de caja continuo |
+| **Etapa 3 — Auditoría de rentabilidad de fin de mes** | [Plantilla mensual de CVR y devengos de construcción](https://github.com/HyVoid/construction-cvr-accruals-excel-template) (**Gratis · \$0+ PWYW**) | Concilia la utilidad contable frente a los devengos de obra no facturados, el riesgo de variaciones y la deriva del margen de la estimación al completar (EAC) a fin de mes |
+
+---
+
+## Qué controla y automatiza: puntos de dolor del levantamiento de subestructuras mapeados a controles instantáneos
 
 <p align="center">
-  <img width="1381" height="827" alt="Construction Foundation Quantity Takeoff QTO and BOQ Cost Estimation Excel Template Dashboard showing concrete volume and rebar weight calculations" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
+  <img width="1381" height="827" alt="Panel de la plantilla Excel para levantamiento de cantidades (QTO) y estimación de costos BOQ de cimentaciones en construcción, mostrando el cálculo del volumen de concreto y el peso de la armadura" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
 </p>
 
-> **Pruebe la calculadora en el navegador o descargue el libro de Excel offline permanente:**  
-> Pruebe la lógica de cálculo al instante en su navegador, o descargue el **libro de trabajo de estimación de Microsoft Excel** desbloqueado y reutilizable para el almacenamiento local de proyectos, la presentación de ofertas a clientes, las pistas de auditoría financiera y la ejecución en temporadas de licitación intensas (respaldado por una garantía de devolución del dinero de 30 días).
->
-> * [🌐 **Abrir la calculadora web gratuita de QTO de cimentaciones y acero de refuerzo en concreto** *(vista previa online instantánea — sin registro de cuenta ni instalación de software)*](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
-> * [📥 **Descargar la plantilla Excel offline de BOQ, BBS y estimación de costos de cimentaciones (.xlsx)** *(flujo de trabajo SOP preconfigurado y fórmulas de actualización automática para proyectos comerciales ilimitados)*](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
-
-Diseñada para implementarse de inmediato: realice una medición rápida de la subestructura directamente en su navegador web, o descargue la hoja de cálculo local `.xlsx` para pegar las dimensiones de su propio proyecto y generar desgloses de costos listos para el cliente en segundos.
-
----
-
-## Qué le ayuda a controlar: puntos de dolor en la medición de subestructuras y soluciones automatizadas en Excel
-
-| Punto de dolor habitual en la estimación | Métrica de seguimiento de alta frecuencia | Solución de la plantilla Excel automatizada |
+| Punto de dolor habitual en la estimación de subestructuras | Métrica de seguimiento de alta frecuencia | Qué calcula para usted esta plantilla Excel automatizada |
 | :--- | :--- | :--- |
-| **Cálculos fragmentados de cimentaciones y zapatas** | **Cantidades de elementos de subestructura** *(pilotes, cabezales de pilotes, zapatas aisladas, vigas de riostra, columnas, excavación de zanjas)* | Centraliza todas las **mediciones de cantidades de subestructura civil** en una única tabla de entrada unificada, eliminando las hojas de cálculo manuales separadas para cada tipo de elemento de concreto. |
-| **Desconexión entre las dimensiones del plano y el volumen** | **Volumen de concreto ($m^3$), área de encofrado ($m^2$) y corte/relleno de tierras** | Vincula automáticamente las dimensiones geométricas de medición y el conteo de elementos provenientes de **PlanSwift, Bluebeam Revu, AutoCAD o planos PDF** con las fórmulas de volumen estructural y de encofrado. |
-| **Detallado de acero de refuerzo complejo y lento** | **Calculadora de peso de acero y listado de doblado de barras (BBS) por diámetro de barra** | Genera automáticamente **longitudes de corte del acero de refuerzo, metros lineales totales, peso teórico del acero ($kg / tonnes$) y márgenes de desperdicio** ordenados por tamaño de barra (por ejemplo, de 10 mm a 32 mm). |
-| **Errores de copiar y pegar durante la valorización de la licitación** | **Lista de cantidades valorizada (BOQ) y desglose de costos por división** | Traslada los totales calculados de movimiento de tierras, concreto, encofrado y acero directamente a un **cuadro BOQ comercial** estandarizado, multiplicando las cantidades por los precios unitarios de forma automática. |
-| **Licitación a ciegas sin verificación de ratios de materiales** | **Intensidad de acero ($kg/m^3$) e indicadores clave de costo unitario** | Calcula en tiempo real la **densidad de refuerzo por metro cúbico de concreto ($kg/m^3$)** y la distribución de costos, lo que permite a principiantes y gerentes detectar al instante una oferta por debajo del costo o un pedido excesivo. |
-| **Errores de entrada ocultos que arruinan el margen final de la oferta** | **Detección de errores previa a la oferta y alertas de auditoría de fórmulas** | Ejecuta **verificaciones automáticas de validación de datos** para señalar dimensiones de zapata faltantes, precios unitarios en cero, parámetros de acero no válidos o filas de BOQ sin vincular antes de presentar la licitación. |
+| **Hojas de cálculo fragmentadas de cimentaciones y zapatas** | **Cantidades de elementos de subestructura** *(pilotes, encajes de pilote, zapatas aisladas, vigas de cimentación, columnas, excavación de zanjas)* | Centraliza todas las **mediciones de subestructura civil** en una única tabla de entrada unificada, eliminando las hojas manuales separadas para cada tipo de elemento. |
+| **Desconexión entre los planos y el cálculo de volúmenes** | **Volumen de concreto ($m^3$), área de encofrado ($m^2$) y corte/relleno de tierras** | Conecta las dimensiones brutas del levantamiento geométrico provenientes de **PlanSwift, Bluebeam Revu, AutoCAD o planos PDF** directamente con las fórmulas de volumen, encofrado y esponjamiento del suelo. |
+| **Detallado de armadura lento y propenso a errores** | **Calculadora de peso de armadura y listado de doblado de barras (BBS) por tamaño de barra** | Genera automáticamente **longitudes de corte, número total de barras, metros lineales, peso teórico de armadura ($kg$ / toneladas) y márgenes de desperdicio de corte** agrupados por diámetro de barra. |
+| **Errores de copiar y pegar durante la valorización del BOQ** | **Lista de cantidades (BOQ) valorizada y desglose de costos** | Traslada los totales calculados de movimiento de tierras, concreto, encofrado y armadura directamente a un **BOQ comercial** estandarizado, multiplicando las cantidades por precios unitarios vivos de forma automática. |
+| **Licitación a ciegas sin verificación de ratios de materiales** | **Intensidad de armadura ($kg/m^3$) e indicadores clave de estructura de costos** | Calcula en tiempo real la **densidad de acero por metro cúbico de concreto ($kg/m^3$)** para que principiantes y directivos detecten de inmediato ofertas por debajo del costo o errores tipográficos en unidades. |
+| **Errores silenciosos de entrada que arruinan los márgenes de licitación** | **Detección de errores previa a la oferta y alertas de auditoría** | Ejecuta **verificaciones de validación** automáticas (`PASS / FAIL / WARNING / MISMATCH`) para señalar profundidades de zapata faltantes, precios unitarios en cero o filas de BOQ sin vincular antes de la presentación. |
 
 ---
 
-## Tutorial de inicio rápido: cómo automatizar la medición y la estimación de costos de cimentaciones en 4 pasos
+## Vista previa de la hoja de cálculo
 
-Aunque no tenga formación avanzada en Excel ni antecedentes formales en medición de cantidades, este kit de herramientas incluye un **flujo de trabajo con procedimiento operativo estándar (SOP) integrado**. La matemática de ingeniería subyacente y las reglas de vinculación comercial están preconfiguradas: solo debe seguir las pestañas numeradas, pegar sus mediciones brutas y leer la retroalimentación analítica instantánea.
+¿Quiere inspeccionar las 6 pestañas, el motor de BBS de armadura y el panel de costos antes de descargar? Previsualice el libro de trabajo directamente en Google Sheets:
 
-### Paso 1: configurar los precios locales de materiales de construcción y los factores de desperdicio
-Abra el panel de configuración de parámetros para inicializar su entorno de licitación. Introduzca su moneda local, los precios unitarios de **concreto estructural premezclado, excavación, encofrado de madera o acero y acero de refuerzo**, además de los márgenes estándar para el **desperdicio por corte de acero (%)** y los **factores de esponjamiento o contracción del suelo**.
+**[Ver la vista previa en vivo de la hoja de cálculo en Google Sheets](https://docs.google.com/spreadsheets/d/1EDtiAxAGifr8hsWZ3oCV34T4AlyNzHJ8/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
-### Paso 2: pegar las dimensiones brutas de su medición de cimentación (sin arrastrar fórmulas)
-Copie y pegue los elementos de cimentación que haya medido—desde **Bluebeam, PlanSwift, CostX o mediciones manuales sobre planos PDF**—directamente en la tabla estructurada de entrada de datos. Introduzca el ID del elemento, la referencia del plano, la categoría de cimentación (pilote, cabezal de pilote, zapata, viga de riostra o columna), las dimensiones de largo/ancho/profundidad y los datos básicos de separación y diámetro de las barras.
-
-### Paso 3: revisar los volúmenes de concreto, el BBS de acero y los informes de BOQ valorizados generados automáticamente
-Observe cómo el motor de estimación calcula todo de forma simultánea. Como todas las reglas de búsqueda y las fórmulas de matriz dinámica están premapeadas dentro de la plantilla, **ni siquiera necesita hacer doble clic en el controlador de relleno de Excel ni arrastrar fórmulas hacia abajo por las filas**. Sus volúmenes de concreto, áreas de encofrado, el **listado de doblado de barras (BBS)** diámetro por diámetro, la **lista de cantidades (BOQ)** comercial y los **diagnósticos de intensidad de acero ($kg/m^3$)** se completan con un solo clic.
-
-### Paso 4: descargar el libro de Excel reutilizable para las temporadas de licitación intensas
-Cuando los ingenieros estructurales emitan revisiones de planos, adendas u órdenes de cambio (VO), simplemente sobrescriba las celdas de dimensiones modificadas o actualice un único precio unitario de material: cada tabla BBS y cada total de BOQ posteriores se actualizan automáticamente.
-
-> **Deje de reconstruir hojas de cálculo desde cero en cada temporada de licitaciones:**  
-> Las matemáticas de construcción y la verificación cruzada comercial son complejas, pero su flujo de trabajo diario no tiene por qué serlo. Con reglas de cálculo de coincidencia automática ya creadas, fórmulas dinámicas de actualización automática y un SOP integrado paso a paso, puede omitir por completo la depuración de fórmulas. Solo descargue el archivo en local, pegue los datos de su proyecto y obtenga retroalimentación comercial inmediata para mantenerse enfocado en ganar proyectos en lugar de pelear con hojas de cálculo rotas.
->
-> 👉 **[📥 Descargar la plantilla Excel completa offline de medición de cimentaciones, BBS y BOQ (.xlsx) para uso local ilimitado](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)**
+> **Nota sobre la compatibilidad:** La vista previa en Google Sheets puede mostrar advertencias ocasionales de `#NAME?` debido a diferencias de fórmulas de matriz dinámica entre Google Sheets y Microsoft Excel. Son artefactos exclusivos de la vista previa y no aparecen en el archivo `.xlsx` descargado al abrirlo en Microsoft Excel.
 
 ---
 
-## La lógica comercial y la metodología: cómo resolver las fugas de rentabilidad ocultas en la licitación de cimentaciones
+## Tutorial de inicio rápido: automatice su levantamiento de cimentaciones y su oferta en 4 pasos sencillos
 
-Para principiantes, estimadores junior y pequeños contratistas con la agenda apretada, la licitación de subestructuras es una de las fases de mayor riesgo de un proyecto de construcción. La mayoría de las pérdidas en licitaciones no se produce porque un estimador no sepa medir una zapata en un plano, sino por **puntos ciegos en el flujo de trabajo estructural** entre la medición y el precio final.
+Incluso sin conocimientos avanzados de Excel ni formación formal en medición de cantidades, este libro de trabajo incluye un **flujo de trabajo SOP numerado e integrado**. Cada regla geométrica, cada búsqueda del BBS de armadura y cada verificación de validación ya están preconfiguradas—usted solo pega sus mediciones y lee el resultado comercial instantáneo:
 
-A continuación se presentan los tres riesgos comerciales objetivos que hacen perder dinero a los contratistas, y cómo la lógica comercial integrada en esta plantilla los elimina:
+### Paso 1: configure sus precios locales de materiales y factores de desperdicio (`01_Parameters`)
+Introduzca su moneda, los precios unitarios de **concreto premezclado, excavación, encofrado y acero de refuerzo**, además de su **desperdicio estándar de corte de armadura (%)** y su **factor de esponjamiento del suelo** en una única pestaña central de control.
+
+### Paso 2: pegue las dimensiones brutas del levantamiento de la cimentación (`02_Qty_Input`)
+Copie y pegue las dimensiones medidas desde **Bluebeam, PlanSwift, CostX, AutoCAD o levantamientos manuales sobre PDF** en las columnas de entrada limpias (`A:K`)—ID del elemento, referencia del plano, categoría (pilote, encaje de pilote, zapata, viga de cimentación, columna o movimiento de tierras), dimensiones, cantidad y datos básicos de diámetro/número de barras de armadura.
+
+### Paso 3: revise los volúmenes de concreto, el BBS de armadura y el BOQ valorizado generados automáticamente (`03`–`05` Pestañas de salida)
+Como todas las fórmulas de matriz dinámica están premapeadas, **nunca necesitará arrastrar fórmulas hacia abajo por las filas ni reparar rangos de `VLOOKUP` rotos**. Abra `03_Reinforcement_Engine`, `04_BOQ_Summary` y `05_Cost_Dashboard` para ver al instante su **listado de doblado de barras (BBS)** ordenado por diámetro, el **BOQ** valorizado y el **diagnóstico de intensidad de armadura ($kg/m^3$)**.
+- 👉 [**Pruebe la matemática del levantamiento de concreto y armadura gratis en su navegador**](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
+
+### Paso 4: audite con alertas previas a la oferta y gestione revisiones en segundos (`06_Validation`)
+Revise `06_Validation` para confirmar que cada verificación de geometría, precios, alineación de armadura y BOQ lea `PASS`. Cuando los ingenieros estructurales emitan una revisión de planos u orden de variación (VO), sobrescriba la única dimensión o precio unitario modificado—cada tonelaje del BBS y cada total de la oferta aguas abajo se actualizan automáticamente.
+
+---
+
+## Calculadora web gratuita frente a libro de Excel offline completo de 6 pestañas
+
+| Característica | Calculadora web gratuita en línea | **Libro de Excel local completo de 6 pestañas (compra única)** |
+|---|---|---|
+| **Ideal para** | Prueba instantánea de 2 minutos en entorno de simulación de la geometría de cimentaciones y la matemática de armadura | Licitación comercial real, compras de acero y trabajos de subestructura ilimitados |
+| **Registro multi-elemento de subestructura** | Prueba rápida de sesión única | Pegue zapatas, pilotes, encajes de pilote, vigas de cimentación, columnas y zanjas ilimitados |
+| **BBS de armadura automático y desglose de tonelaje** | Cálculo resumido | Motor completo `03_Reinforcement_Engine` con longitudes de corte, desperdicio y agrupación por diámetro (`>=16mm` frente a `<16mm`) |
+| **BOQ valorizado y panel de intensidad de armadura** | Vista previa básica del resultado | `04_BOQ_Summary` completo + `05_Cost_Dashboard` (indicadores de referencia $kg/m^3$) |
+| **Auditoría previa a la oferta y captura de errores** | — | Hoja dedicada `06_Validation` que detecta profundidades faltantes, precios en cero y errores de conciliación |
+| **Privacidad y reutilización de datos** | Sesión del navegador | **Archivo `.xlsx` local 100% offline**—los planos, los precios y los márgenes de oferta permanecen estrictamente en su disco |
+| **Modelo de costo y garantía** | Demo gratuita en el navegador | **Pequeña compra única** (cero tarifas SaaS) · **garantía de devolución del dinero de 30 días sin preguntas** |
+
+> **¿Listo para dejar de re-digitar levantamientos de cimentaciones y detectar errores costosos de armadura/concreto antes de licitar?**
+> 👉 [**Obtenga la plantilla completa de Excel para QTO, BBS y BOQ de cimentaciones (compra única · garantía de 30 días)**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
+
+---
+
+## La lógica de negocio y la metodología: 3 fugas de rentabilidad ocultas en la licitación de cimentaciones
+
+La mayoría de las pérdidas en la licitación de subestructuras no ocurren porque un estimador no sepa leer un plano de zapatas—ocurren por **tres puntos ciegos estructurales** entre la medición y el precio comercial:
 
 ### 1. Eliminar el «impuesto de la transcripción manual» entre hojas desconectadas
-* **El hecho objetivo:** En los flujos de trabajo tradicionales, los estimadores calculan el volumen de concreto en una hoja, estiman el peso del acero en un segundo archivo y escriben manualmente esos totales en una tercera hoja de lista de cantidades (BOQ) para la valorización. Los estudios de auditoría del sector muestran de forma consistente que las transferencias manuales entre celdas y las ediciones de `VLOOKUP` codificadas de forma rígida introducen una **discrepancia de cantidad o de precio del 3% al 8%**. Cuando los márgenes netos típicos de la contratación general se sitúan entre el **5% y el 10%**, una sola fila olvidada o un vínculo de fórmula roto elimina toda la utilidad del proyecto antes de mover la primera pala de tierra.
-* **La solución integrada:** Este kit de herramientas impone una línea de datos lineal estricta con una única fuente de verdad:
-  $$\text{Dimensiones medidas del plano} \longrightarrow \text{Geometría automatizada (Concreto / Encofrado / Movimiento de tierras)} \longrightarrow \text{BBS de acero vinculado} \longrightarrow \text{BOQ comercial valorizado} \longrightarrow \text{Validación automática de errores}$$
-  Usted introduce las dimensiones brutas una sola vez. Cada cuadro comercial se alimenta directamente de esa única entrada.
+- **El riesgo:** Calcular el concreto en una pestaña, la armadura en un segundo archivo y re-digitar los totales en una tercera hoja de BOQ introduce rutinariamente **errores de cantidades o precios del 3% al 8%**. Cuando los márgenes netos típicos de un contratista rondan el **5% al 10%**, una sola fila omitida o un vínculo desactualizado elimina la utilidad del trabajo antes de que comience la excavación.
+- **Cómo lo resuelve este libro de trabajo:** Impone un pipeline lineal estricto de fuente única de verdad:
+  $$\text{Measured Drawing Dimensions} \longrightarrow \text{Automated Geometry (Concrete / Formwork / Earthwork)} \longrightarrow \text{Linked Rebar BBS} \longrightarrow \text{Priced BOQ} \longrightarrow \text{Automated Validation}$$
 
-### 2. Exponer el punto ciego de decisión de la «intensidad de acero ($kg/m^3$)»
-* **El hecho objetivo:** Los principiantes casi siempre juzgan una estimación mirando únicamente el importe final de la última línea. Sin embargo, los directores comerciales experimentados auditan las estimaciones usando la **intensidad de refuerzo ($kg \text{ de acero por } m^3 \text{ de concreto}$)**. Si una zapata aislada comercial estándar o una viga de riostra suele requerir entre **80 y 130 $kg/m^3$** de acero, y su hoja de cálculo manual arroja por accidente **25 $kg/m^3$** (por un multiplicador de conteo de barras omitido) o **260 $kg/m^3$** (por un error de unidades de milímetro a metro), mirar solo el costo total ocultará el error. Con **25 $kg/m^3$**, gana la licitación pero sufre una pérdida financiera enorme al comprar acero en obra; con **260 $kg/m^3$**, su oferta queda sobrevalorada y se rechaza automáticamente.
-* **La solución integrada:** El panel de control calcula y muestra automáticamente la **intensidad de acero global y por elemento ($kg/m^3$)** junto con el tonelaje total, lo que brinda a los usuarios novatos exactamente la misma visibilidad de diagnóstico que un técnico de mediciones sénior.
+### 2. Exponer el punto ciego de decisión de la «intensidad de armadura ($kg/m^3$)»
+- **El riesgo:** Los principiantes juzgan las ofertas solo por el total final en dólares. Los directores comerciales sénior auditan las ofertas de cimentaciones usando la **intensidad de refuerzo** ($kg$ de acero por $m^3$ de concreto). Si las zapatas aisladas o vigas de cimentación estándar requieren **80 a 130 $kg/m^3$**, un error tipográfico manual que arroje **25 $kg/m^3$** le hace ganar un contrato que genera pérdidas—mientras que **260 $kg/m^3$** sobrevalora su oferta hasta el rechazo automático.
+- **Cómo lo resuelve este libro de trabajo:** Muestra automáticamente la **intensidad de armadura ($kg/m^3$)** global directamente en el panel de costos, dando a los principiantes el mismo radar de verificación que un técnico de mediciones veterano.
 
-### 3. Proteger el flujo de caja frente al desperdicio de material y el esponjamiento del suelo no contabilizados
-* **El hecho objetivo:** Pagar por el volumen geométrico exacto que figura en los planos estructurales CAD garantiza faltantes de material en obra. El acero de refuerzo requiere márgenes de desperdicio por corte y por empalme (habitualmente del **5% al 10%**), y el suelo excavado se expande al extraerlo (factores de esponjamiento o expansión de tierras del **15% al 30%**), lo que incide directamente en el número de camiones de transporte y en los costos de disposición.
-* **La solución integrada:** Celdas de parámetros globales dedicadas aplican automáticamente los multiplicadores de desperdicio y esponjamiento a todas las partidas de BOQ relevantes, asegurando que su precio de licitación cubra el consumo real en obra y no la geometría neta teórica.
+### 3. Proteger el margen frente al desperdicio no contabilizado y el esponjamiento del suelo
+- **El riesgo:** Presupuestar la geometría neta exacta del CAD garantiza sobrecostos en obra. La armadura requiere márgenes de desperdicio por corte/empalme (**3% al 10%**), y el suelo excavado se expande al extraerlo (**15% al 30%** de esponjamiento), elevando los costos de transporte y disposición.
+- **Cómo lo resuelve este libro de trabajo:** Multiplicadores de parámetros centralizados aplican automáticamente los factores de desperdicio y movimiento de tierras en todas las partidas de BOQ afectadas, de modo que su oferta refleje el consumo real en obra.
 
 ---
 
-## Hojas de cálculo manuales de construcción frente al kit de Excel automatizado de medición de cimentaciones y BOQ
+## Hojas de cálculo manuales frente al kit de Excel automatizado de levantamiento de cimentaciones y BOQ
 
-| Operación de estimación de obra | Flujo de trabajo tradicional con hoja de cálculo desde cero | Kit de Excel automatizado de QTO y BOQ para cimentaciones |
+| Operación de estimación de construcción | Hojas de cálculo tradicionales improvisadas | **Kit de Excel automatizado de QTO y BOQ de cimentaciones** |
 | :--- | :--- | :--- |
-| **Trasladar las cantidades medidas a la valorización** | Las cantidades medidas del PDF se vuelven a teclear o se copian y pegan manualmente en una pestaña de valorización de BOQ separada, lo que genera un alto riesgo de desalineación de filas y de errores `#REF!`. | Las dimensiones de los elementos fluyen directamente al **motor de cálculo automatizado del BOQ** mediante referencias estructuradas dinámicas, sin ninguna transcripción manual. |
-| **Calcular el peso del acero y las longitudes de corte** | Los estimadores calculan los listados de doblado de barras (BBS) en tablas aisladas usando fórmulas manuales $D^2 / 162$ que se rompen cuando cambian las dimensiones de la cimentación. | Los **parámetros de refuerzo (BBS)** están vinculados matemáticamente a la geometría del elemento y calculan automáticamente longitudes de barra, deducciones por doblez, pesos unitarios y totales por diámetro. |
-| **Alternar entre tipos de elementos de subestructura** | Los usuarios hacen malabares con pestañas de calculadora separadas para pilotes perforados, cabezales de pilotes, zapatas aisladas, vigas de riostra, columnas de arranque y excavación de zanjas. | Las **etiquetas de categoría de elemento** integradas activan automáticamente la fórmula geométrica exacta que se requiere para el volumen de concreto, el área perimetral de encofrado y el movimiento de tierras. |
-| **Gestionar revisiones y adendas de planos** | Cuando un ingeniero cambia la profundidad de una zapata o la resistencia del concreto, los estimadores pasan horas rastreando celdas codificadas de forma rígida en múltiples hojas. | Actualizar una sola fila de dimensiones o el **panel central de precios unitarios de materiales** recalcula al instante todos los pesos de BBS y los precios de licitación posteriores. |
-| **Auditar la estimación antes de presentar la oferta** | Las dimensiones faltantes, las partidas sin precio o los rangos `SUM` rotos llegan habitualmente al paquete final de licitación del cliente sin que nadie los detecte. | Las **alertas de validación automatizadas** dedicadas resaltan en tiempo real la geometría incompleta, los precios en cero, las discrepancias de acero y las variaciones de conciliación del BOQ. |
+| **Trasladar el levantamiento a los precios del BOQ** | Las cantidades medidas se re-digitan en hojas de precios separadas, invitando a desplazamientos de filas y errores `#REF!`. | Las dimensiones fluyen directamente al **motor de BOQ** mediante referencias dinámicas estructuradas—cero transcripción manual. |
+| **Calcular el peso de armadura y el BBS** | Las tablas manuales aisladas de $D^2 / 162$ se rompen cada vez que cambian los tamaños de zapatas o los números de barras. | El **BBS de armadura** está matemáticamente bloqueado a la geometría del elemento, actualizando automáticamente longitudes de corte, pesos y totales por diámetro. |
+| **Cambiar de categorías de elementos** | Pestañas separadas para pilotes, encajes de pilote, zapatas, vigas, columnas y zanjas. | Las **etiquetas de categoría** integradas activan automáticamente las fórmulas exactas de concreto, perímetro de encofrado y movimiento de tierras. |
+| **Gestionar revisiones de planos y órdenes de variación (VO)** | Horas perdidas rastreando celdas codificadas de forma rígida entre pestañas tras una adenda estructural. | Sobrescriba una sola dimensión o precio—cada tonelaje del BBS y cada total del BOQ aguas abajo se actualiza de inmediato. |
+| **Auditar antes de presentar la oferta** | Profundidades faltantes, filas sin precio o rangos de `SUM` rotos se cuelan inadvertidamente en las ofertas del cliente. | Las **alertas de auditoría dedicadas de `06_Validation`** exponen en tiempo real la geometría faltante, los precios en cero y las discrepancias de armadura. |
 
 ---
 
-## ¿Quién debería usar esta plantilla Excel de estimación de cimentaciones? (roles y casos de uso)
+## Para quién está diseñada esta plantilla Excel de estimación de cimentaciones
 
-Este kit de herramientas está diseñado para profesionales de la construcción, contratistas especializados y principiantes que necesitan un puente inmediato y confiable entre la **medición de planos, el cálculo de acero y la valorización comercial**, sin pagar miles de dólares por un software ERP de estimación empresarial de gran envergadura:
+- **Técnicos de mediciones (QS) junior e ingenieros de costos auxiliares:** Ejecute un **flujo de trabajo de BOQ y BBS de subestructura** estandarizado y verificado contra errores, con una pista de auditoría transparente lista para la revisión de la dirección sénior.
+- **Pequeños contratistas generales y constructores de vivienda:** Presupueste con precisión zapatas de viviendas, encajes de pilote, vigas de cimentación y losas durante temporadas de licitación frenéticas, sin contratar un estimador a tiempo completo ni comprar software de obra pesada.
+- **Subcontratistas de concreto, encofrado y armadura:** Convierta planos estructurales en tonelaje de compras de acero ordenado por diámetro y ofertas competitivas de paquetes de especialidad en minutos.
+- **Estimadores civiles e ingenieros de obra:** Verifique de forma independiente las reclamaciones de pago de subcontratistas, los requerimientos de concreto/acero en obra y las ratios de intensidad de refuerzo ($kg/m^3$).
+- **Gerentes de proyecto y representantes del propietario:** Compare cotizaciones de cimentaciones de subcontratistas y cuantifique al instante el impacto en costos de las órdenes de variación (VO) cuando los planos cambian.
+- **Estudiantes de ingeniería civil, pasantes y estimadores independientes:** Conecte la geometría de los libros de texto con la licitación comercial real de BOQ usando un modelo de Excel limpio y de nivel productivo.
 
-* **Técnicos de mediciones (QS) junior e ingenieros de costos de nivel inicial:** Buscan una **plantilla Excel de lista de cantidades (BOQ)** estandarizada, con un SOP integrado que evite errores de cálculo vergonzosos y mantenga una pista de auditoría transparente para la revisión de sus superiores.
-* **Pequeños contratistas generales y constructores de vivienda residencial:** Necesitan una **hoja de cálculo estimadora de costos de cimentación** rápida y apta para principiantes, con la que valorizar zapatas de viviendas, vigas de riostra y losas de concreto con precisión durante temporadas de licitación frenéticas, sin contratar a un estimador a tiempo completo.
-* **Subcontratistas de concreto, encofrado y acero de refuerzo:** Buscan una **calculadora automática de peso de acero y una hoja Excel de listado de doblado de barras (BBS)** para convertir los planos estructurales en tonelaje de compra de acero y en ofertas competitivas de paquetes de especialidad en minutos.
-* **Estimadores de ingeniería civil e ingenieros de obra:** Requieren una **alternativa ligera al software de medición de cantidades de ingeniería civil** para verificar las certificaciones de pago de los contratistas, contrastar los requerimientos de material en obra y controlar los ratios de intensidad concreto-acero ($kg/m^3$).
-* **Gerentes de proyectos de construcción y representantes del propietario:** Utilizan una **plantilla estructurada de seguimiento del presupuesto de subestructura** para comparar cotizaciones de subcontratistas, evaluar opciones de ingeniería de valor y auditar el impacto en costos de las órdenes de cambio (VO).
-* **Estudiantes de ingeniería civil, pasantes y estimadores independientes:** Aprenden **flujos de trabajo prácticos de medición y estimación de obra** mediante un modelo Excel transparente y de nivel productivo que conecta la geometría de los libros de texto con la licitación comercial del mundo real.
+### Aplicaciones de proyecto de alta frecuencia
+- **Presupuestación rápida de licitaciones de subestructura** a partir de mediciones de PlanSwift, Bluebeam Revu, Cubicost o AutoCAD.
+- **Listado de doblado de barras (BBS) de armadura y compras de acero** ordenado por diámetro de barra ($kg$ y toneladas).
+- **Cuantificación de revisiones de planos y órdenes de variación (VO)** en segundos.
+- **Auditoría de cotizaciones de subcontratistas** usando intensidad instantánea de $kg/m^3$ y referencias de costos unitarios.
 
----
-
-## Escenarios de construcción de alta frecuencia y aplicaciones para proyectos de nicho
-
-* **Preparación rápida de licitaciones comerciales y paquetes de oferta:** Convierta las mediciones brutas exportadas desde **PlanSwift, Bluebeam Revu, Cubicost o planos de AutoCAD** en una **lista de cantidades (BOQ) de subestructura** totalmente valorizada y lista para el cliente en menos de 15 minutos.
-* **Listado automático de doblado de barras (BBS) y compra de acero:** Genere listas de corte de refuerzo ordenadas por diámetro y resúmenes de tonelaje teórico ($kg$ y toneladas métricas) para pedidos de fabricación de acero, sin complementos complejos de detallado CAD.
-* **Valorización de revisiones de planos, adendas y órdenes de cambio (VO):** Cuantifique al instante el delta exacto de costo y de material cuando los ingenieros estructurales revisan cabezales de pilotes, profundizan excavaciones de zapatas o modifican la separación de las barras de refuerzo a mitad del proyecto.
-* **Auditoría de cotizaciones de subcontratistas y verificación de referencias:** Utilice el **indicador automático de intensidad de refuerzo ($kg/m^3$)** y el desglose por precio unitario para detectar ofertas infladas de subcontratistas o cotizaciones anormalmente bajas antes de firmar los subcontratos.
-* **Estudios preliminares de viabilidad y presupuestación conceptual de subestructuras:** Introduzca las dimensiones estructurales de referencia y los precios locales de materiales para establecer estimaciones de costo de cimentación defendibles en etapas tempranas, tanto para desarrollos residenciales como comerciales o industriales.
-
-*(Aviso de ingeniería: este kit de herramientas está diseñado para automatizar la matemática de la medición de cantidades, la agregación de BBS y la valorización comercial del BOQ. No sustituye al software con licencia de diseño estructural, como ETABS, STAAD.Pro o SAFE. Los usuarios deben verificar siempre las reglas de detallado del refuerzo, las longitudes de empalme, los factores de desperdicio y los precios unitarios frente a los planos estructurales específicos del proyecto, los códigos de construcción locales y las condiciones geotécnicas del sitio.)*
+*(Aviso de ingeniería: este kit de herramientas automatiza la matemática del levantamiento de cantidades, la agregación del BBS y la valorización comercial del BOQ. No sustituye al software con licencia de diseño estructural como ETABS, STAAD.Pro o SAFE. Verifique siempre las reglas de detallado, las longitudes de empalme, los factores de desperdicio y los precios unitarios contra los planos estructurales específicos del proyecto, los códigos locales y los informes geotécnicos.)*
 
 ---
 
-## Acerca de Theseus Workshop: kits de Excel prácticos para el apoyo a decisiones y las operaciones
+## Acerca de Theseus Workshop — kits de herramientas de decisión en Excel, listos para usar y offline
 
-Creo **plantillas Excel ligeras y listas para producción, además de herramientas de apoyo a decisiones basadas en el navegador**, para flujos de trabajo operativos y comerciales que tienen demasiadas piezas móviles como para gestionarlas de forma confiable en una hoja de cálculo improvisada o en la cabeza de alguien.
+**Theseus Workshop** crea kits de herramientas de decisión en Excel, ligeros, asequibles y almacenados localmente, para contratistas prácticos, estimadores, profesionales QS y operadores de negocio que desean **claridad analítica de nivel ejecutivo en minutos—sin el exceso de software empresarial ni suscripciones SaaS recurrentes**.
 
-Cada kit de herramientas de **Theseus Workshop** se construye en torno a un principio de ingeniería fundamental:
+- 📥 [**Obtenga esta plantilla completa de Excel para QTO, BBS y BOQ de cimentaciones**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
+- 🎁 [**Empiece gratis: plantilla mensual de Excel para CVR y devengos de construcción (\$0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_qto_readme_crosslink)
+- 🧰 [**Explore la biblioteca completa de kits de herramientas de Theseus Workshop (`theseusworkshop.com`)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README_About)
 
-> **¿Qué información crítica debe estar conectada en un solo lugar para que usted pueda tomar la próxima decisión comercial con el 100% de confianza?**
-
-Este **kit de medición de cantidades (QTO), BBS y estimación de costos BOQ para cimentaciones** aplica ese principio a la licitación de subestructuras civiles: conecta las dimensiones brutas de los planos, las cantidades de concreto, movimiento de tierras y encofrado, el detallado del acero, la valorización comercial y la validación de errores en un flujo de trabajo SOP repetible y a prueba de principiantes.
-
-### Explore más kits de herramientas de negocio e ingeniería listos para usar
-* 🛒 **[Visite la tienda oficial de Theseus Workshop (`theseusworkshop.com`)](https://theseusworkshop.com)** — Explore nuestro catálogo completo de plantillas Excel listas para usar, modelos automatizados de análisis comercial y kits de herramientas SOP operativos diseñados para ahorrar horas de trabajo manual en hojas de cálculo.
-* 📥 **[Obtenga aquí la plantilla Excel offline de QTO, BBS y estimación de costos BOQ para cimentaciones](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)** — Descarga digital instantánea (.xlsx) con acceso de por vida y garantía de devolución del dinero de 30 días.
+---
 
 ## Detalles técnicos
 
 <details>
-<summary>Para revisores técnicos, usuarios avanzados de Excel y colaboradores</summary>
+<summary><strong>Para revisores técnicos, profesionales de Excel y colaboradores (arquitectura de 6 hojas, 3 trampas de levantamiento, escenario de ejemplo, referencia de fórmulas y reglas de validación)</strong></summary>
 
 ### Arquitectura del libro de trabajo
 
@@ -174,83 +197,46 @@ Measured Drawings / Takeoff Data
 01_Parameters
       │
       └──────► shared assumptions and rates
-````
+```
 
-La especificación de origen define `02_Qty_Input` como la hoja principal de entrada manual, con las columnas `A:K` destinadas a identificadores de elementos, referencias de planos, categorías, dimensiones, cantidades y parámetros de refuerzo. Los campos calculados ocupan `L:P`. 
+La especificación de origen define `02_Qty_Input` como la hoja principal de entrada manual, con las columnas `A:K` destinadas a identificadores de elementos, referencias de planos, categorías, dimensiones, cantidades y parámetros de refuerzo. Los campos calculados ocupan `L:P`.
 
-El motor de refuerzo está basado en fórmulas y filtra únicamente los elementos que contienen parámetros de refuerzo. Su salida incluye la referencia del elemento, la categoría, el diámetro de barra, la longitud de corte, el número total de barras, los metros lineales totales, el peso unitario teórico, el peso neto y el peso con el desperdicio incluido. 
+El motor de refuerzo está basado en fórmulas y filtra únicamente los elementos que contienen parámetros de refuerzo. Su salida incluye la referencia del elemento, la categoría, el diámetro de barra, la longitud de corte, el número total de barras, los metros lineales totales, el peso unitario teórico, el peso neto y el peso incluyendo desperdicio.
 
-La capa de BOQ agrega seis partidas de estimación predefinidas que cubren movimiento de tierras, concreto de pilotes, concreto de cimentación estructural, encofrado, refuerzo de `>=16mm` y refuerzo inferior a `16mm`. 
+La capa de BOQ agrega seis partidas de estimación predefinidas que cubren movimiento de tierras, concreto de pilotes, concreto de cimentación estructural, encofrado, refuerzo de $\ge 16\text{ mm}$ y refuerzo por debajo de $16\text{ mm}$.
+
+---
 
 ### Tres trampas que atrapan incluso a estimadores experimentados
 
-#### Trampa 1 — Medición correcta, total comercial equivocado
+#### Trampa 1 — Levantamiento correcto, total comercial equivocado
 
-1. **Se tomó una decisión:**
-   Se prepara un precio de licitación a partir de las cantidades medidas de la cimentación.
-
-2. **El defecto oculto:**
-   Los valores de cantidad y los precios comerciales se mantienen en tablas separadas copiadas manualmente.
-
-3. **Cómo el defecto cambia la recomendación:**
-   Una revisión de precios puede dejar parte de la estimación con un supuesto antiguo, haciendo que la oferta parezca más competitiva de lo que realmente es.
-
-4. **Por qué el razonamiento es incorrecto:**
-   El resultado comercial ya no es una función confiable de los supuestos actuales del proyecto.
-
-5. **Enfoque corregido:**
-   Mantener los precios principales de forma centralizada y calcular los importes del BOQ a partir de los totales de cantidad vigentes.
-
-6. **Resultado corregido de la decisión:**
-   Un cambio de precio se propaga a los valores de BOQ afectados, lo que permite al estimador revisar la posición resultante de la oferta desde una única cadena de cálculo.
+1. **Decisión:** Se prepara un precio de licitación a partir de las cantidades de cimentación medidas.
+2. **Defecto oculto:** Los valores de cantidades y los precios comerciales viven en tablas separadas copiadas manualmente.
+3. **Impacto:** Una revisión de precios deja parte de la estimación usando un supuesto antiguo, haciendo que la oferta parezca falsamente competitiva.
+4. **Enfoque corregido:** Mantener los precios principales de forma centralizada en `01_Parameters` y calcular los importes del BOQ dinámicamente a partir de los totales vigentes.
 
 <details>
 <summary>Referencia de fórmulas</summary>
 
-El importe del BOQ sigue la relación básica:
-
 ```excel
 =Quantity*Unit_Rate
-```
-
-El total se concilia entonces como:
-
-```excel
 =SUM(F5:F10)
 ```
 
 </details>
 
-#### Trampa 2 — El tonelaje de acero parece plausible pero está desconectado
+#### Trampa 2 — El tonelaje de armadura parece plausible pero está desconectado
 
-1. **Se tomó una decisión:**
-   La compra de acero se basa en un total de refuerzo preparado por separado.
-
-2. **El defecto oculto:**
-   El resumen de acero no está vinculado directamente con las dimensiones por elemento, los tamaños de barra, las cantidades y las longitudes de corte calculadas.
-
-3. **Cómo el defecto cambia la recomendación:**
-   Un cambio en el número de elementos o en la geometría puede modificar el refuerzo requerido mientras la cifra de compra permanece sin cambios.
-
-4. **Por qué el razonamiento es incorrecto:**
-   Un total plausible no es suficiente si su origen no puede rastrearse hasta la entrada estructural vigente.
-
-5. **Enfoque corregido:**
-   Derivar los registros de refuerzo de la misma tabla de entrada de elementos y calcular los metros lineales totales antes de convertir a peso teórico.
-
-6. **Resultado corregido de la decisión:**
-   La estimación de refuerzo se mueve con los datos de elemento subyacentes y puede conciliarse con el conteo de elementos de origen.
+1. **Decisión:** La compra de acero se ordena a partir de un resumen de armadura preparado por separado.
+2. **Defecto oculto:** El resumen de acero no está directamente vinculado a las dimensiones por elemento, los tamaños de barra, las cantidades y las longitudes de corte.
+3. **Impacto:** Una revisión en el número de elementos o en la geometría cambia la demanda real de acero mientras la compra permanece desactualizada.
+4. **Enfoque corregido:** Derivar todos los registros de refuerzo directamente de `02_Qty_Input`, calcular los metros lineales y convertirlos a peso teórico con margen de desperdicio.
 
 <details>
 <summary>Referencia de fórmulas</summary>
 
-La implementación utiliza la relación teórica del refuerzo:
-
-```excel
-W = den * d^2
-```
-
-y convierte el valor resultante en kilogramos a toneladas después de aplicar el margen de desperdicio configurado:
+El peso unitario teórico sigue $W = \text{den} \cdot d^2$, convertido a toneladas métricas con margen de desperdicio:
 
 ```excel
 =(tot_m*(den*dia*dia)*(1+waste))/1000
@@ -260,28 +246,13 @@ y convierte el valor resultante en kilogramos a toneladas después de aplicar el
 
 #### Trampa 3 — Un dato faltante se confunde con un resultado de bajo costo
 
-1. **Se tomó una decisión:**
-   La estimación parece inusualmente baja y se acepta como una cifra competitiva.
-
-2. **El defecto oculto:**
-   Un elemento estructural tiene una cantidad positiva pero una dimensión omitida o igual a cero.
-
-3. **Cómo el defecto cambia la recomendación:**
-   La dimensión faltante puede suprimir la cantidad calculada y, por lo tanto, subestimar el valor comercial.
-
-4. **Por qué el razonamiento es incorrecto:**
-   El modelo produce un resultado matemáticamente válido a partir de datos de construcción incompletos. La validez matemática no establece la validez de la estimación.
-
-5. **Enfoque corregido:**
-   Validar la geometría requerida y los datos de precios antes de aceptar la estimación.
-
-6. **Resultado corregido de la decisión:**
-   La estimación se revisa antes de convertirse en un compromiso de licitación o de compra.
+1. **Decisión:** Una estimación inusualmente baja se acepta como una oferta competitiva y aguda.
+2. **Defecto oculto:** Un elemento estructural tiene una cantidad positiva pero una profundidad/altura omitida o igual a cero.
+3. **Impacto:** La altura cero suprime el volumen en silencio—la matemática es válida, pero la oferta está fatalmente subestimada.
+4. **Enfoque corregido:** Ejecutar las verificaciones automáticas de validación de geometría y precios en `06_Validation` antes de aceptar cualquier total de licitación.
 
 <details>
 <summary>Referencia de fórmulas</summary>
-
-La capa de validación comprueba los elementos que no son de movimiento de tierras con un conteo positivo pero sin profundidad/altura:
 
 ```excel
 =IF(
@@ -297,50 +268,38 @@ La capa de validación comprueba los elementos que no son de movimiento de tierr
 
 </details>
 
+---
+
 ### Escenario de ejemplo
 
-Considere una estimación de cimentación que incluye pilotes, cabezales de pilotes, vigas de riostra, columnas cortas y excavación.
+Considere una estimación de cimentación que contiene pilotes, encajes de pilote, vigas de cimentación, columnas cortas y excavación:
 
-El flujo de trabajo comienza con entradas a nivel de elemento como las siguientes:
-
-| Entrada                     |              Ejemplo |
+| Entrada                     |           Ejemplo |
 | --------------------------- | ----------------: |
-| Diámetro del pilote         |               0.60 m |
-| Profundidad del pilote      |              18.00 m |
-| Cantidad de pilotes         |                   24 |
-| Longitud del cabezal        |               2.40 m |
-| Ancho del cabezal           |               2.40 m |
-| Profundidad del cabezal     |               0.80 m |
-| Cantidad de cabezales       |                    6 |
-| Diámetro refuerzo principal |                20 mm |
-| Cantidad refuerzo principal | 16 barras / elemento |
+| Diámetro del pilote         |            0.60 m |
+| Profundidad del pilote      |           18.00 m |
+| Cantidad de pilotes         |                24 |
+| Longitud del encaje de pilote |            2.40 m |
+| Ancho del encaje de pilote  |            2.40 m |
+| Profundidad del encaje de pilote |            0.80 m |
+| Cantidad de encajes de pilote |                 6 |
+| Diámetro del refuerzo principal |             20 mm |
+| Cantidad del refuerzo principal | 16 barras / elemento |
 
-La capa de entrada calcula la cantidad específica según la geometría de cada elemento. Los elementos circulares utilizan el cálculo basado en el diámetro, mientras que los elementos rectangulares usan largo × ancho × profundidad. El movimiento de tierras recibe el factor de tierras configurado de forma separada de las cantidades de elementos estructurales. 
+La capa de entrada calcula el volumen específico de la geometría de cada elemento: los elementos circulares usan el volumen basado en el diámetro ($\pi (d/2)^2 h$), los elementos rectangulares usan $\text{Length} \times \text{Width} \times \text{Depth}$, y el movimiento de tierras aplica el factor de esponjamiento configurado por separado. El motor de refuerzo filtra los elementos armados, deriva el número total de barras y las longitudes de corte, y convierte los metros lineales en toneladas incluyendo desperdicio. Estas cantidades fluyen directamente a `04_BOQ_Summary` y `05_Cost_Dashboard`, confirmando no solo *"¿Cuál es el total?"* sino *"¿Están la geometría, la intensidad de armadura ($kg/m^3$), los precios unitarios y los totales del BOQ internamente consistentes y trazables?"*
 
-El motor de refuerzo filtra después los elementos con información de refuerzo y deriva el número total de barras a partir de la cantidad del elemento y del número de refuerzos especificado. La longitud de corte se ajusta según la categoría del elemento, y los metros lineales totales se convierten en peso teórico usando la constante de diámetro y el margen de desperdicio configurados. 
-
-Las cantidades resultantes alimentan el BOQ. Las cantidades de concreto, encofrado, movimiento de tierras y refuerzo se multiplican por sus precios configurados para producir los importes por partida y un costo total estimado. 
-
-La capa de gestión expone después el resultado comercial mediante un conjunto más reducido de indicadores: costo total, volumen de concreto, tonelaje de refuerzo, cantidad de movimiento de tierras e intensidad de refuerzo por metro cúbico de concreto estructural. 
-
-La decisión final no es simplemente **«¿Cuál es el total?»**
-
-Sino:
-
-**«¿La cantidad, el requerimiento de refuerzo, el supuesto de precio y el total comercial forman una estimación trazable e internamente coherente?»**
-
-Esa distinción es importante cuando el libro de trabajo se utiliza para revisar licitaciones, preparar presupuestos o planificar compras.
+---
 
 ### Referencia de fórmulas
 
 <details>
 <summary>Geometría de elementos</summary>
 
-Para los elementos circulares, la implementación calcula el volumen a partir del diámetro y la altura/profundidad:
+Para los elementos circulares, el volumen se calcula a partir del diámetro y la altura/profundidad; los elementos rectangulares recurren a $\text{Length} \times \text{Width} \times \text{Height}$:
 
 ```excel
 =LET(
-    len, A5:INDEX(D:D, COUNTA(A:A)),
+    len, D5:INDEX(D:D, COUNTA(A:A)),
     wid, E5:INDEX(E:E, COUNTA(A:A)),
     hgt, F5:INDEX(F:F, COUNTA(A:A)),
     dia, G5:INDEX(G:G, COUNTA(A:A)),
@@ -348,18 +307,10 @@ Para los elementos circulares, la implementación calcula el volumen a partir de
 )
 ```
 
-Para los elementos rectangulares, el cálculo recurre a:
-
-```text
-Length × Width × Height
-```
-
 </details>
 
 <details>
 <summary>Cantidad de movimiento de tierras</summary>
-
-El movimiento de tierras recibe el factor configurado desde `01_Parameters`:
 
 ```excel
 =LET(
@@ -374,14 +325,10 @@ El movimiento de tierras recibe el factor configurado desde `01_Parameters`:
 )
 ```
 
-Por lo tanto, la implementación mantiene el factor de movimiento de tierras fuera del cálculo geométrico base y lo aplica según la categoría del elemento. 
-
 </details>
 
 <details>
 <summary>Cálculo de encofrado</summary>
-
-La cantidad de encofrado se determina a partir de la categoría del elemento:
 
 ```excel
 =LET(
@@ -402,14 +349,12 @@ La cantidad de encofrado se determina a partir de la categoría del elemento:
 )
 ```
 
-Esto refleja el tratamiento declarado de la implementación para las superficies de contacto del encofrado según la categoría del elemento. 
-
 </details>
 
 <details>
 <summary>Peso del refuerzo</summary>
 
-El motor de refuerzo calcula el peso total usando la constante de peso teórico y el margen de desperdicio configurados:
+La tabla de parámetros define la constante de peso teórico como `0.006165` y el margen de desperdicio de refuerzo predeterminado como `3.0%`:
 
 ```excel
 =LET(
@@ -421,36 +366,14 @@ El motor de refuerzo calcula el peso total usando la constante de peso teórico 
 )
 ```
 
-La tabla de parámetros define la constante de peso teórico como `0.006165` y el margen de desperdicio de refuerzo predeterminado como `3.0%`. 
-
 </details>
 
 <details>
 <summary>Agregación del BOQ</summary>
 
-El BOQ utiliza una agregación por categoría como la siguiente:
-
 ```excel
-=SUMIFS(
-    '02_Qty_Input'!M:M,
-    '02_Qty_Input'!C:C,
-    "Earthwork"
-)
-```
-
-y una agregación por diámetro de refuerzo como la siguiente:
-
-```excel
-=SUMIFS(
-    '03_Reinforcement_Engine'!I:I,
-    '03_Reinforcement_Engine'!C:C,
-    ">=16"
-)
-```
-
-El total final del BOQ es:
-
-```excel
+=SUMIFS('02_Qty_Input'!M:M, '02_Qty_Input'!C:C, "Earthwork")
+=SUMIFS('03_Reinforcement_Engine'!I:I, '03_Reinforcement_Engine'!C:C, ">=16")
 =SUM(F5:F10)
 ```
 
@@ -459,7 +382,7 @@ El total final del BOQ es:
 <details>
 <summary>Indicadores del panel de costos</summary>
 
-El indicador de intensidad de refuerzo se calcula como:
+Intensidad de refuerzo expresada como $kg$ de acero por $m^3$ de concreto estructural:
 
 ```excel
 =LET(
@@ -469,21 +392,19 @@ El indicador de intensidad de refuerzo se calcula como:
 )
 ```
 
-Esto expresa el consumo de refuerzo en kilogramos por metro cúbico de concreto estructural. 
-
 </details>
+
+---
 
 ### Reglas de validación
 
 | Campo / comprobación   | Regla                                                                                          | Comportamiento ante error             |
 | ----------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------- |
-| Integridad geométrica   | Los elementos que no son de movimiento de tierras con un conteo positivo deben tener una altura/profundidad positiva. | `FAIL`                                |
+| Integridad geométrica   | Los elementos que no son de movimiento de tierras con cantidad positiva deben tener altura/profundidad positiva. | `FAIL`                                |
 | Validez del precio unitario | Los precios configurados de concreto, excavación, encofrado y refuerzo deben ser mayores que cero. | `WARNING`                             |
-| Alineación del refuerzo | Las filas de refuerzo generadas deben coincidir con los elementos de entrada que contienen datos de refuerzo. | `MISMATCH`                            |
-| Conciliación del BOQ    | El total del BOQ debe ser igual a la suma de los valores de cantidad × precio unitario de las partidas, tras el redondeo. | `ERR`                                 |
+| Alineación del refuerzo | Las filas de refuerzo generadas deben alinearse con los elementos de entrada que contienen datos de refuerzo. | `MISMATCH`                            |
+| Conciliación del BOQ    | El total del BOQ debe ser igual a la suma de cantidad por precio unitario de las partidas tras el redondeo. | `ERR`                                 |
 | Integridad de matrices dinámicas | Los rangos de desbordamiento de fórmulas deben permanecer libres de valores introducidos manualmente o de celdas combinadas. | `#SPILL!` requiere limpiar el área de entrada |
-
-La matriz de validación de origen define cuatro comprobaciones principales que cubren geometría, precios, alineación de filas de refuerzo y conciliación de importes del BOQ. 
 
 </details>
 
@@ -491,18 +412,32 @@ La matriz de validación de origen define cuatro comprobaciones principales que 
 
 ## Otras herramientas de esta serie
 
-* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — ¿El diseño del eje cumple la lógica de cálculo correspondiente? — Aplique las normas de cálculo de ejes DIN 743 a las decisiones de diseño de ingeniería.
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — ¿Cuánto costará este alcance de obra según los supuestos actuales? — Estandarice la estimación de licitaciones de construcción y transforme las estimaciones completadas en bibliotecas de costos reutilizables.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — ¿Cómo se comparan las estimaciones y los costos registrados a lo largo de la ejecución? — Compare las estimaciones de construcción con los costos reales durante toda la ejecución del proyecto usando formatos estándar AIA.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — ¿Es exacta la posición financiera del proyecto tras incorporar los cambios aprobados, los costos reales y el avance de la facturación? — Integre presupuestos, órdenes de cambio, facturación por avance y flujo de caja en un único marco de control de proyectos de construcción.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — ¿Qué opción energética ofrece el menor costo total de propiedad para este proyecto concreto en sus condiciones reales de operación? — Compare fuentes de energía industrial sobre una base de energía útil real, normalizando costos de combustible, eficiencia de los equipos, inversión en infraestructura y costos de propiedad durante el ciclo de vida.
-* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — ¿Cuánto costará este proyecto residencial y qué divisiones ya están por encima del presupuesto? — Estime los costos de construcción residencial a partir de mediciones y precios del BOQ, controlando al mismo tiempo los presupuestos aprobados frente al gasto real.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — ¿Cuánto costará este proyecto de túnel por perforación y voladura según el ciclo de construcción supuesto? — Estime la excavación de túnel por perforación y voladura, la perforación, la voladura, el sostenimiento, el equipo y la mano de obra necesarios, integrando todo en un costo de proyecto y un BOQ completos.
+Explore más kits de herramientas de decisión en Excel, ligeros y listos para usar, de **[Theseus Workshop](https://theseusworkshop.com/)**:
+
+- 🎁 **[Plantilla mensual de Excel para CVR y devengos de construcción (Gratis · \$0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *Empiece aquí gratis:* Concilie el valor certificado, los devengos de obra no facturados, el riesgo de variaciones y las previsiones de utilidad de la estimación al completar (EAC) a fin de mes.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Estandarice la estimación de licitaciones de construcción de todo el proyecto y transforme las ofertas completadas en bibliotecas de costos reutilizables.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Integre presupuestos por código de costo, órdenes de cambio, facturación por avance del programa de valores (SOV), retenciones y flujo de caja continuo en un único marco de control de proyecto individual.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Compare las estimaciones de construcción con los costos reales durante toda la ejecución del proyecto usando formatos estándar AIA.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Estime los costos de construcción residencial a partir de levantamientos y precios del BOQ, controlando al mismo tiempo los presupuestos aprobados frente al gasto real.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Estime la excavación de túneles por perforación y voladura, el sostenimiento, el equipo y la mano de obra en un BOQ completo.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Compare fuentes de energía industrial sobre una base de costo total de propiedad (TCO) de energía útil real durante el ciclo de vida.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Aplique las normas de cálculo de ejes DIN 743 a las decisiones de diseño de ingeniería.
+
+---
+
+## Preguntas, comentarios y actualizaciones del producto
+
+Este kit de herramientas de levantamiento de cimentaciones está diseñado en torno a la medición práctica de subestructuras, las cantidades de concreto y encofrado, la programación de refuerzo y los flujos de trabajo de valorización del BOQ. Use los canales siguientes para mantener separados los reportes de errores técnicos de las preguntas de flujo de trabajo y las ideas de producto:
+
+- **Preguntas y encaje del flujo de trabajo:** [Consulte sobre entradas de zapatas, pilotes, losas o vigas; volúmenes de concreto; encofrado; BBS de armadura; o salidas del BOQ valorizado](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas y mejoras:** [Sugiera elementos estructurales adicionales, reglas de medición, programas de refuerzo, verificaciones de validación o informes de costos](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Reportar un problema técnico:** [Abra el formulario de reporte de errores del QTO de cimentaciones](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/issues/new?template=bug-report.yml).
+- **Actualizaciones del producto:** [Siga las notas de mantenimiento y mejoras](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+Al describir un problema, mencione el tipo de elemento, la hoja de cálculo, las dimensiones de entrada, el tamaño o la cantidad de barra afectada y el resultado esperado frente al obtenido. Use dimensiones y precios sintéticos. No suba planos de clientes, licitaciones en curso, archivos de diseño estructural, programas de refuerzo que contengan detalles confidenciales del proyecto ni cotizaciones de proveedores.
 
 ## Licencia
 
-Este proyecto se publica bajo la **Licencia Apache 2.0**.
+Este proyecto se publica bajo la **Apache License 2.0**.
 
-Consulte el archivo [`LICENSE`](LICENSE) para los términos completos de la licencia.
-
-
+Consulte el archivo [`LICENSE`](LICENSE) para ver los términos completos de la licencia.
