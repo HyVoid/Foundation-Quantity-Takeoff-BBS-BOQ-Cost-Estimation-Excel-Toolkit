@@ -1,143 +1,166 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
+# Excel-sjabloon voor bouwfundering hoeveelhedenopname (QTO), wapenings-BBS & BOQ (gratis webcalculator) — betonvolume, bekisting & kostenraming
 
-# Excel-sjabloon voor hoeveelhedenopname (QTO) en BOQ van bouwfunderingen: geautomatiseerde wapeningsstaat (BBS), betonvolume en kostenraming
-<img width="1049" height="790" alt="image" src="https://github.com/user-attachments/assets/55faa135-a626-40be-b88a-ee7264fbc96a" />
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Excel Workbook: One-Time Purchase](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase-1E3A8A.svg)
+![Interactive Demo: Free Web Calculator](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Guarantee: 30-Day Money-Back](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
+<img width="1049" height="790" alt="Construction Foundation Quantity Takeoff QTO, Rebar BBS and BOQ Excel Template Overview" src="https://github.com/user-attachments/assets/55faa135-a626-40be-b88a-ee7264fbc96a" />
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)](#access)
-[![Tool Type](https://img.shields.io/badge/Tool-Construction%20Estimation%20Software-orange.svg)](#what-it-helps-track)
+**Stop met het verliezen van onderbouwaanbestedingen door handmatige opnamefouten, losgekoppelde wapeningssheets en verborgen fouten in de beton/staalverhouding.** Deze plug-and-play **Excel-werkmap met 6 tabbladen voor funderings-hoeveelhedenopname (QTO), wapeningsstaat (BBS) & BOQ-kostenraming** (in combinatie met een **gratis online browsercalculator**) zet ruwe afmetingen van poeren, palen, poerkoppen, funderingsbalken, kolommen en sleufontgravingen direct om in nauwkeurige **betonvolumes ($m^3$), bekistingsoppervlakken ($m^2$), grondwerkhoeveelheden, op diameter gesorteerd wapeningstonnage, controles van de wapeningsintensiteit ($kg/m^3$) en geprijsde hoeveelhedenstaten (BOQ)**—zonder het handmatig slepen van formules, zonder VBA-macro's en zonder dure abonnementen op civiele opnamesoftware.
 
-**Een kant-en-klaar Excel-sjabloon (.xlsx) voor funderingsberekeningen en kostenramingen**, gebouwd voor beginners, kleine aannemers en bouwkostendeskundigen. Zet ruwe afmetingen van voetfunderingen, palen, vloeren en balken direct om in nauwkeurige **betonvolumes ($m^3$), ontgravingshoeveelheden voor grondwerk, bekistingsoppervlakken ($m^2$), geautomatiseerde wapeningsstaten (BBS) voor het gewicht van wapeningsstaal en geprijsde hoeveelhedenstaten (BOQ)**—een plug-and-play **alternatief voor civieltechnische calculatiesoftware** waarbij u geen formules handmatig hoeft te slepen en geen macro's hoeft in te stellen.
+> ### In enkele minuten aan de slag
+>
+> - 📥 **Download de volledige offline Excel-werkmap voor opname & BBS met 6 tabbladen (eenmalige aankoop · 30 dagen niet-goed-geld-terug-garantie zonder vragen):** [**Download het complete Foundation QTO-, BBS- & BOQ-Excel-sjabloon (.xlsx) op Theseus Workshop**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README) — een ontgrendeld lokaal `.xlsx`-systeem met ingebouwde SOP-workflow, automatisch bijwerkende dynamische formules, een wapenings-BBS-motor en validatiecontroles vóór de inschrijving. Herbruikbaar voor onbeperkt veel projecten, 100% offline privacy, nul terugkerende SaaS-kosten.
+> - 🌐 **Test eerst live de opnameberekeningen (100% gratis browsercalculator · geen registratie):** [**Start de gratis webgebaseerde funderings-QTO- & betonwapeningscalculator**](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/) om direct in uw browser een snelle onderbouwcontrole uit te voeren.
+> - 🎁 **Nieuw bij Theseus Workshop en wilt u eerst een offline Excel-bestand testen voor \$0?** Gebruik ons [**gratis maandelijke bouw-CVR- & accruals-Excel-sjabloon (\$0+ Pay What You Want)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_qto_readme_crosslink) om ons plug-and-play Excel-werk eerst offline te testen voordat u uw workflow voor onderbouwopname opwaardeert.
+
+---
+
+## Hoe deze funderings-QTO- & BBS-toolkit past in uw volledige commerciële workflow
+
+Als u onze **gratis maandelijkse CVR- & accruals-sjabloon** al heeft gedownload, weet u hoe snel een te laag geprijsd beton- of wapeningspakket de projectmarge op de bouwplaats kan verwoesten. **Verliezen op de onderbouw beginnen bijna altijd bij de opname van de tekening**—op het moment dat handmatig overtypen tussen geometrie, wapeningssheets en BOQ-prijsstelling een hoeveelheidsfout van 5%–10% verbergt.
+
+Zo past deze werkmap naast de rest van de bouwsuite van **Theseus Workshop**:
+
+| Commerciële fase | Toolkit in de Theseus Workshop-suite | De kostbare fout die ermee wordt geëlimineerd |
+|---|---|---|
+| **Fase 1A — Tekeningopname & wapeningsdetailing** | **Deze werkmap: Foundation QTO-, BBS- & BOQ-estimator** (*eenmalige aankoop*) | Elimineert handmatig overtypen tussen poer-/paalafmetingen, beton-/bekistingsvolumes, wapeningsstaten (BBS) en BOQ-prijsstelling van de onderbouw |
+| **Fase 1B — Prijsstelling van de volledige projectaanbesteding** | [Construction Estimating & BOQ Pricing Workbench](https://github.com/HyVoid/construction-estimating) (*eenmalige aankoop*) | Normaliseert volledige multi-discipline BOQ's van de klant naar herbruikbare kostenassemblages, productiviteitsfactoren en op Procore voorbereide budgetten |
+| **Fase 2 — Actieve projectuitvoering** | [Construction Project Management & Cash Flow Workbook](https://github.com/HyVoid/construction-project-management-excel) (*eenmalige aankoop*) | Beheerst wekelijkse Cost Code-budgetten, goedgekeurde wijzigingsopdrachten (change orders), SOV-voortgangsfacturatie, inhoudingen (retainage) en doorlopende cashflow |
+| **Fase 3 — Winstaudit aan het einde van de maand** | [Monthly Construction CVR & Accruals Template](https://github.com/HyVoid/construction-cvr-accruals-excel-template) (**Gratis · \$0+ PWYW**) | Rekent boekwinst af tegen niet-gefactureerde bouwplaats-accruals, meerwerdrisico en marge-afwijkingen van de raming bij voltooiing (EAC) aan het einde van de maand |
+
+---
+
+## Wat het bijhoudt en automatiseert: knelpunten bij onderbouwopname gekoppeld aan directe controles
 
 <p align="center">
   <img width="1381" height="827" alt="Construction Foundation Quantity Takeoff QTO and BOQ Cost Estimation Excel Template Dashboard showing concrete volume and rebar weight calculations" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
 </p>
 
-> **Probeer de live calculator in uw browser of download de permanente offline Excel-werkmap:**  
-> Test de rekenlogica direct in uw browser, of download de ontgrendelde, herhaaldelijk bruikbare **Excel-werkmap voor kostenraming** voor lokale projectopslag, inschrijvingen bij opdrachtgevers, financiële audittrails en de drukte van het aanbestedingsseizoen (met 30 dagen niet-goed-geld-terug-garantie).
->
-> * [🌐 **Start de gratis webgebaseerde QTO- en betonwapeningscalculator voor funderingen** *(direct online voorbeeld — geen accountregistratie of software-installatie nodig)*](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
-> * [📥 **Download het offline Excel-sjabloon voor funderings-BOQ, BBS en kostenraming (.xlsx)** *(kant-en-klare SOP-workflow en automatisch bijwerkende formules voor onbeperkt commerciële projecten)*](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
-
-Ontworpen voor directe inzet: voer een snelle opname van de onderbouw uit in uw webbrowser, of download het lokale `.xlsx`-spreadsheet om uw eigen projectafmetingen in te voeren en binnen enkele seconden kostenoverzichten te genereren die klaar zijn voor de klant.
-
----
-
-## Wat u hiermee bijhoudt: knelpunten bij onderbouwopnames en geautomatiseerde Excel-oplossingen
-
-| Veelvoorkomend knelpunt bij het ramen | Meettechniek die vaak wordt bijgehouden | Oplossing in het geautomatiseerde Excel-sjabloon |
+| Veelvoorkomend knelpunt bij het ramen van de onderbouw | Vaak bijgehouden meetmetric | Wat dit geautomatiseerde Excel-sjabloon voor u berekent |
 | :--- | :--- | :--- |
-| **Versnipperde funderings- en voetberekeningen** | **Hoeveelheden van onderbouwelementen** *(Palen, poeren, voetfunderingen, funderingsbalken, kolommen, sleufontgraving)* | Brengt alle **opmetingen van civieltechnische onderbouwen** samen in één uniforme invoertabel, zodat aparte handmatige spreadsheets per betonelementtype overbodig worden. |
-| **Loskoppeling tussen tekeningafmetingen en volume** | **Betonvolume ($m^3$), bekistingsoppervlak ($m^2$) en grondwerk (ontgraving/aanvulling)** | Koppelt geometrische opmetingsafmetingen en elementaantallen uit **PlanSwift, Bluebeam Revu, AutoCAD of PDF-tekeningen** automatisch aan formules voor constructievolume en bekisting. |
-| **Complexe en tijdrovende wapeningsdetailing** | **Wapeningsgewichtcalculator en wapeningsstaat (BBS) per staafdiameter** | Genereert automatisch **zaaglengtes voor wapeningsstaal, totale strekkende meters, theoretisch wapeningsgewicht ($kg / ton$) en afvaltoeslagen**, gesorteerd op staafmaat (bijv. 10mm tot 32mm). |
-| **Handmatige kopieer- en plakfouten bij het prijzen van de aanbesteding** | **Geprijsde hoeveelhedenstaat (BOQ) en kostenuitsplitsing per divisie** | Zet berekende totalen voor grondwerk, beton, bekisting en wapening rechtstreeks in een gestandaardiseerd **commercieel BOQ-schema**, waarbij hoeveelheden automatisch met eenheidsprijzen worden vermenigvuldigd. |
-| **Blind inschrijven zonder controle van materiaalverhoudingen** | **Wapeningsintensiteit ($kg/m^3$) en KPI's voor eenheidskosten** | Berekent realtime de **wapeningsdichtheid per kubieke meter beton ($kg/m^3$)** en de kostenverdeling, zodat beginners en managers direct te lage inschrijvingen of overbestellingen herkennen. |
-| **Verborgen invoerfouten die de marge van de uiteindelijke inschrijving ondermijnen** | **Foutdetectie vóór inschrijving en signaleringen uit de formule-audit** | Voert geautomatiseerde **datavalidatiecontroles** uit om ontbrekende funderingsafmetingen, eenheidsprijzen van nul, ongeldige wapeningsparameters of niet-gekoppelde BOQ-regels vóór indiening van de inschrijving te markeren. |
+| **Versnipperde funderings- en poerspreadsheets** | **Hoeveelheden van onderbouwelementen** *(Palen, poerkoppen, poeren, funderingsbalken, kolommen, sleufontgraving)* | Centraliseert alle **civiele onderbouwopmetingen** in één uniforme invoertabel, waardoor aparte handmatige sheets per elementtype overbodig worden. |
+| **Loskoppeling tussen tekeningen en volumeberekeningen** | **Betonvolume ($m^3$), bekistingsoppervlak ($m^2$) & grondwerk (ontgraving/aanvulling)** | Koppelt ruwe geometrische opnameafmetingen uit **PlanSwift, Bluebeam Revu, AutoCAD of PDF-tekeningen** direct aan formules voor volume, bekisting en grondzwelling. |
+| **Traag en foutgevoelig wapeningsdetailing** | **Wapeningsgewichtcalculator & wapeningsstaat (BBS) per staafmaat** | Genereert automatisch **zaaglengtes, totale staafaantallen, strekkende meters, theoretisch wapeningsgewicht ($kg$ / ton) en snijverliestoeslagen**, gegroepeerd op staafdiameter. |
+| **Handmatige kopieer-plakfouten bij BOQ-prijsstelling** | **Geprijsde hoeveelhedenstaat (BOQ) & kostenuitsplitsing** | Zet berekende totalen voor grondwerk, beton, bekisting en wapening rechtstreeks in een gestandaardiseerde **commercieel BOQ**, waarbij hoeveelheden automatisch met actuele eenheidsprijzen worden vermenigvuldigd. |
+| **Blind inschrijven zonder controles van materiaalverhoudingen** | **Wapeningsintensiteit ($kg/m^3$) & KPI's voor de kostenstructuur** | Berekent realtime de **staaldichtheid per kubieke meter beton ($kg/m^3$)**, zodat beginners en directeuren te lage inschrijvingen of typefouten in eenheden onmiddellijk opmerken. |
+| **Stille invoerfouten die aanbestedingsmarges ruïneren** | **Foutdetectie vóór de inschrijving & auditvlaggen** | Voert geautomatiseerde **validatiecontroles** uit (`PASS / FAIL / WARNING / MISMATCH`) die ontbrekende poerdieptes, eenheidsprijzen van nul of niet-gekoppelde BOQ-regels vóór indiening markeren. |
 
 ---
 
-## Snelstartgids: hoe u uw funderingsoppname en kostenraming in 4 stappen automatiseert
+## Spreadsheetvoorbeeld
 
-Zelfs zonder gevorderde Excel-training of een formele opleiding tot bouwkostendeskundige bevat deze toolkit een **ingebouwde Standard Operating Procedure (SOP)-workflow**. De onderliggende technische berekeningen en commerciële koppelregels zijn vooraf geconfigureerd—u volgt eenvoudig de genummerde tabbladen, plakt uw ruwe meetgegevens erin en leest de directe analytische feedback.
+Wilt u alle 6 tabbladen, de wapenings-BBS-motor en het kostendashboard bekijken voordat u downloadt? Bekijk een voorbeeld van de werkmap direct in Google Sheets:
 
-### Stap 1: Stel de lokale tarieven voor bouwmaterialen en afvalfactoren in
-Open het dashboard voor parameterinstelling om uw inschrijvingsomgeving te initialiseren. Voer uw lokale valuta in, de eenheidsprijzen voor **constructief beton uit de betoncentrale, ontgraving, houten en stalen bekisting en wapeningsstaal**, plus de standaardtoeslagen voor **snijverlies bij wapening (%)** en **zwel- en krimpfactoren van grond**.
+**[Bekijk het live spreadsheetvoorbeeld op Google Sheets](https://docs.google.com/spreadsheets/d/1EDtiAxAGifr8hsWZ3oCV34T4AlyNzHJ8/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
-### Stap 2: Voer uw ruwe opmetingsafmetingen van de fundering in (zonder formules te slepen)
-Kopieer en plak uw opgemeten funderingselementen—uit **Bluebeam, PlanSwift, CostX of handmatige opnames van PDF-tekeningen**—rechtstreeks in de gestructureerde gegevenstabel. Voer de element-ID, de tekeningreferentie, de funderingscategorie (paal, poer, voetfundering, funderingsbalk of kolom), de afmetingen in lengte/breedte/diepte en de basisgegevens voor staafafstand en staafdiameter in.
-
-### Stap 3: Controleer de automatisch gegenereerde betonvolumes, de wapenings-BBS en de geprijsde BOQ-rapporten
-Zie hoe de rekenkundige motor alles tegelijk berekent. Omdat alle zoekregels en dynamische matrixformules vooraf in het sjabloon zijn ingebouwd, **hoeft u zelfs niet op de vulgreep van Excel te dubbelklikken of formules naar beneden te slepen**. Uw betonvolumes, bekistingsoppervlakken, de **wapeningsstaat (BBS)** per diameter, de commerciële **hoeveelhedenstaat (BOQ)** en de **diagnostiek van de wapeningsintensiteit ($kg/m^3$)** worden met één klik gevuld.
-
-### Stap 4: Download de herbruikbare Excel-werkmap voor drukke aanbestedingsseizoenen
-Wanneer constructeurs tekeningrevisies, addenda of wijzigingsopdrachten (VO) uitbrengen, overschrijft u eenvoudig de gewijzigde afmetingscellen of past u één eenheidsprijs voor een materiaal aan—elke stroomafwaartse BBS-tabel en elk BOQ-totaal wordt automatisch bijgewerkt.
-
-> **Stop ermee elk aanbestedingsseizoen spreadsheets vanaf nul opnieuw op te bouwen:**  
-> Bouwtechnische berekeningen en commerciële kruiscontroles zijn complex, maar uw dagelijkse workflow hoeft dat niet te zijn. Met vooraf gebouwde automatisch koppelende rekenregels, dynamische automatisch bijwerkende formules en een stapsgewijze ingebouwde SOP slaat u het debuggen van formules volledig over. Download het bestand lokaal, plak uw projectgegevens erin en krijg direct commerciële beslissingsfeedback, zodat u zich kunt richten op het winnen van projecten in plaats van op het bestrijden van kapotte spreadsheets.
->
-> 👉 **[📥 Download het volledige offline Excel-sjabloon voor funderingsoppname, BBS en BOQ (.xlsx) voor onbeperkt lokaal gebruik](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)**
+> **Opmerking over compatibiliteit:** het Google Sheets-voorbeeld kan af en toe `#NAME?`-waarschuwingen tonen vanwege verschillen in dynamische-matrixformules tussen Google Sheets en Microsoft Excel. Dit zijn alleen voorbeeldartefacten en komen niet voor in het gedownloade `.xlsx`-bestand wanneer het in Microsoft Excel wordt geopend.
 
 ---
 
-## De bedrijfslogica en methodiek: verborgen winstlekken bij funderingsaanbestedingen aanpakken
+## Snelstart-tutorial: automatiseer uw funderingsopname en inschrijving in 4 eenvoudige stappen
 
-Voor beginners, jonge calculators en drukbezette kleine aannemers is het inschrijven op onderbouwen een van de risicovolste fasen van een bouwproject. De meeste verliezen bij inschrijvingen ontstaan niet omdat een calculator een voetfundering op een tekening niet kan opmeten—ze ontstaan door **blinde vlekken in de structurele workflow** tussen de opmeting en de uiteindelijke prijsstelling.
+Zelfs zonder gevorderde Excel-vaardigheden of een formele opleiding tot bouwkostendeskundige bevat deze werkmap een **ingebouwde genummerde SOP-workflow**. Elke geometrische regel, elke wapenings-BBS-opzoeking en elke validatiecontrole is al vooraf aangesloten—u plakt gewoon uw meetgegevens en leest de directe commerciële uitvoer:
 
-Hier zijn de drie objectieve commerciële risico's waardoor aannemers geld verliezen, en hoe de ingebouwde bedrijfslogica van dit sjabloon ze elimineert:
+### Stap 1: Stel uw lokale materiaaltarieven en afvalfactoren in (`01_Parameters`)
+Voer uw valuta in, de eenheidsprijzen voor **betonmortel, ontgraving, bekisting en wapeningsstaal**, plus uw standaard **snijverlies van wapening (%)** en **zwel-/uitzettingsfactor voor grondwerk**, allemaal op één centraal beheertabblad.
 
-### 1. De "handmatige overtypbelasting" tussen losgekoppelde werkbladen elimineren
-* **Het objectieve feit:** In traditionele workflows berekent de calculator het betonvolume in het ene werkblad, raamt hij het wapeningsgewicht in een tweede bestand en typt hij die totalen handmatig over in een derde werkblad met de hoeveelhedenstaat (BOQ) voor de prijsstelling. Audits uit de sector tonen consistent aan dat handmatige celoverdrachten en hardgecodeerde `VLOOKUP`-aanpassingen een **afwijking van 3% tot 8% in hoeveelheid of prijs** veroorzaken. Wanneer de nettomarge bij typische algemene aanneming tussen **5% en 10%** ligt, wist één vergeten regel of één verbroken formulekoppeling de volledige projectwinst uit nog voordat de eerste spade in de grond gaat.
-* **De ingebouwde oplossing:** Deze toolkit dwingt een strikte lineaire gegevenspijplijn met één enkele bron van waarheid af:
-  $$\text{Opgemeten tekeningafmetingen} \longrightarrow \text{Automatische geometrie (beton / bekisting / grondwerk)} \longrightarrow \text{Gekoppelde wapenings-BBS} \longrightarrow \text{Geprijsde commerciële BOQ} \longrightarrow \text{Automatische foutvalidatie}$$
-  U voert de ruwe afmetingen één keer in. Elk commercieel overzicht put rechtstreeks uit die ene invoer.
+### Stap 2: Plak ruwe opnameafmetingen van de fundering (`02_Qty_Input`)
+Kopieer en plak opgemeten afmetingen uit **Bluebeam, PlanSwift, CostX, AutoCAD of handmatige PDF-opnames** in de overzichtelijke invoerkolommen (`A:K`)—element-ID, tekeningreferentie, categorie (Paal, Poerkop, Poer, Funderingsbalk, Kolom of Grondwerk), afmetingen, aantal en basisinvoer voor wapeningsdiameter/staafaantal.
+
+### Stap 3: Bekijk automatisch gegenereerde betonvolumes, wapenings-BBS & geprijsde BOQ (`03`–`05` uitvoertabbladen)
+Omdat alle dynamische matrixformules vooraf zijn toegewezen, **hoeft u nooit formules naar beneden te slepen of kapotte `VLOOKUP`-bereiken te repareren**. Open `03_Reinforcement_Engine`, `04_BOQ_Summary` en `05_Cost_Dashboard` om direct uw op diameter gesorteerde **wapeningsstaat (BBS)**, geprijsde **BOQ** en **wapeningsintensiteitsdiagnose ($kg/m^3$)** te bekijken.
+- 👉 [**Test de beton- & wapeningsopnameberekeningen gratis in uw browser**](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
+
+### Stap 4: Audit met vlaggen vóór de inschrijving & verwerk revisies in seconden (`06_Validation`)
+Controleer `06_Validation` om te bevestigen dat elke geometrie-, prijs-, wapeningsafstemmings- en BOQ-controle `PASS` toont. Wanneer constructeurs een tekeningrevisie of wijzigingsopdracht (VO) uitgeven, overschrijft u enkel de gewijzigde afmeting of eenheidsprijs—elk stroomafwaarts BBS-tonnage en inschrijvingstotaal wordt automatisch bijgewerkt.
+
+---
+
+## Gratis browsercalculator versus volledige offline Excel-werkmap met 6 tabbladen
+
+| Kenmerk | Gratis online webcalculator | **Volledige lokale Excel-werkmap met 6 tabbladen (eenmalige aankoop)** |
+|---|---|---|
+| **Beste voor** | Snelle sandboxtest van 2 minuten voor funderingsgeometrie & wapeningsberekeningen | Echte commerciële aanbestedingen, staalinzet & onbeperkt veel onderbouwprojecten |
+| **Multi-element register voor de onderbouw** | Snelle test in één sessie | Plak onbeperkt poeren, palen, poerkoppen, funderingsbalken, kolommen & sleuven |
+| **Geautomatiseerde wapenings-BBS & tonnagesplitsing** | Samenvattende berekening | Volledige `03_Reinforcement_Engine` met zaaglengtes, verlies & diametergroepering (`>=16mm` vs `<16mm`) |
+| **Geprijsde BOQ & wapeningsintensiteitsdashboard** | Basisvoorbeeld van uitvoer | Volledige `04_BOQ_Summary` + `05_Cost_Dashboard` ($kg/m^3$ benchmark-KPI's) |
+| **Audit vóór de inschrijving & foutopsporing** | — | Speciaal `06_Validation`-werkblad dat ontbrekende dieptes, nultarieven & afrekenfouten opvangt |
+| **Dataprivacy & hergebruik** | Browsersessie | **100% offline lokaal `.xlsx`-bestand**—tekeningen, tarieven & inschrijvingsmarges blijven strikt op uw eigen schijf |
+| **Kostenmodel & garantie** | Gratis browserdemo | **Kleine eenmalige aankoop** (nul SaaS-kosten) · **30 dagen niet-goed-geld-terug-garantie zonder vragen** |
+
+> **Klaar om te stoppen met het overtypen van funderingsopnames en kostbare wapenings-/betonfouten op te vangen vóór de inschrijving?**
+> 👉 [**Download het complete Foundation QTO-, BBS- & BOQ-Excel-sjabloon (eenmalige aankoop · 30 dagen garantie)**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
+
+---
+
+## De bedrijfslogica & methodiek: 3 verborgen winstlekken bij funderingsinschrijvingen
+
+De meeste verliezen bij onderbouwinschrijvingen ontstaan niet omdat een calculator een poertekening niet kan lezen—ze ontstaan door **drie structurele blinde vlekken** tussen opmeting en commerciële prijsstelling:
+
+### 1. De "handmatige overtypbelasting" tussen losgekoppelde sheets elimineren
+- **Het risico:** beton berekenen in het ene tabblad, wapening in een tweede bestand en totalen overtypen in een derde BOQ-spreadsheet introduceert routinematig **hoeveelheids- of prijsfouten van 3% tot 8%**. Terwijl de nettomarge van typische aannemers rond **5% tot 10%** ligt, wist één gemiste regel of verouderde koppeling de projectwinst uit nog vóórdat de ontgraving begint.
+- **Hoe deze werkmap het oplost:** legt een strikte lineaire pijplijn met één enkele bron van waarheid op:
+  $$\text{Measured Drawing Dimensions} \longrightarrow \text{Automated Geometry (Concrete / Formwork / Earthwork)} \longrightarrow \text{Linked Rebar BBS} \longrightarrow \text{Priced BOQ} \longrightarrow \text{Automated Validation}$$
 
 ### 2. De beslissingsblinde vlek "wapeningsintensiteit ($kg/m^3$)" blootleggen
-* **Het objectieve feit:** Beginners beoordelen een raming bijna altijd uitsluitend op het uiteindelijke bedrag op de onderste regel. Ervaren commerciële directeuren auditen ramingen echter met behulp van de **wapeningsintensiteit ($kg \text{ staal per } m^3 \text{ beton}$)**. Als een standaard commerciële poer of funderingsbalk doorgaans **80 tot 130 $kg/m^3$** wapening vereist, en uw handmatige spreadsheet geeft per ongeluk **25 $kg/m^3$** (door een vergeten vermenigvuldiger voor het staafaantal) of **260 $kg/m^3$** (door een eenheidsfout van millimeter naar meter), dan verbergt een blik op alleen de totale kosten de fout. Bij **25 $kg/m^3$** wint u de aanbesteding, maar lijdt u een enorm financieel verlies bij de aankoop van staal op de bouwplaats; bij **260 $kg/m^3$** is uw inschrijving te duur en wordt deze automatisch afgewezen.
-* **De ingebouwde oplossing:** Het dashboard berekent en toont automatisch de **wapeningsintensiteit op totaal- en elementniveau ($kg/m^3$)** naast het totale tonnage, waardoor beginnende gebruikers exact dezelfde diagnostische zichtbaarheid krijgen als een ervaren bouwkostendeskundige.
+- **Het risico:** beginners beoordelen inschrijvingen uitsluitend op het uiteindelijke dollarbedrag. Ervaren commerciële directeuren auditen funderingsinschrijvingen met behulp van de **wapeningsintensiteit** ($kg$ staal per $m^3$ beton). Als standaardpoeren of funderingsbalken **80 tot 130 $kg/m^3$** vereisen, wint u met een handmatige typefout die **25 $kg/m^3$** oplevert een verliesgevend contract—terwijl **260 $kg/m^3$** uw inschrijving zo duur maakt dat deze automatisch wordt afgewezen.
+- **Hoe deze werkmap het oplost:** toont automatisch de totale **wapeningsintensiteit ($kg/m^3$)** rechtstreeks op het Cost Dashboard, zodat beginners exact dezelfde controle-radar hebben als een ervaren bouwkostendeskundige (Quantity Surveyor).
 
-### 3. De cashflow beschermen tegen niet-verrekend materiaalverlies en grondzwelling
-* **Het objectieve feit:** Betalen voor exact het geometrische volume dat op structurele CAD-tekeningen staat, garandeert materiaaltekorten op de bouwplaats. Wapening vereist toeslagen voor snij- en lasverlies (doorgaans **5% tot 10%**), en ontgraven grond zet uit wanneer deze wordt opgegraven (zwel-/uitzettingsfactoren voor grondwerk van **15% tot 30%**), wat rechtstreeks invloed heeft op het aantal transportvrachten en de afvoerkosten.
-* **De ingebouwde oplossing:** Speciale globale parametercellen passen de vermenigvuldigingsfactoren voor verlies en zwelling automatisch toe op alle relevante BOQ-posten, zodat uw inschrijvingsprijs de werkelijke materiaalconsumptie op de bouwplaats dekt in plaats van de theoretische netto geometrie.
+### 3. De marge beschermen tegen onverrekend verlies & grondzwelling
+- **Het risico:** prijs geven op exacte netto CAD-geometrie garandeert overschrijdingen op de bouwplaats. Wapening vereist toeslagen voor snij-/lasverlies (**3% tot 10%**), en ontgraven grond zet uit bij het opgraven (**15% tot 30%** zwel/uitzetting), wat transport- en afvoerkosten opdrijft.
+- **Hoe deze werkmap het oplost:** gecentraliseerde parametermultiplicatoren passen verlies- en grondwerkfactoren automatisch toe op alle betrokken BOQ-posten, zodat uw inschrijving de werkelijke bouwplaatsconsumptie weerspiegelt.
 
 ---
 
-## Handmatige bouwspreadsheets versus de geautomatiseerde Excel-toolkit voor funderingsoppname en BOQ
+## Handmatige spreadsheets versus geautomatiseerde Excel-toolkit voor funderingsopname & BOQ
 
-| Bewerking bij het ramen van bouwkosten | Traditionele workflow met een spreadsheet vanaf nul | Geautomatiseerde Excel-toolkit voor funderings-QTO en BOQ |
+| Bewerking bij bouwcalculatie | Traditionele spreadsheets vanaf nul | **Geautomatiseerde Foundation QTO- & BOQ-Excel-toolkit** |
 | :--- | :--- | :--- |
-| **Opmetingshoeveelheden overbrengen naar de prijsstelling** | Opgemeten hoeveelheden uit PDF-opnames worden handmatig opnieuw getypt of gekopieerd naar een apart BOQ-prijstabblad, met groot risico op scheefgelopen regels en `#REF!`-fouten. | Elementafmetingen stromen rechtstreeks naar de **geautomatiseerde BOQ-rekenkundige motor** via dynamische gestructureerde verwijzingen, zonder enige handmatige overtyping. |
-| **Wapeningsgewicht en zaaglengtes berekenen** | Calculators stellen wapeningsstaten (BBS) op in geïsoleerde tabellen met handmatige $D^2 / 162$-formules die stuklopen zodra de funderingsafmetingen wijzigen. | **Wapeningsparameters (BBS)** zijn wiskundig gebonden aan de elementgeometrie en berekenen automatisch de lengtes van de staven, buigaftrekken, soortelijk gewicht en totalen per diameter. |
-| **Wisselen tussen soorten onderbouwelementen** | Gebruikers jongleren met aparte calculatortabbladen voor boorpalen, poeren, voetfunderingen, funderingsbalken, korte kolommen en sleufontgraving. | Ingebouwde **categorietags per element** activeren automatisch de exacte geometrische formule die nodig is voor betonvolume, bekistingsoppervlak en grondwerk. |
-| **Omgaan met tekeningrevisies en addenda** | Wanneer een constructeur de diepte van een voetfundering of de betonkwaliteit wijzigt, besteden calculators uren aan het opsporen van hardgecodeerde cellen in meerdere werkbladen. | Het bijwerken van één afmetingsregel of het centrale **dashboard met materiaaltarieven** herberekent onmiddellijk alle stroomafwaartse BBS-gewichten en inschrijvingsprijzen. |
-| **De raming auditen vóór indiening van de inschrijving** | Ontbrekende afmetingen, onbeprijsde posten of verbroken `SUM`-bereiken belanden regelmatig onopgemerkt in het uiteindelijke aanbestedingspakket voor de klant. | Speciale **automatische validatiesignaleringen** markeren onvolledige geometrie, tarieven van nul dollar, wapeningsverschillen en afwijkingen in de BOQ-aansluiting in realtime. |
+| **Opnamehoeveelheden overbrengen naar de BOQ-prijsstelling** | Opgemeten hoeveelheden worden opnieuw getypt in aparte prijssheets, wat verschoven regels en `#REF!`-fouten uitlokt. | Afmetingen stromen rechtstreeks de **BOQ-motor** in via gestructureerde dynamische verwijzingen—nul handmatig overtypen. |
+| **Wapeningsgewicht & BBS berekenen** | Geïsoleerde handmatige $D^2 / 162$-tabellen stuklopen zodra poerafmetingen of staafaantallen wijzigen. | De **wapenings-BBS** is wiskundig vergrendeld aan de elementgeometrie en werkt zaaglengtes, gewichten en diametertotalen automatisch bij. |
+| **Wisselen tussen elementcategorieën** | Aparte tabbladen voor palen, poerkoppen, poeren, balken, kolommen en sleuven. | Ingebouwde **categorietags** activeren automatisch de exacte formules voor beton, bekistingsomtrek en grondwerk. |
+| **Omgaan met tekeningrevisies & VO's** | Verspilde uren aan het opsporen van hardgecodeerde cellen over tabbladen na een constructief addendum. | Overschrijf één afmeting of tarief—elk stroomafwaarts BBS-tonnage en BOQ-totaal wordt direct ververst. |
+| **Auditen vóór indiening van de inschrijving** | Ontbrekende dieptes, onbeprijsde regels of kapotte `SUM`-bereiken sluiten onopgemerkt in klantinschrijvingen. | Speciale **`06_Validation`-auditvlaggen** leggen ontbrekende geometrie, nultarieven en wapeningsafwijkingen realtime bloot. |
 
 ---
 
-## Voor wie is dit Excel-sjabloon voor funderingsramingen bedoeld? (Rollen en toepassingen)
+## Voor wie dit Excel-sjabloon voor funderingsramingen is gebouwd
 
-Deze toolkit is ontwikkeld voor bouwprofessionals, gespecialiseerde onderaannemers en beginners die onmiddellijk en betrouwbaar de brug willen slaan tussen **opmeting vanaf tekeningen, wapeningsberekening en commerciële prijsstelling**, zonder duizenden dollars te betalen voor zware enterprise-software voor calculatie en ERP:
+- **Junior bouwkostendeskundigen (QS) & assistent-kostenengineers:** voer een gestandaardiseerde, op fouten gecontroleerde **BOQ- & BBS-workflow voor de onderbouw** uit met een transparant audittrail dat klaar is voor review door senior directie.
+- **Kleine algemene aannemers & woningbouwers:** prijs woningpoeren, poerkoppen, funderingsbalken en platen nauwkeurig tijdens drukke inschrijvingsseizoenen, zonder een fulltime calculator in dienst te nemen of zware civiele software aan te schaffen.
+- **Beton-, bekistings- & wapeningsonderaannemers:** zet constructietekeningen binnen enkele minuten om naar op diameter gesorteerd staalinzettonnage en concurrerende inschrijvingen per vakpakket.
+- **Civiele calculators & werfleiders:** verifieer onafhankelijk betalingsclaims van onderaannemers, materiaalaanvragen voor beton/staal op de bouwplaats en wapeningsintensiteitsverhoudingen ($kg/m^3$).
+- **Projectmanagers & vertegenwoordigers van de opdrachtgever:** benchmark funderingsoffertes van onderaannemers en kwantificeer de kostenimpact van wijzigingsopdrachten (VO) direct wanneer tekeningen wijzigen.
+- **Studenten civiele techniek, stagiairs & freelance calculators:** brug geometrie uit het leerboek met echte commerciële BOQ-aanbestedingen via een helder, productieklaren Excel-model.
 
-* **Jonge bouwkostendeskundigen (QS) en beginnende kostenengineers:** Op zoek naar een gestandaardiseerd **Excel-sjabloon voor de hoeveelhedenstaat (BOQ)** met een ingebouwde SOP die pijnlijke rekenfouten voorkomt en een transparante audittrail voor senior review behoudt.
-* **Kleine algemene aannemers en bouwers van woningen:** Die een snel, beginnersvriendelijk **spreadsheet voor funderingskostenramingen** nodig hebben om tijdens drukke aanbestedingsseizoenen woningvoeten, funderingsbalken en betonvloeren nauwkeurig te prijzen, zonder een fulltime calculator in dienst te nemen.
-* **Onderaannemers voor beton, bekisting en wapening:** Die een geautomatiseerd **Excel-blad voor wapeningsgewicht en wapeningsstaat (BBS)** zoeken om structurele tekeningen binnen enkele minuten om te zetten in staalvolumes voor inkoop en concurrerende inschrijvingen per vakkundig pakket.
-* **Calculatoren civiele techniek en werfleiders:** Die een lichtgewicht **alternatief voor software voor hoeveelhedenopname in de civiele techniek** nodig hebben om betalingsclaims van aannemers te controleren, materiaalaanvragen op de bouwplaats te verifiëren en verhoudingen tussen beton en staal ($kg/m^3$) te volgen.
-* **Projectmanagers bouw en vertegenwoordigers van de opdrachtgever:** Die een gestructureerd **sjabloon voor het volgen van het onderbouwd budget** gebruiken om offertes van onderaannemers te benchmarken, value-engineeringopties te beoordelen en de kostenimpact van wijzigingsopdrachten (VO) te auditen.
-* **Studenten civiele techniek, stagiairs en freelance calculators:** Die praktische **workflows voor bouwmetingen en ramingen** leren via een transparant, productieklaar Excel-model dat de geometrie uit het leerboek verbindt met commerciële aanbestedingen in de praktijk.
+### Veelvoorkomende projecttoepassingen
+- **Snelle prijsstelling van onderbouwaanbestedingen** vanuit PlanSwift-, Bluebeam Revu-, Cubicost- of AutoCAD-metingen.
+- **Wapeningsstaat (BBS) & staalinzet** gesorteerd op staafdiameter ($kg$ en ton).
+- **Kwantificatie van tekeningrevisies & wijzigingsopdrachten (VO)** in seconden.
+- **Auditen van onderaannemersoffertes** met directe $kg/m^3$-intensiteit en benchmarks voor eenheidskosten.
 
----
-
-## Veelvoorkomende bouwscenario's en toepassingen voor langlopende projecten
-
-* **Snel commerciële aanbestedingen en inschrijvingspakketten opstellen:** Zet ruwe meetgegevens uit **PlanSwift, Bluebeam Revu, Cubicost of AutoCAD-tekeningen** om in een volledig geprijsde **hoeveelhedenstaat (BOQ) voor de onderbouw** die klaar is voor de klant, in minder dan 15 minuten.
-* **Geautomatiseerde wapeningsstaat (BBS) en wapeningsinkoop:** Genereer per diameter gesorteerde snijlijsten voor wapening en samenvattingen van het theoretische tonnage ($kg$ en metrische ton) voor bestellingen bij de staalfabricage, zonder complexe CAD-detailingplugins.
-* **Prijzen van tekeningrevisies, addenda en wijzigingsopdrachten (VO):** Kwantificeer onmiddellijk het exacte kosten- en materiaalverschil wanneer constructeurs midden in een project poeren herzien, ontgravingen voor voetfunderingen verdiepen of de staafafstand van de wapening wijzigen.
-* **Offertes van onderaannemers auditen en benchmarks verifiëren:** Gebruik de geautomatiseerde **indicator voor wapeningsintensiteit ($kg/m^3$)** en de uitsplitsing per eenheidsprijs om opgeblazen inschrijvingen of abnormaal lage offertes van onderaannemers op te sporen voordat u onderaannemingscontracten ondertekent.
-* **Voorlopige haalbaarheid en conceptuele budgettering van de onderbouw:** Voer basisafmetingen van de constructie en lokale materiaaltarieven in om verdedigbare funderingskostenramingen in een vroeg stadium op te stellen voor residentiële, commerciële of industriële ontwikkelingen.
-
-*(Technische disclaimer: Deze toolkit is ontworpen om de wiskunde van hoeveelhedenopnames, de aggregatie van BBS en de commerciële BOQ-prijsstelling te automatiseren. Het vervangt geen gelicentieerde software voor constructief ontwerp zoals ETABS, STAAD.Pro of SAFE. Gebruikers moeten de regels voor wapeningsdetailing, laslengtes, verliesfactoren en eenheidsprijzen altijd verifiëren tegen de projectspecifieke structurele tekeningen, de lokale bouwvoorschriften en de geotechnische omstandigheden op de bouwplaats.)*
+*(Technische disclaimer: deze toolkit automatiseert de wiskunde van hoeveelhedenopnames, BBS-aggregatie en commerciële BOQ-prijsstelling. Het vervangt geen gelicentieerde software voor constructief ontwerp zoals ETABS, STAAD.Pro of SAFE. Verifieer detailingregels, laslengtes, verliesfactoren en eenheidsprijzen altijd tegen projectspecifieke constructietekeningen, lokale voorschriften en geotechnische rapporten.)*
 
 ---
 
-## Over Theseus Workshop: praktische beslissingsondersteuning en operationele Excel-toolkits
+## Over Theseus Workshop — plug-and-play offline Excel-beslissingstoolkits
 
-Ik bouw lichtgewicht, productieklaarge **Excel-sjablonen en browsergebaseerde tools voor beslissingsondersteuning** voor operationele en commerciële workflows die te veel bewegende delen hebben om betrouwbaar in een spreadsheet vanaf nul of in iemands hoofd te beheren.
+**Theseus Workshop** bouwt lichtgewicht, betaalbare, lokaal opgeslagen Excel-beslissingstoolkits voor praktisch ingestelde aannemers, calculators, QS-professionals en bedrijfsvoerders die **analytische helderheid op directieniveau in enkele minuten willen—zonder opgeblazen enterprisesoftware of terugkerende SaaS-abonnementen**.
 
-Elke toolkit bij **Theseus Workshop** is gebouwd rond één technisch kernprincipe:
+- 📥 [**Download dit complete Foundation QTO-, BBS- & BOQ-Excel-sjabloon**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
+- 🎁 [**Begin gratis: maandelijks bouw-CVR- & accruals-Excel-sjabloon (\$0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_qto_readme_crosslink)
+- 🧰 [**Verken de volledige Theseus Workshop-toolkitbibliotheek (`theseusworkshop.com`)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README_About)
 
-> **Welke kritieke informatie moet op één plek worden verbonden, zodat u de volgende commerciële beslissing met 100% vertrouwen kunt nemen?**
-
-Deze **toolkit voor hoeveelhedenopname (QTO), BBS en BOQ-kostenraming van funderingen** past dat principe toe op het inschrijven op civieltechnische onderbouwen—door ruwe tekeningafmetingen, hoeveelheden voor beton, grondwerk en bekisting, wapeningsdetailing, commerciële prijsstelling en foutvalidatie te verbinden in één herhaalbare, beginnersbestendige SOP-workflow.
-
-### Ontdek meer kant-en-klare zakelijke en technische toolkits
-* 🛒 **[Bezoek de officiële Theseus Workshop-winkel (`theseusworkshop.com`)](https://theseusworkshop.com)** — Blader door onze volledige catalogus met plug-and-play Excel-sjablonen, geautomatiseerde commerciële analysemodellen en operationele SOP-toolkits die uren handmatig spreadsheetwerk besparen.
-* 📥 **[Haal hier het offline Excel-sjabloon voor funderings-QTO, BBS en BOQ-kostenraming](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)** — Directe digitale download (.xlsx) met levenslange toegang en 30 dagen niet-goed-geld-terug-garantie.
+---
 
 ## Technische details
 
 <details>
-<summary>Voor technische reviewers, Excel-professionals en samenwerkingspartners</summary>
+<summary><strong>Voor technische reviewers, Excel-professionals en samenwerkingspartners (architectuur van 6 werkbladen, 3 opnamevalkuilen, voorbeeldscenario, formulereferentie & validatieregels)</strong></summary>
 
 ### Werkmaparchitectuur
 
@@ -146,13 +169,13 @@ De werkmap is opgebouwd als een gecontroleerde rekenketen van zes werkbladen:
 | Werkblad | Rol | Primaire uitvoer |
 |---|---|---|
 | `01_Parameters` | Centrale parameterconfiguratie | Valuta, materiaaltarieven, wapeningsconstante, verliestoeslag, grondwerkfactor |
-| `02_Qty_Input` | Primaire laag voor gegevensinvoer | Elementhoeveelheden, betonvolume, bekistingsoppervlak, wapeningsinvoer |
-| `03_Reinforcement_Engine` | Rekenkundige motor voor wapening | Zaaglengte, staafaantallen, strekkende meters, theoretisch gewicht, totaal in ton |
+| `02_Qty_Input` | Primaire gegevensinvoerlaag | Elementhoeveelheden, betonvolume, bekistingsoppervlak, wapeningsinvoer |
+| `03_Reinforcement_Engine` | Rekenmotor voor wapening | Zaaglengte, staafaantallen, strekkende meters, theoretisch gewicht, totaal in ton |
 | `04_BOQ_Summary` | Commerciële aggregatie | BOQ-hoeveelheden, eenheidsprijzen, bedragen per regel, totale geraamde kosten |
 | `05_Cost_Dashboard` | Managementanalyse | Totale kosten, materiaalhoeveelheden, kostenstructuur, wapeningsintensiteit |
-| `06_Validation` | Integriteits- en foutcontrole | Status van geometrie, prijsstelling, wapeningsafstemming en BOQ-aansluiting |
+| `06_Validation` | Integriteits- en foutcontrole | Status van geometrie, prijsstelling, wapeningsafstemming en BOQ-afrekening |
 
-De bedoelde gegevensstroom is:
+De beoogde gegevensstroom is:
 
 ```text
 Measured Drawings / Takeoff Data
@@ -174,83 +197,46 @@ Measured Drawings / Takeoff Data
 01_Parameters
       │
       └──────► shared assumptions and rates
-````
+```
 
-De bronspecificatie definieert `02_Qty_Input` als het primaire blad voor handmatige invoer, waarbij de kolommen `A:K` worden gebruikt voor elementidentificaties, tekeningreferenties, categorieën, afmetingen, hoeveelheden en wapeningsparameters. Berekende velden bezetten `L:P`. 
+De bronspecificatie definieert `02_Qty_Input` als het primaire werkblad voor handmatige invoer, waarbij de kolommen `A:K` worden gebruikt voor elementidentificaties, tekeningreferenties, categorieën, afmetingen, hoeveelheden en wapeningsparameters. Berekende velden bezetten `L:P`.
 
-De wapeningsmotor wordt door formules aangestuurd en filtert uitsluitend elementen die wapeningsparameters bevatten. De uitvoer omvat elementreferentie, categorie, staafdiameter, zaaglengte, totaal aantal staven, totale strekkende meters, theoretisch gewicht per eenheid, nettogewicht en gewicht inclusief verlies. 
+De wapeningsmotor wordt door formules aangedreven en filtert uitsluitend elementen met wapeningsparameters. De uitvoer omvat elementreferentie, categorie, staafdiameter, zaaglengte, totaal aantal staven, totale strekkende meters, theoretisch eenheidsgewicht, nettogewicht en gewicht inclusief verlies.
 
-De BOQ-laag aggregeert zes vooraf gedefinieerde ramingsposten: grondwerk, beton voor palen, constructief funderingsbeton, bekisting, wapening vanaf `>=16mm` en wapening onder `16mm`. 
+De BOQ-laag aggregeert zes vooraf gedefinieerde ramingsposten: grondwerk, paalbeton, constructief funderingsbeton, bekisting, wapening vanaf $\ge 16\text{ mm}$ en wapening onder $16\text{ mm}$.
 
-### Drie valkuilen die zelfs ervaren calculators verrassen
+---
+
+### Drie valkuilen die zelfs ervaren calculators vangen
 
 #### Valkuil 1 — correcte opname, verkeerd commercieel totaal
 
-1. **Er is een beslissing genomen:**
-   Een inschrijvingsprijs wordt opgesteld op basis van de opgemeten funderingshoeveelheden.
-
-2. **De verborgen fout:**
-   Hoeveelheidswaarden en commerciële tarieven worden bijgehouden in afzonderlijke, handmatig gekopieerde tabellen.
-
-3. **Hoe de fout de aanbeveling verandert:**
-   Een tariefwijziging kan ertoe leiden dat een deel van de raming nog op een oude aanname is gebaseerd, waardoor de inschrijving concurrerender lijkt dan zij in werkelijkheid is.
-
-4. **Waarom de redenering onjuist is:**
-   Het commerciële resultaat is niet langer een betrouwbare functie van de actuele projectaannames.
-
-5. **De gecorrigeerde aanpak:**
-   Houd de kerntarieven centraal bij en bereken de BOQ-bedragen op basis van de actuele hoeveelheidstotalen.
-
-6. **Het gecorrigeerde beslissingsresultaat:**
-   Een tariefwijziging werkt door in de betrokken BOQ-waarden, zodat de calculator de resulterende inschrijvingspositie vanuit één rekenketen kan beoordelen.
+1. **Beslissing:** een inschrijvingsprijs wordt opgesteld op basis van opgemeten funderingshoeveelheden.
+2. **Verborgen fout:** hoeveelheidswaarden en commerciële tarieven staan in aparte, handmatig gekopieerde tabellen.
+3. **Impact:** een tariefwijziging laat een deel van de raming op een oude aanname berusten, waardoor de inschrijving vals concurrerend lijkt.
+4. **Gecorrigeerde aanpak:** houd kerntarieven centraal bij in `01_Parameters` en bereken BOQ-bedragen dynamisch vanuit de actuele totalen.
 
 <details>
 <summary>Formulereferentie</summary>
 
-Het BOQ-bedrag volgt de eenvoudige relatie:
-
 ```excel
 =Quantity*Unit_Rate
-```
-
-Het totaal wordt vervolgens als volgt afgestemd:
-
-```excel
 =SUM(F5:F10)
 ```
 
 </details>
 
-#### Valkuil 2 — het wapeningstonnage lijkt plausibel, maar is niet gekoppeld
+#### Valkuil 2 — het wapeningstonnage lijkt plausibel, maar is losgekoppeld
 
-1. **Er is een beslissing genomen:**
-   De staalinkoop is gebaseerd op een afzonderlijk opgesteld wapeningstotaal.
-
-2. **De verborgen fout:**
-   Het staaloverzicht is niet rechtstreeks gekoppeld aan de afmetingen op elementniveau, de staafmaten, de aantallen en de berekende zaaglengtes.
-
-3. **Hoe de fout de aanbeveling verandert:**
-   Een wijziging in het aantal elementen of in de geometrie kan de benodigde wapening veranderen, terwijl het inkoopgetal ongewijzigd blijft.
-
-4. **Waarom de redenering onjuist is:**
-   Een plausibel totaal is niet voldoende als de herkomst ervan niet kan worden herleid tot de actuele structurele invoer.
-
-5. **De gecorrigeerde aanpak:**
-   Leid wapeningsregels af uit dezelfde invoertabel met elementen en bereken eerst de totale strekkende meters voordat deze worden omgezet naar theoretisch gewicht.
-
-6. **Het gecorrigeerde beslissingsresultaat:**
-   De wapeningsraming beweegt mee met de onderliggende elementgegevens en kan worden afgestemd op het aantal bronelementen.
+1. **Beslissing:** staalinzet wordt besteld op basis van een apart opgesteld wapeningsoverzicht.
+2. **Verborgen fout:** het staaloverzicht is niet rechtstreeks gekoppeld aan afmetingen op elementniveau, staafmaten, aantallen en zaaglengtes.
+3. **Impact:** een wijziging in elementaantal of geometrie verandert de werkelijke staalbehoefte, terwijl de inkoop verouderd blijft.
+4. **Gecorrigeerde aanpak:** leid alle wapeningsrecords rechtstreeks af uit `02_Qty_Input`, bereken de strekkende meters en converteer naar theoretisch gewicht met verliestoeslag.
 
 <details>
 <summary>Formulereferentie</summary>
 
-De implementatie gebruikt de theoretische relatie voor wapening:
-
-```excel
-W = den * d^2
-```
-
-en zet de resulterende waarde in kilogram om naar ton nadat de geconfigureerde verliestoeslag is toegepast:
+Het theoretische eenheidsgewicht volgt $W = \text{den} \cdot d^2$, omgerekend naar metrische ton met verliestoeslag:
 
 ```excel
 =(tot_m*(den*dia*dia)*(1+waste))/1000
@@ -260,28 +246,13 @@ en zet de resulterende waarde in kilogram om naar ton nadat de geconfigureerde v
 
 #### Valkuil 3 — een ontbrekende invoer wordt aangezien voor een laagkosteresultaat
 
-1. **Er is een beslissing genomen:**
-   De raming lijkt ongewoon laag en wordt geaccepteerd als een concurrerend getal.
-
-2. **De verborgen fout:**
-   Een constructief element heeft een positieve hoeveelheid, maar een ontbrekende of nulwaarde voor een afmeting.
-
-3. **Hoe de fout de aanbeveling verandert:**
-   De ontbrekende afmeting kan de berekende hoeveelheid onderdrukken en daarmee de commerciële waarde te laag voorstellen.
-
-4. **Waarom de redenering onjuist is:**
-   Het model produceert een wiskundig geldig resultaat op basis van onvolledige bouwgegevens. Wiskundige geldigheid betekent nog geen geldigheid van de raming.
-
-5. **De gecorrigeerde aanpak:**
-   Valideer de vereiste invoer voor geometrie en prijsstelling voordat de raming wordt geaccepteerd.
-
-6. **Het gecorrigeerde beslissingsresultaat:**
-   De raming wordt beoordeeld voordat deze een aanbestedings- of inkoopverplichting wordt.
+1. **Beslissing:** een ongewoon lage raming wordt geaccepteerd als een scherpe, concurrerende inschrijving.
+2. **Verborgen fout:** een constructief element heeft een positief aantal maar een weggelaten of nul diepte/hoogte.
+3. **Impact:** hoogte nul onderdrukt het volume stilzwijgend—de wiskunde klopt, maar de inschrijving is fataal te laag.
+4. **Gecorrigeerde aanpak:** voer geautomatiseerde geometrie- en tariefvalidatiecontroles uit in `06_Validation` voordat u een inschrijvingstotaal accepteert.
 
 <details>
 <summary>Formulereferentie</summary>
-
-De validatielaag controleert op elementen die geen grondwerk zijn en een positief aantal hebben, maar een ontbrekende diepte/hoogte:
 
 ```excel
 =IF(
@@ -297,50 +268,38 @@ De validatielaag controleert op elementen die geen grondwerk zijn en een positie
 
 </details>
 
+---
+
 ### Voorbeeldscenario
 
-Stel een funderingsraming op met palen, poeren, funderingsbalken, korte kolommen en ontgraving.
+Denk aan een funderingsraming met palen, poerkoppen, funderingsbalken, korte kolommen en ontgraving:
 
-De workflow begint met invoer op elementniveau, zoals:
-
-| Invoer                      |          Voorbeeld |
+| Invoer                      |           Voorbeeld |
 | --------------------------- | ----------------: |
-| Paaldiameter                |             0.60 m |
-| Paaldiepte                  |            18.00 m |
-| Aantal palen                |                 24 |
-| Lengte poer                 |             2.40 m |
-| Breedte poer                |             2.40 m |
-| Diepte poer                 |             0.80 m |
-| Aantal poeren               |                  6 |
-| Diameter hoofdwapening      |              20 mm |
-| Aantal hoofdwapening        |  16 staven/element |
+| Paaldiameter                |            0.60 m |
+| Paaldiepte                  |           18.00 m |
+| Aantal palen                |                24 |
+| Lengte poerkop              |            2.40 m |
+| Breedte poerkop             |            2.40 m |
+| Diepte poerkop              |            0.80 m |
+| Aantal poerkoppen           |                 6 |
+| Diameter hoofdwapening      |             20 mm |
+| Aantal hoofdwapening        | 16 staven / element |
 
-De invoerlaag berekent de geometrie-specifieke hoeveelheid voor elk element. Ronde elementen gebruiken de berekening op basis van de diameter, terwijl rechthoekige elementen lengte × breedte × diepte gebruiken. Grondwerk krijgt de geconfigureerde grondwerkfactor afzonderlijk van de hoeveelheden van constructieve elementen. 
+De invoerlaag berekent het geometrie-specifieke volume per element: ronde elementen gebruiken het diametergebaseerde volume ($\pi (d/2)^2 h$), rechthoekige elementen gebruiken $\text{Length} \times \text{Width} \times \text{Depth}$, en grondwerk past de geconfigureerde zwelfactor apart toe. De wapeningsmotor filtert gewapende elementen, leidt totale staafaantallen en zaaglengtes af en converteert strekkende meters naar ton inclusief verlies. Deze hoeveelheden stromen rechtstreeks door naar `04_BOQ_Summary` en `05_Cost_Dashboard`, waarmee niet alleen wordt bevestigd *"Wat is het totaal?"* maar ook *"Zijn geometrie, wapeningsintensiteit ($kg/m^3$), eenheidsprijzen en BOQ-totalen intern consistent en herleidbaar?"*
 
-De wapeningsmotor filtert vervolgens de elementen met wapeningsinformatie en leidt het totale aantal staven af uit de elementhoeveelheid en het opgegeven wapeningsaantal. De zaaglengte wordt aangepast aan de elementcategorie, en de totale strekkende meters worden omgezet naar theoretisch gewicht met behulp van de geconfigureerde diameterconstante en verliestoeslag. 
-
-De resulterende hoeveelheden voeden de BOQ. Hoeveelheden voor beton, bekisting, grondwerk en wapening worden vermenigvuldigd met hun geconfigureerde tarieven om bedragen per regel en een totaal geraamde kostprijs te produceren. 
-
-De managementlaag presenteert het commerciële resultaat vervolgens via een kleinere set indicatoren: totale kosten, betonvolume, wapeningstonnage, grondwerkhoeveelheid en wapeningsintensiteit per kubieke meter constructief beton. 
-
-De uiteindelijke beslissing is niet simpelweg **"Wat is het totaal?"**
-
-Zij luidt:
-
-**"Vormen de hoeveelheid, de wapeningsbehoefte, de prijsaanname en het commerciële totaal samen een herleidbare en intern consistente raming?"**
-
-Dat onderscheid is belangrijk wanneer de werkmap wordt gebruikt voor aanbestedingsreviews, budgetvoorbereiding of inkoopplanning.
+---
 
 ### Formulereferentie
 
 <details>
 <summary>Elementgeometrie</summary>
 
-Voor ronde elementen berekent de implementatie het volume op basis van diameter en hoogte/diepte:
+Voor ronde elementen wordt het volume berekend vanuit diameter en hoogte/diepte; rechthoekige elementen vallen terug op $\text{Length} \times \text{Width} \times \text{Height}$:
 
 ```excel
 =LET(
-    len, A5:INDEX(D:D, COUNTA(A:A)),
+    len, D5:INDEX(D:D, COUNTA(A:A)),
     wid, E5:INDEX(E:E, COUNTA(A:A)),
     hgt, F5:INDEX(F:F, COUNTA(A:A)),
     dia, G5:INDEX(G:G, COUNTA(A:A)),
@@ -348,18 +307,10 @@ Voor ronde elementen berekent de implementatie het volume op basis van diameter 
 )
 ```
 
-Voor rechthoekige elementen valt de berekening terug op:
-
-```text
-Length × Width × Height
-```
-
 </details>
 
 <details>
 <summary>Grondwerkhoeveelheid</summary>
-
-Grondwerk ontvangt de geconfigureerde factor uit `01_Parameters`:
 
 ```excel
 =LET(
@@ -374,14 +325,10 @@ Grondwerk ontvangt de geconfigureerde factor uit `01_Parameters`:
 )
 ```
 
-De implementatie houdt de grondwerkfactor dus buiten de basisgeometrische berekening en past deze toe per elementcategorie. 
-
 </details>
 
 <details>
 <summary>Bekistingsberekening</summary>
-
-De bekistingshoeveelheid wordt bepaald door de elementcategorie:
 
 ```excel
 =LET(
@@ -402,14 +349,12 @@ De bekistingshoeveelheid wordt bepaald door de elementcategorie:
 )
 ```
 
-Dit weerspiegelt de in de implementatie vastgelegde behandeling van bekistingsoppervlakken per elementcategorie. 
-
 </details>
 
 <details>
 <summary>Wapeningsgewicht</summary>
 
-De wapeningsmotor berekent het totale gewicht met behulp van de geconfigureerde constante voor theoretisch gewicht en de verliestoeslag:
+De parametertabel definieert de constante voor theoretisch gewicht als `0.006165` en de standaard verliestoeslag voor wapening als `3.0%`:
 
 ```excel
 =LET(
@@ -421,36 +366,14 @@ De wapeningsmotor berekent het totale gewicht met behulp van de geconfigureerde 
 )
 ```
 
-De parametertabel definieert de constante voor theoretisch gewicht als `0.006165` en de standaard verliestoeslag voor wapening als `3.0%`. 
-
 </details>
 
 <details>
 <summary>BOQ-aggregatie</summary>
 
-De BOQ gebruikt aggregatie op basis van categorie, zoals:
-
 ```excel
-=SUMIFS(
-    '02_Qty_Input'!M:M,
-    '02_Qty_Input'!C:C,
-    "Earthwork"
-)
-```
-
-en aggregatie op basis van wapeningsdiameter, zoals:
-
-```excel
-=SUMIFS(
-    '03_Reinforcement_Engine'!I:I,
-    '03_Reinforcement_Engine'!C:C,
-    ">=16"
-)
-```
-
-Het uiteindelijke BOQ-totaal is:
-
-```excel
+=SUMIFS('02_Qty_Input'!M:M, '02_Qty_Input'!C:C, "Earthwork")
+=SUMIFS('03_Reinforcement_Engine'!I:I, '03_Reinforcement_Engine'!C:C, ">=16")
 =SUM(F5:F10)
 ```
 
@@ -459,7 +382,7 @@ Het uiteindelijke BOQ-totaal is:
 <details>
 <summary>Indicatoren van het kostendashboard</summary>
 
-De indicator voor wapeningsintensiteit wordt als volgt berekend:
+Wapeningsintensiteit uitgedrukt als $kg$ staal per $m^3$ constructief beton:
 
 ```excel
 =LET(
@@ -469,21 +392,19 @@ De indicator voor wapeningsintensiteit wordt als volgt berekend:
 )
 ```
 
-Dit drukt het wapeningsverbruik uit in kilogram per kubieke meter constructief beton. 
-
 </details>
+
+---
 
 ### Validatieregels
 
-| Veld / controle           | Regel                                                                                          | Foutgedrag                        |
+| Veld / controle         | Regel                                                                                         | Foutgedrag                            |
 | ----------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------- |
-| Volledigheid van de geometrie   | Elementen die geen grondwerk zijn en een positief aantal hebben, moeten een positieve hoogte/diepte hebben.               | `FAIL`                                |
-| Geldigheid van de eenheidsprijs      | Geconfigureerde tarieven voor beton, ontgraving, bekisting en wapening moeten groter dan nul zijn. | `WARNING`                             |
-| Afstemming van de wapening | Gegenereerde wapeningsregels moeten overeenkomen met de invoerelementen die wapeningsgegevens bevatten.    | `MISMATCH`                            |
-| Aansluiting van de BOQ      | Het BOQ-totaal moet na afronding gelijk zijn aan de som van hoeveelheid × eenheidsprijs per regel.         | `ERR`                                 |
-| Integriteit van dynamische matrices | Overloopbereiken van formules moeten vrij blijven van handmatig ingevoerde waarden of samengevoegde cellen.     | `#SPILL!` vereist opschoning van het invoergebied |
-
-De validatiematrix in de bron definieert vier kerncontroles: geometrie, prijsstelling, afstemming van wapeningsregels en aansluiting van BOQ-bedragen. 
+| Volledigheid van de geometrie | Elementen die geen grondwerk zijn en een positief aantal hebben, moeten een positieve hoogte/diepte hebben. | `FAIL`                                |
+| Geldigheid van de eenheidsprijs | Geconfigureerde tarieven voor beton, ontgraving, bekisting en wapening moeten groter dan nul zijn. | `WARNING`                             |
+| Afstemming van de wapening | Gegenereerde wapeningsregels moeten overeenkomen met de invoerelementen die wapeningsgegevens bevatten. | `MISMATCH`                            |
+| BOQ-afrekening          | Het BOQ-totaal moet na afronding gelijk zijn aan de som van hoeveelheid × eenheidsprijs per regel. | `ERR`                                 |
+| Integriteit van dynamische matrices | Overloopbereiken van formules moeten vrij blijven van handmatig ingevoerde waarden of samengevoegde cellen. | `#SPILL!` vereist opschoning van het invoergebied |
 
 </details>
 
@@ -491,18 +412,32 @@ De validatiematrix in de bron definieert vier kerncontroles: geometrie, prijsste
 
 ## Andere tools in deze reeks
 
-* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Voldoet het asontwerp aan de relevante rekenlogica? — Pas de rekenstandaarden van DIN 743 voor assen toe op technische ontwerpbeslissingen.
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Wat gaat deze bouwscope kosten onder de huidige aannames? — Standaardiseer het ramen van bouwaanbestedingen en zet afgeronde ramingen om in herbruikbare kostendatabanken.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Hoe verhouden ramingen en bijgehouden kosten zich gedurende de uitvoering? — Vergelijk bouwramingen met werkelijke kosten gedurende de hele projectuitvoering met behulp van AIA-standaardformaten.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Is de financiële positie van het project accuraat nadat goedgekeurde wijzigingen, werkelijke kosten en factureringsvoortgang zijn verwerkt? — Integreer budgetten, wijzigingsopdrachten, voortgangsfacturering en cashflow in één kader voor de beheersing van bouwprojecten.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Welke energieoptie levert de laagste total cost of ownership op voor dit specifieke project onder de werkelijke bedrijfsomstandigheden? — Vergelijk industriële energiebronnen op basis van werkelijk nuttige energie door brandstofkosten, apparatuurrendement, infrastructuurinvesteringen en eigendomskosten over de levenscyclus te normaliseren.
-* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Wat gaat dit woningbouwproject kosten en welke divisies zitten al over het budget? — Raam de kosten van woningbouw op basis van BOQ-opnames en tarieven en volg goedgekeurde budgetten ten opzichte van werkelijke uitgaven.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Wat gaat dit boor- en springtunnelproject kosten onder de veronderstelde bouwcyclus? — Raam ontgraving, boren, springen, ondersteuning, apparatuur en arbeid voor boor- en springtunnels tot een volledige projectkostprijs en BOQ.
+Ontdek meer lichtgewicht, plug-and-play Excel-beslissingstoolkits van **[Theseus Workshop](https://theseusworkshop.com/)**:
+
+- 🎁 **[Construction Monthly CVR & Accruals Excel Template (Gratis · \$0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *begin hier gratis:* reken gecertificeerde waarde af tegen niet-gefactureerde bouwplaats-accruals, meerwerdrisico en EAC-winstprognoses aan het einde van de maand.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — standaardiseer het ramen van volledige bouwaanbestedingen en zet afgeronde inschrijvingen om in herbruikbare kostenbibliotheken.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — integreer Cost Code-budgetten, wijzigingsopdrachten (change orders), SOV-voortgangsfacturatie, inhoudingen (retainage) en doorlopende cashflow in één beheerskader per project.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — vergelijk bouwramingen met werkelijke kosten gedurende de gehele projectuitvoering met AIA-standaardformaten.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — raam de kosten van woningbouw op basis van BOQ-opnames en tarieven en volg goedgekeurde budgetten ten opzichte van de werkelijke uitgaven.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — raam ontgraving, ondersteuning, apparatuur en arbeid van boor- en springtunnels tot een complete BOQ.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — vergelijk industriële energiebronnen op basis van de TCO over de levenscyclus van werkelijk nuttige energie.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — pas de DIN 743-rekenstandaarden voor assen toe op technische ontwerpbeslissingen.
+
+---
+
+## Vragen, feedback & productupdates
+
+Deze toolkit voor funderingsopname is ontworpen rond praktische onderbouwopmeting, beton- en bekistingshoeveelheden, wapeningsplanning en workflows voor BOQ-prijsstelling. Gebruik de onderstaande kanalen om technische bugrapporten gescheiden te houden van workflowvragen en productideeën:
+
+- **Vragen & workflowfit:** [Stel vragen over poer-, paal-, plaat- of balkinvoer; betonvolumes; bekisting; wapenings-BBS; of geprijsde BOQ-uitvoer](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideeën & verbeteringen:** [Draag extra constructieve elementen, meetregels, wapeningsstaten, validatiecontroles of kostenrapporten aan](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Meld een technisch probleem:** [Open het bugrapportformulier voor funderings-QTO](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/issues/new?template=bug-report.yml).
+- **Productupdates:** [Volg de notities over onderhoud en verbeteringen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+Vermeld bij het beschrijven van een probleem het elementtype, het werkblad, de invoerafmetingen, de betrokken staafmaat of hoeveelheid en het verwachte versus het werkelijke resultaat. Gebruik synthetische afmetingen en tarieven. Upload geen klanttekeningen, lopende aanbestedingen, constructief ontwerpbestanden, wapeningsstaten met vertrouwelijke projectdetails of leveranciersoffertes.
 
 ## Licentie
 
 Dit project is vrijgegeven onder de **Apache License 2.0**.
 
 Zie het bestand [`LICENSE`](LICENSE) voor de volledige licentievoorwaarden.
-
-
