@@ -1,162 +1,166 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
+# Construction Foundation Quantity Takeoff (QTO), Rebar BBS & BOQ Excel Template (Free Web Calculator) — Concrete Volume, Formwork & Cost Estimator
 
-# Construction Foundation Quantity Takeoff (QTO) & BOQ Excel Template: Automated Rebar Bar Bending Schedule (BBS), Concrete Volume & Cost Estimator
-<img width="1049" height="790" alt="image" src="https://github.com/user-attachments/assets/55faa135-a626-40be-b88a-ee7264fbc96a" />
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Excel Workbook: One-Time Purchase](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase-1E3A8A.svg)
+![Interactive Demo: Free Web Calculator](https://img.shields.io/badge/Web%20Calculator-Free%20in%20Browser-217346.svg)
+![Guarantee: 30-Day Money-Back](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
+<img width="1049" height="790" alt="Construction Foundation Quantity Takeoff QTO, Rebar BBS and BOQ Excel Template Overview" src="https://github.com/user-attachments/assets/55faa135-a626-40be-b88a-ee7264fbc96a" />
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)](#access)
-[![Tool Type](https://img.shields.io/badge/Tool-Construction%20Estimation%20Software-orange.svg)](#what-it-helps-track)
+**Stop losing substructure bids to manual takeoff typos, disconnected rebar sheets, and hidden concrete/steel ratio errors.** This plug-and-play **6-tab Foundation Quantity Takeoff (QTO), Bar Bending Schedule (BBS) & BOQ Cost Estimation Excel Workbook** (paired with a **free online browser calculator**) converts raw footing, pile, pile cap, ground beam, column, and trench dimensions directly into accurate **concrete volumes ($m^3$), formwork areas ($m^2$), earthwork quantities, diameter-sorted rebar tonnage, reinforcement intensity checks ($kg/m^3$), and priced Bills of Quantities (BOQ)**—with zero manual formula dragging, zero VBA macros, and zero expensive civil takeoff software subscriptions.
 
-**A ready-to-use construction foundation calculator and cost estimation Excel template (.xlsx)** built for beginners, small contractors, and quantity surveyors. Instantly convert raw footing, pile, slab, and beam dimensions into accurate **concrete volumes ($m^3$), earthwork excavation quantities, formwork areas ($m^2$), automated Bar Bending Schedules (BBS) for rebar tonnage, and priced Bills of Quantities (BOQ)**—serving as a plug-and-play **civil estimating software alternative** that requires zero manual formula dragging or macro setup.
+> ### Get Started in Minutes
+>
+> - 📥 **Get the Full 6-Tab Offline Excel Takeoff & BBS Workbook (One-Time Purchase · 30-Day No-Questions-Asked Money-Back Guarantee):** [**Download the Complete Foundation QTO, BBS & BOQ Excel Template (.xlsx) on Theseus Workshop**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README) — unlocked local `.xlsx` system with embedded SOP workflow, auto-updating dynamic formulas, rebar BBS engine, and pre-bid validation checks. Reusable across unlimited projects, 100% offline privacy, zero recurring SaaS fees.
+> - 🌐 **Test the Takeoff Math Live First (100% Free Browser Calculator · No Signup):** [**Launch the Free Web-Based Foundation QTO & Concrete Rebar Calculator**](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/) to run an instant substructure check directly in your browser.
+> - 🎁 **New to Theseus Workshop & Want to Test an Offline Excel File for \$0 First?** Grab our [**Free Monthly Construction CVR & Accruals Excel Template (\$0+ Pay What You Want)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_qto_readme_crosslink) to test our plug-and-play Excel craftsmanship offline before upgrading your substructure takeoff workflow.
+
+---
+
+## How This Foundation QTO & BBS Toolkit Fits Your Full Commercial Workflow
+
+If you have already downloaded our **Free Monthly CVR & Accruals Template**, you know how quickly an underpriced concrete or rebar package can wreck project margin on site. **Substructure losses almost always begin at drawing takeoff**—when manual re-typing between geometry, rebar sheets, and BOQ pricing hides a 5%–10% quantity mistake.
+
+Here is how this workbook fits alongside the rest of the **Theseus Workshop** construction suite:
+
+| Commercial Stage | Toolkit in the Theseus Workshop Suite | The Expensive Mistake It Eliminates |
+|---|---|---|
+| **Stage 1A — Drawing Takeoff & Rebar Detailing** | **This Workbook: Foundation QTO, BBS & BOQ Estimator** (*One-Time Purchase*) | Eliminates manual transcription between footing/pile dimensions, concrete/formwork volumes, rebar Bar Bending Schedules (BBS), and substructure BOQ pricing |
+| **Stage 1B — Full-Project Tender Pricing** | [Construction Estimating & BOQ Pricing Workbench](https://github.com/HyVoid/construction-estimating) (*One-Time Purchase*) | Normalizes full multi-trade client BOQs into reusable cost assemblies, productivity multipliers, and Procore-ready budgets |
+| **Stage 2 — Active Project Delivery** | [Construction Project Management & Cash Flow Workbook](https://github.com/HyVoid/construction-project-management-excel) (*One-Time Purchase*) | Controls weekly Cost Code budgets, approved change orders, SOV progress billings, retainage holdbacks, and rolling cash flow |
+| **Stage 3 — Month-End Profit Audit** | [Monthly Construction CVR & Accruals Template](https://github.com/HyVoid/construction-cvr-accruals-excel-template) (**Free · \$0+ PWYW**) | Reconciles book profit vs. unbilled site accruals, variation risk, and Estimate at Completion (EAC) margin drift at month-end |
+
+---
+
+## What It Tracks & Automates: Substructure Takeoff Pain Points Mapped to Instant Controls
 
 <p align="center">
   <img width="1381" height="827" alt="Construction Foundation Quantity Takeoff QTO and BOQ Cost Estimation Excel Template Dashboard showing concrete volume and rebar weight calculations" src="https://github.com/user-attachments/assets/bf8dad7d-687c-48f0-a8ec-bf2cb4bda94e" />
 </p>
 
-> **Try the Live Browser Calculator or Download the Permanent Offline Excel Workbook:**  
-> Test the calculation logic immediately in your browser, or download the unlocked, repeatable **Microsoft Excel estimating workbook** for local project storage, client bid submissions, financial audit trails, and busy bid-season execution (backed by a 30-day money-back guarantee).
->
-> * [🌐 **Launch the Free Web-Based Foundation QTO & Concrete Rebar Calculator** *(Instant Online Preview — Zero Account Registration or Software Installation)*](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
-> * [📥 **Download the Offline Foundation BOQ, BBS & Cost Estimation Excel Template (.xlsx)** *(Pre-Built SOP Workflow & Auto-Updating Formulas for Unlimited Commercial Projects)*](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
-
-Designed for immediate deployment: run a quick substructure takeoff directly in your web browser, or download the local `.xlsx` spreadsheet to paste your own project dimensions and generate client-ready cost breakdowns in seconds.
+| Common Substructure Estimating Pain Point | High-Frequency Tracking Metric | What This Automated Excel Template Calculates for You |
+| :--- | :--- | :--- |
+| **Fragmented foundation & footing spreadsheets** | **Substructure Element Quantities** *(Piles, Pile Caps, Pad Footings, Ground Beams, Columns, Trench Excavation)* | Centralizes all **civil substructure measurements** into one unified input table, eliminating separate manual sheets for every element type. |
+| **Disconnect between drawings & volume math** | **Concrete Volume ($m^3$), Formwork Area ($m^2$) & Earthwork Cut/Fill** | Connects raw geometric takeoff dimensions from **PlanSwift, Bluebeam Revu, AutoCAD, or PDF drawings** directly to volume, shuttering, and soil-bulking formulas. |
+| **Slow, error-prone rebar detailing** | **Rebar Weight Calculator & Bar Bending Schedule (BBS) by Bar Size** | Auto-generates **cutting lengths, total bar counts, linear metres, theoretical rebar weight ($kg$ / tonnes), and cutting waste allowances** grouped by bar diameter. |
+| **Manual copy-paste errors during BOQ pricing** | **Priced Bill of Quantities (BOQ) & Cost Breakdown** | Maps calculated earthwork, concrete, formwork, and rebar totals directly into a standardized **commercial BOQ**, multiplying quantities by live unit rates automatically. |
+| **Blind bidding without material ratio checks** | **Rebar Intensity ($kg/m^3$) & Cost Structure KPIs** | Computes real-time **steel density per cubic metre of concrete ($kg/m^3$)** so beginners and directors spot under-bidding or unit typos immediately. |
+| **Silent input errors ruining tender margins** | **Pre-Bid Error Detection & Audit Flags** | Runs automated **validation checks** (`PASS / FAIL / WARNING / MISMATCH`) to flag missing footing depths, zero unit rates, or unlinked BOQ rows before submission. |
 
 ---
-
-## Questions, Feedback & Product Updates
-
-This foundation takeoff toolkit is designed around practical substructure measurement, concrete and formwork quantities, reinforcement scheduling, and BOQ pricing workflows. Feedback from contractors and quantity surveyors helps improve the clarity and usefulness of the takeoff process.
-
-- **Questions & workflow fit:** [Ask about footing, pile, slab, or beam inputs; concrete volumes; formwork; rebar BBS; or priced BOQ outputs](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
-- **Ideas & improvements:** [Suggest additional structural elements, measurement rules, reinforcement schedules, validation checks, or cost reports](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
-- **Report a technical problem:** [Open the foundation QTO issue form](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/issues/new?template=bug-report.yml).
-- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
-
-When describing a problem, mention the element type, worksheet, input dimensions, affected bar size or quantity, and expected versus actual result. Use synthetic dimensions and rates. Do not upload client drawings, live tenders, structural design files, reinforcement schedules containing confidential project details, or supplier quotations.
-
-## What It Helps You Track: Substructure Takeoff Pain Points & Automated Excel Solutions
-
-| Common Estimating Pain Point | High-Frequency Tracking Metric | Automated Excel Template Solution |
-| :--- | :--- | :--- |
-| **Fragmented foundation & footing calculations** | **Substructure Element Quantities** *(Piles, Pile Caps, Pad Footings, Ground Beams, Columns, Trench Excavation)* | Centralizes all **civil substructure takeoff measurements** into one unified input table, eliminating separate manual spreadsheets for different concrete element types. |
-| **Disconnect between drawing dimensions & volume** | **Concrete Volume ($m^3$), Formwork Area ($m^2$) & Earthwork Cut/Fill** | Automatically links geometric takeoff dimensions and element counts from **PlanSwift, Bluebeam Revu, AutoCAD, or PDF drawings** directly to structural volume and shuttering formulas. |
-| **Complex, time-consuming rebar detailing** | **Rebar Weight Calculator & Bar Bending Schedule (BBS) by Bar Diameter** | Auto-generates **steel reinforcement cutting lengths, total linear meters, theoretical rebar weight ($kg / tonnes$), and waste allowances** sorted by bar size (e.g., 10mm to 32mm). |
-| **Manual copy-paste errors during tender pricing** | **Priced Bill of Quantities (BOQ) & Division Cost Breakdown** | Maps calculated earthwork, concrete, formwork, and rebar totals directly into a standardized **commercial BOQ schedule**, multiplying quantities by unit rates automatically. |
-| **Blind bidding without material ratio checks** | **Rebar Intensity ($kg/m^3$) & Unit Cost KPIs** | Calculates real-time **reinforcement density per cubic meter of concrete ($kg/m^3$)** and cost distribution, allowing beginners and managers to spot under-bidding or over-ordering instantly. |
-| **Hidden input mistakes ruining final bid margins** | **Pre-Bid Error Detection & Formula Audit Flags** | Runs automated **data validation checks** to highlight missing footing dimensions, zero-value unit rates, invalid rebar parameters, or unlinked BOQ rows before tender submission. |
 
 ## Spreadsheet Preview
 
-Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+Want to inspect all 6 tabs, the rebar BBS engine, and the cost dashboard before downloading? Preview the workbook directly in Google Sheets:
 
-**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1EDtiAxAGifr8hsWZ3oCV34T4AlyNzHJ8/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+**[View Live Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1EDtiAxAGifr8hsWZ3oCV34T4AlyNzHJ8/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
-> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
-
----
-
-## Quick Start Tutorial: How to Automate Your Foundation Takeoff & Cost Estimate in 4 Steps
-
-Even if you have zero advanced Excel training or formal quantity surveying background, this toolkit includes a **built-in Standard Operating Procedure (SOP) workflow**. The underlying engineering math and commercial linkage rules are pre-configured—you simply follow the numbered tabs, paste your raw measurements, and read the instant analytical feedback.
-
-### Step 1: Set Up Local Construction Material Rates & Waste Factors
-Open the parameter setup dashboard to initialize your bidding environment. Enter your local currency, unit rates for **ready-mix structural concrete, excavation, timber/steel formwork, and reinforcement steel**, plus standard allowances for **rebar cutting waste (%)** and **soil swelling/shrinkage factors**.
-
-### Step 2: Paste Your Raw Foundation Takeoff Dimensions (Zero Formula Dragging)
-Copy and paste your measured foundation elements—from **Bluebeam, PlanSwift, CostX, or manual PDF drawing takeoffs**—directly into the structured data input table. Enter the element ID, drawing reference, foundation category (pile, pile cap, footing, ground beam, or column), length/width/depth dimensions, and basic rebar spacing/bar size inputs.
-
-### Step 3: Review Auto-Generated Concrete Volumes, Rebar BBS & Priced BOQ Reports
-Watch the estimating engine calculate everything simultaneously. Because all lookup rules and dynamic array formulas are pre-mapped inside the template, **you do not even need to double-click the Excel fill handle or drag formulas down rows**. Your concrete volumes, formwork areas, diameter-by-diameter **Bar Bending Schedule (BBS)**, commercial **Bill of Quantities (BOQ)**, and **rebar intensity ($kg/m^3$) diagnostics** populate with a single click.
-
-### Step 4: Download the Repeatable Excel Workbook for Busy Bid Seasons
-When structural engineers issue drawing revisions, addendums, or variation orders (VO), simply overwrite the changed dimension cells or update a single material unit rate—every downstream BBS table and BOQ total refreshes automatically.
-
-> **Stop Rebuilding Spreadsheets from Scratch Every Bid Season:**  
-> Construction math and commercial cross-checking are complex, but your daily workflow doesn't have to be. With pre-built auto-matching calculation rules, dynamic auto-updating formulas, and a step-by-step embedded SOP, you can skip formula debugging entirely. Just download the file locally, paste your project data, and get immediate commercial decision feedback so you can stay focused on winning projects rather than fighting broken spreadsheets.
->
-> 👉 **[📥 Download the Full Offline Foundation Takeoff, BBS & BOQ Excel Template (.xlsx) for Unlimited Local Use](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)**
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` warnings due to dynamic-array formula differences between Google Sheets and Microsoft Excel. These are preview-only artifacts and do not occur in the downloaded `.xlsx` file when opened in Microsoft Excel.
 
 ---
 
-## The Business Logic & Methodology: Solving the Hidden Profit Leaks in Foundation Bidding
+## Quick Start Tutorial: Automate Your Foundation Takeoff & Bid in 4 Simple Steps
 
-For beginners, junior estimators, and busy small contractors, substructure bidding is one of the highest-risk phases of a construction project. Most bidding losses do not happen because an estimator cannot measure a footing on a drawing—they happen because of **structural workflow blind spots** between measurement and final pricing.
+Even with zero advanced Excel skills or formal quantity surveying training, this workbook includes a **built-in numbered SOP workflow**. Every geometric rule, rebar BBS lookup, and validation check is already pre-wired—you simply paste your measurements and read the instant commercial output:
 
-Here are the three objective commercial risks that cause contractors to lose money, and how this template's built-in business logic eliminates them:
+### Step 1: Set Your Local Material Rates & Waste Factors (`01_Parameters`)
+Enter your currency, unit rates for **ready-mix concrete, excavation, formwork, and reinforcement steel**, plus your standard **rebar cutting waste (%)** and **earthwork swelling/bulking factor** in one central control tab.
+
+### Step 2: Paste Raw Foundation Takeoff Dimensions (`02_Qty_Input`)
+Copy and paste measured dimensions from **Bluebeam, PlanSwift, CostX, AutoCAD, or manual PDF takeoffs** into the clean input columns (`A:K`)—element ID, drawing reference, category (Pile, Pile Cap, Footing, Ground Beam, Column, or Earthwork), dimensions, count, and basic rebar diameter/bar count inputs.
+
+### Step 3: Review Auto-Generated Concrete Volumes, Rebar BBS & Priced BOQ (`03`–`05` Output Tabs)
+Because all dynamic array formulas are pre-mapped, **you never need to drag formulas down rows or fix broken `VLOOKUP` ranges**. Open `03_Reinforcement_Engine`, `04_BOQ_Summary`, and `05_Cost_Dashboard` to view your diameter-sorted **Bar Bending Schedule (BBS)**, priced **BOQ**, and **rebar intensity ($kg/m^3$) diagnostic** instantly.
+- 👉 [**Test the Concrete & Rebar Takeoff Math Free in Your Browser**](https://hyvoid.github.io/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/)
+
+### Step 4: Audit With Pre-Bid Flags & Handle Revisions in Seconds (`06_Validation`)
+Check `06_Validation` to confirm every geometry, pricing, rebar-alignment, and BOQ check reads `PASS`. When structural engineers issue a drawing revision or variation order (VO), overwrite the single changed dimension or unit rate—every downstream BBS tonnage and bid total updates automatically.
+
+---
+
+## Free Browser Calculator vs. Full 6-Tab Offline Excel Workbook
+
+| Feature | Free Online Web Calculator | **Full 6-Tab Local Excel Workbook (One-Time Purchase)** |
+|---|---|---|
+| **Best For** | Instant 2-minute sandbox test of foundation geometry & rebar math | Real commercial tendering, steel procurement & unlimited substructure jobs |
+| **Multi-Element Substructure Register** | Quick single-session test | Paste unlimited footings, piles, pile caps, ground beams, columns & trenches |
+| **Automated Rebar BBS & Tonnage Split** | Summary calculation | Full `03_Reinforcement_Engine` with cutting lengths, waste & diameter grouping (`>=16mm` vs `<16mm`) |
+| **Priced BOQ & Rebar Intensity Dashboard** | Basic output preview | Complete `04_BOQ_Summary` + `05_Cost_Dashboard` ($kg/m^3$ benchmark KPIs) |
+| **Pre-Bid Audit & Error Catching** | — | Dedicated `06_Validation` sheet catching missing depths, zero rates & reconciliation errors |
+| **Data Privacy & Reuse** | Browser session | **100% offline local `.xlsx` file**—drawings, rates & bid margins stay strictly on your drive |
+| **Cost Model & Guarantee** | Free browser demo | **Small one-time purchase** (zero SaaS fees) · **30-day no-questions-asked money-back guarantee** |
+
+> **Ready to stop re-typing foundation takeoffs and catch costly rebar/concrete errors before bidding?**
+> 👉 [**Get the Complete Foundation QTO, BBS & BOQ Excel Template (One-Time Purchase · 30-Day Guarantee)**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
+
+---
+
+## The Business Logic & Methodology: 3 Hidden Profit Leaks in Foundation Bidding
+
+Most substructure bidding losses do not happen because an estimator cannot read a footing drawing—they happen because of **three structural blind spots** between measurement and commercial pricing:
 
 ### 1. Eliminating the "Manual Transcription Tax" Across Disconnected Sheets
-* **The Objective Fact:** In traditional workflows, estimators calculate concrete volume in one sheet, estimate rebar weight in a second file, and manually type those totals into a third Bill of Quantities (BOQ) sheet for pricing. Industry audit studies consistently show that manual cell transfers and hardcoded `VLOOKUP` edits introduce a **3% to 8% quantity or pricing discrepancy**. When typical general contracting net profit margins sit between **5% and 10%**, a single forgotten row or broken formula link wipes out the entire project profit before ground is broken.
-* **The Built-In Solution:** This toolkit enforces a strict, single-source-of-truth linear data pipeline:
-  $$\text{Measured Drawing Dimensions} \longrightarrow \text{Automated Geometry (Concrete / Formwork / Earthwork)} \longrightarrow \text{Linked Rebar BBS} \longrightarrow \text{Priced Commercial BOQ} \longrightarrow \text{Automated Error Validation}$$
-  You enter raw dimensions once. Every commercial schedule pulls directly from that single entry.
+- **The Risk:** Calculating concrete in one tab, rebar in a second file, and re-typing totals into a third BOQ spreadsheet routinely introduces **3% to 8% quantity or pricing errors**. When typical contractor net margins sit around **5% to 10%**, a single missed row or stale link wipes out job profit before excavation begins.
+- **How This Workbook Solves It:** Enforces a strict single-source-of-truth linear pipeline:
+  $$\text{Measured Drawing Dimensions} \longrightarrow \text{Automated Geometry (Concrete / Formwork / Earthwork)} \longrightarrow \text{Linked Rebar BBS} \longrightarrow \text{Priced BOQ} \longrightarrow \text{Automated Validation}$$
 
 ### 2. Exposing the "Rebar Intensity ($kg/m^3$)" Decision Blind Spot
-* **The Objective Fact:** Beginners almost always judge an estimate by looking only at the final bottom-line dollar amount. However, experienced commercial directors audit estimates using **reinforcement intensity ($kg \text{ of steel per } m^3 \text{ of concrete}$)**. If a standard commercial pad footing or ground beam typically requires **80 to 130 $kg/m^3$** of rebar, and your manual spreadsheet accidentally outputs **25 $kg/m^3$** (due to a missed bar count multiplier) or **260 $kg/m^3$** (due to a millimeter-to-meter unit error), looking at total cost alone will hide the mistake. At **25 $kg/m^3$**, you win the tender but suffer a massive financial loss buying steel on-site; at **260 $kg/m^3$**, your bid is overpriced and automatically rejected.
-* **The Built-In Solution:** The dashboard automatically computes and displays the **overall and element-level rebar intensity ($kg/m^3$)** alongside total tonnage, giving novice users the exact same diagnostic visibility as a senior Quantity Surveyor.
+- **The Risk:** Beginners judge bids solely by the final dollar total. Senior commercial directors audit foundation bids using **reinforcement intensity** ($kg$ of steel per $m^3$ of concrete). If standard pad footings or ground beams require **80 to 130 $kg/m^3$**, a manual typo outputting **25 $kg/m^3$** wins you a money-losing contract—while **260 $kg/m^3$** overprices your bid into automatic rejection.
+- **How This Workbook Solves It:** Automatically displays overall **rebar intensity ($kg/m^3$)** right on the Cost Dashboard, giving beginners the exact same sanity-check radar as a veteran Quantity Surveyor.
 
-### 3. Protecting Cash Flow Against Unaccounted Material Waste & Soil Bulking
-* **The Objective Fact:** Paying for the exact geometric volume shown on structural CAD drawings guarantees material shortages on-site. Rebar requires cutting and lap-splice waste allowances (typically **5% to 10%**), and excavated soil expands when dug up (earthwork swelling/bulking factors of **15% to 30%**), directly impacting haulage truck counts and disposal costs.
-* **The Built-In Solution:** Dedicated global parameter cells apply waste and bulking multipliers across all relevant BOQ items automatically, ensuring your tender price covers real-world site consumption rather than theoretical net geometry.
+### 3. Protecting Margin Against Unaccounted Waste & Soil Bulking
+- **The Risk:** Pricing exact net CAD geometry guarantees site overruns. Rebar requires cutting/lap waste allowances (**3% to 10%**), and excavated soil expands when dug up (**15% to 30%** swelling/bulking), driving up haulage and disposal costs.
+- **How This Workbook Solves It:** Centralized parameter multipliers apply waste and earthwork factors automatically across all affected BOQ items so your bid reflects real-world site consumption.
 
 ---
 
-## Manual Construction Spreadsheets vs. Automated Foundation Takeoff & BOQ Excel Toolkit
+## Manual Spreadsheets vs. Automated Foundation Takeoff & BOQ Excel Toolkit
 
-| Construction Estimating Operation | Traditional Scratch Spreadsheet Workflow | Automated Foundation QTO & BOQ Excel Toolkit |
+| Construction Estimating Operation | Traditional Scratch Spreadsheets | **Automated Foundation QTO & BOQ Excel Toolkit** |
 | :--- | :--- | :--- |
-| **Transferring Takeoff Quantities to Pricing** | Measured PDF takeoff quantities are manually re-typed or copy-pasted into a separate BOQ pricing tab, creating high risk of row misalignment and `#REF!` errors. | Element dimensions flow directly into the **automated BOQ calculation engine** via dynamic structured references with zero manual transcription. |
-| **Calculating Rebar Weight & Cutting Lengths** | Estimators calculate Bar Bending Schedules (BBS) in isolated tables using manual $D^2 / 162$ formulas that break when foundation dimensions change. | **Reinforcement parameters (BBS)** are mathematically bound to element geometry, auto-calculating bar lengths, bend deductions, unit weights, and diameter totals. |
-| **Switching Between Substructure Element Types** | Users juggle separate calculator tabs for bored piles, pile caps, pad footings, ground beams, stub columns, and trench excavation. | Built-in **element category tags** automatically trigger the exact geometric formula required for concrete volume, shuttering perimeter area, and earthwork. |
-| **Handling Drawing Revisions & Addendums** | When an engineer changes footing depth or concrete grade, estimators spend hours hunting down hardcoded cells across multiple sheets. | Updating a single dimension row or central **material unit rate dashboard** instantaneously recalculates all downstream BBS weights and tender prices. |
-| **Auditing the Estimate Before Bid Submission** | Missing dimensions, unpriced line items, or broken `SUM` ranges routinely survive into the final client tender package unnoticed. | Dedicated **automated validation flags** highlight incomplete geometry, zero-dollar rates, rebar mismatches, and BOQ reconciliation variances in real time. |
+| **Transferring Takeoff to BOQ Pricing** | Measured quantities are re-typed into separate pricing sheets, inviting row shifts and `#REF!` errors. | Dimensions flow directly into the **BOQ engine** via structured dynamic references—zero manual transcription. |
+| **Calculating Rebar Weight & BBS** | Isolated manual $D^2 / 162$ tables break whenever footing sizes or bar counts change. | **Rebar BBS** is mathematically locked to element geometry, auto-updating cutting lengths, weights, and diameter totals. |
+| **Switching Element Categories** | Separate tabs for piles, pile caps, footings, beams, columns, and trenches. | Built-in **category tags** automatically trigger exact concrete, shuttering perimeter, and earthwork formulas. |
+| **Handling Drawing Revisions & VOs** | Hours wasted hunting hardcoded cells across tabs after a structural addendum. | Overwrite one dimension or rate—every downstream BBS tonnage and BOQ total refreshes immediately. |
+| **Auditing Before Bid Submission** | Missing depths, unpriced rows, or broken `SUM` ranges slip into client bids unnoticed. | Dedicated **`06_Validation` audit flags** expose missing geometry, zero rates, and rebar mismatches in real time. |
 
 ---
 
-## Who Should Use This Foundation Estimating Excel Template? (Roles & Use Cases)
+## Who This Foundation Estimating Excel Template Is Built For
 
-This toolkit is engineered for construction professionals, trade contractors, and beginners who need an immediate, reliable bridge between **drawing takeoff, rebar calculation, and commercial pricing** without paying thousands of dollars for heavyweight enterprise estimating ERP software:
+- **Junior Quantity Surveyors (QS) & Assistant Cost Engineers:** Run a standardized, error-checked **Substructure BOQ & BBS workflow** with a transparent audit trail ready for senior director review.
+- **Small General Contractors & Home Builders:** Price house footings, pile caps, ground beams, and slabs accurately during hectic bid seasons without hiring a full-time estimator or buying heavy civil software.
+- **Concrete, Formwork & Rebar Subcontractors:** Turn structural drawings into diameter-sorted steel procurement tonnage and competitive trade package bids in minutes.
+- **Civil Estimators & Site Engineers:** Independently verify subcontractor payment claims, site concrete/steel requisitions, and reinforcement intensity ($kg/m^3$) ratios.
+- **Project Managers & Owner's Representatives:** Benchmark subcontractor foundation quotes and quantify variation order (VO) cost impacts instantly when drawings change.
+- **Civil Engineering Students, Interns & Freelance Estimators:** Bridge textbook geometry with real-world commercial BOQ tendering using a clean, production-grade Excel model.
 
-* **Junior Quantity Surveyors (QS) & Entry-Level Cost Engineers:** Searching for a standardized **Bill of Quantities (BOQ) Excel template** with a built-in SOP that prevents embarrassing calculation mistakes and maintains a transparent audit trail for senior review.
-* **Small General Contractors & Residential Home Builders:** Needing a fast, beginner-friendly **foundation cost estimator spreadsheet** to price house footings, grade beams, and concrete slabs accurately during hectic bid seasons without hiring a full-time estimator.
-* **Concrete, Formwork & Rebar Subcontractors:** Looking for an automated **rebar weight calculator and Bar Bending Schedule (BBS) Excel sheet** to convert structural drawings into steel procurement tonnage and competitive trade package bids in minutes.
-* **Civil Engineering Estimators & Site Engineers:** Requiring a lightweight **civil engineering quantity takeoff software alternative** to cross-check contractor payment claims, verify site material requisitions, and track concrete-to-steel intensity ratios ($kg/m^3$).
-* **Construction Project Managers & Owner's Representatives:** Using a structured **substructure budget tracking template** to benchmark subcontractor quotes, evaluate value-engineering options, and audit variation order (VO) cost impacts.
-* **Civil Engineering Students, Interns & Freelance Estimators:** Learning practical **construction measurement and estimating workflows** through a transparent, production-grade Excel model that bridges textbook geometry with real-world commercial tendering.
+### High-Frequency Project Applications
+- **Rapid Substructure Tender Pricing** from PlanSwift, Bluebeam Revu, Cubicost, or AutoCAD measurements.
+- **Rebar Bar Bending Schedule (BBS) & Steel Procurement** sorted by bar diameter ($kg$ and tonnes).
+- **Drawing Revision & Variation Order (VO) Quantification** in seconds.
+- **Subcontractor Quote Auditing** using instant $kg/m^3$ intensity and unit-cost benchmarks.
 
----
-
-## High-Frequency Construction Scenarios & Long-Tail Project Applications
-
-* **Rapid Commercial Tender & Bid Package Preparation:** Convert raw measurements exported from **PlanSwift, Bluebeam Revu, Cubicost, or AutoCAD drawings** into a fully priced, client-ready **Substructure Bill of Quantities (BOQ)** in under 15 minutes.
-* **Automated Bar Bending Schedule (BBS) & Rebar Procurement:** Generate diameter-sorted reinforcement cutting lists and theoretical tonnage summaries ($kg$ and metric tonnes) for steel fabrication orders without complex CAD detailing plugins.
-* **Drawing Revision, Addendum & Variation Order (VO) Pricing:** Instantly quantify the exact cost and material delta when structural engineers revise pile caps, deepen footing excavations, or modify reinforcement bar spacing mid-project.
-* **Subcontractor Quote Auditing & Benchmark Verification:** Use the automated **reinforcement intensity indicator ($kg/m^3$)** and unit-rate breakdown to spot inflated subcontractor bids or abnormally low quotes before signing subcontracts.
-* **Preliminary Feasibility & Conceptual Substructure Budgeting:** Plug in baseline structural dimensions and local material rates to establish defensible early-stage foundation cost estimates for residential, commercial, or industrial developments.
-
-*(Engineering Disclaimer: This toolkit is designed to automate quantity takeoff mathematics, BBS aggregation, and commercial BOQ pricing. It does not replace licensed structural engineering design software such as ETABS, STAAD.Pro, or SAFE. Users must always verify reinforcement detailing rules, lap lengths, waste factors, and unit rates against project-specific structural drawings, local building codes, and site geotechnical conditions.)*
+*(Engineering Disclaimer: This toolkit automates quantity takeoff mathematics, BBS aggregation, and commercial BOQ pricing. It does not replace licensed structural engineering design software such as ETABS, STAAD.Pro, or SAFE. Always verify detailing rules, lap lengths, waste factors, and unit rates against project-specific structural drawings, local codes, and geotechnical reports.)*
 
 ---
 
-## About Theseus Workshop: Practical Decision-Support & Operational Excel Toolkits
+## About Theseus Workshop — Plug-and-Play Offline Excel Decision Toolkits
 
-I build lightweight, production-ready **Excel templates and browser-based decision-support tools** for operational and commercial workflows that have too many moving parts to manage reliably in a scratch spreadsheet or in someone's head.
+**Theseus Workshop** builds lightweight, affordable, locally stored Excel decision toolkits for hands-on contractors, estimators, QS professionals, and business operators who want **executive-grade analytical clarity in minutes—without enterprise software bloat or recurring SaaS subscriptions**.
 
-Every toolkit at **Theseus Workshop** is built around one core engineering principle:
+- 📥 [**Get This Complete Foundation QTO, BBS & BOQ Excel Template**](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)
+- 🎁 [**Start Free: Monthly Construction CVR & Accruals Excel Template (\$0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_qto_readme_crosslink)
+- 🧰 [**Explore the Full Theseus Workshop Toolkit Library (`theseusworkshop.com`)**](https://theseusworkshop.com/?utm_source=github&utm_medium=GitHub%20README_About)
 
-> **What critical information needs to be connected in one place so you can make the next commercial decision with 100% confidence?**
-
-This **Foundation Quantity Takeoff (QTO), BBS & BOQ Cost Estimation Toolkit** applies that principle to civil substructure bidding—connecting raw drawing dimensions, concrete/earthwork/formwork quantities, rebar detailing, commercial pricing, and error validation into one repeatable, beginner-proof SOP workflow.
-
-### Explore More Ready-to-Use Business & Engineering Toolkits
-* 🛒 **[Visit the Official Theseus Workshop Store (`theseusworkshop.com`)](https://theseusworkshop.com)** — Browse our full catalog of plug-and-play Excel templates, automated commercial analysis models, and operational SOP toolkits designed to save hours of manual spreadsheet work.
-* 📥 **[Get the Offline Foundation QTO, BBS & BOQ Cost Estimation Excel Template Here](https://theseusworkshop.com/l/ncaol?utm_source=github&utm_medium=GitHub%20README)** — Instant digital download (.xlsx) with lifetime access and a 30-day money-back guarantee.
+---
 
 ## Technical Details
 
 <details>
-<summary>For technical reviewers, Excel practitioners, and collaborators</summary>
+<summary><strong>For technical reviewers, Excel practitioners, and collaborators (6-Sheet Architecture, 3 Takeoff Traps, Example Scenario, Formula Reference & Validation Rules)</strong></summary>
 
 ### Workbook Architecture
 
@@ -193,48 +197,30 @@ Measured Drawings / Takeoff Data
 01_Parameters
       │
       └──────► shared assumptions and rates
-````
+```
 
-The source specification defines `02_Qty_Input` as the primary manual-entry sheet, with columns `A:K` used for element identifiers, drawing references, categories, dimensions, quantities, and reinforcement parameters. Calculated fields occupy `L:P`. 
+The source specification defines `02_Qty_Input` as the primary manual-entry sheet, with columns `A:K` used for element identifiers, drawing references, categories, dimensions, quantities, and reinforcement parameters. Calculated fields occupy `L:P`.
 
-The reinforcement engine is formula-driven and filters only elements containing reinforcement parameters. Its output includes element reference, category, bar diameter, cutting length, total bar count, total linear metres, theoretical unit weight, net weight, and weight including waste. 
+The reinforcement engine is formula-driven and filters only elements containing reinforcement parameters. Its output includes element reference, category, bar diameter, cutting length, total bar count, total linear metres, theoretical unit weight, net weight, and weight including waste.
 
-The BOQ layer aggregates six predefined estimating items covering earthwork, pile concrete, structural foundation concrete, formwork, reinforcement at `>=16mm`, and reinforcement below `16mm`. 
+The BOQ layer aggregates six predefined estimating items covering earthwork, pile concrete, structural foundation concrete, formwork, reinforcement at $\ge 16\text{ mm}$, and reinforcement below $16\text{ mm}$.
+
+---
 
 ### Three Traps That Catch Even Experienced Estimators
 
 #### Trap 1 — Correct takeoff, wrong commercial total
 
-1. **A decision was made:**
-   A tender price is prepared from the measured foundation quantities.
-
-2. **The hidden flaw:**
-   Quantity values and commercial rates are maintained in separate manually copied tables.
-
-3. **How the flaw changes the recommendation:**
-   A rate revision can leave part of the estimate using an old assumption, making the tender appear more competitive than it actually is.
-
-4. **Why the reasoning is incorrect:**
-   The commercial result is no longer a reliable function of the current project assumptions.
-
-5. **Corrected approach:**
-   Maintain core rates centrally and calculate BOQ amounts from the current quantity totals.
-
-6. **Corrected decision outcome:**
-   A rate change propagates into the affected BOQ values, allowing the estimator to review the resulting tender position from one calculation chain.
+1. **Decision:** A tender price is prepared from measured foundation quantities.
+2. **Hidden flaw:** Quantity values and commercial rates live in separate manually copied tables.
+3. **Impact:** A rate revision leaves part of the estimate using an old assumption, making the bid appear falsely competitive.
+4. **Corrected approach:** Maintain core rates centrally in `01_Parameters` and calculate BOQ amounts dynamically from current totals.
 
 <details>
 <summary>Formula reference</summary>
 
-The BOQ amount follows the basic relationship:
-
 ```excel
 =Quantity*Unit_Rate
-```
-
-The total is then reconciled as:
-
-```excel
 =SUM(F5:F10)
 ```
 
@@ -242,34 +228,15 @@ The total is then reconciled as:
 
 #### Trap 2 — Reinforcement tonnage looks plausible but is disconnected
 
-1. **A decision was made:**
-   Steel procurement is based on a separately prepared reinforcement total.
-
-2. **The hidden flaw:**
-   The steel summary is not directly tied to the element-level dimensions, bar sizes, quantities, and calculated cutting lengths.
-
-3. **How the flaw changes the recommendation:**
-   A change in element count or geometry may change the required reinforcement while the procurement number remains unchanged.
-
-4. **Why the reasoning is incorrect:**
-   A plausible total is not sufficient if its source cannot be traced back to the current structural input.
-
-5. **Corrected approach:**
-   Derive reinforcement records from the same element input table and calculate total linear metres before converting to theoretical weight.
-
-6. **Corrected decision outcome:**
-   The reinforcement estimate moves with the underlying element data and can be reconciled against the source element count.
+1. **Decision:** Steel procurement is ordered from a separately prepared rebar summary.
+2. **Hidden flaw:** The steel summary is not directly tied to element-level dimensions, bar sizes, counts, and cutting lengths.
+3. **Impact:** A revision in element count or geometry changes real steel demand while procurement stays stale.
+4. **Corrected approach:** Derive all reinforcement records directly from `02_Qty_Input`, compute linear metres, and convert to theoretical weight with waste allowance.
 
 <details>
 <summary>Formula reference</summary>
 
-The implementation uses the theoretical reinforcement relationship:
-
-```excel
-W = den * d^2
-```
-
-and converts the resulting kilogram value to tonnes after applying the configured waste allowance:
+Theoretical unit weight follows $W = \text{den} \cdot d^2$, converted to metric tonnes with waste allowance:
 
 ```excel
 =(tot_m*(den*dia*dia)*(1+waste))/1000
@@ -279,28 +246,13 @@ and converts the resulting kilogram value to tonnes after applying the configure
 
 #### Trap 3 — A missing input is mistaken for a low-cost result
 
-1. **A decision was made:**
-   The estimate appears unusually low and is accepted as a competitive number.
-
-2. **The hidden flaw:**
-   A structural element has a positive quantity but an omitted or zero dimension.
-
-3. **How the flaw changes the recommendation:**
-   The missing dimension can suppress the calculated quantity and therefore understate the commercial value.
-
-4. **Why the reasoning is incorrect:**
-   The model is producing a mathematically valid result from incomplete construction data. Mathematical validity does not establish estimating validity.
-
-5. **Corrected approach:**
-   Validate required geometry and pricing inputs before accepting the estimate.
-
-6. **Corrected decision outcome:**
-   The estimate is reviewed before it becomes a tender or procurement commitment.
+1. **Decision:** An unusually low estimate is accepted as a sharp competitive bid.
+2. **Hidden flaw:** A structural element has a positive count but an omitted or zero depth/height.
+3. **Impact:** Zero height suppresses volume silently—the math is valid, but the bid is fatally understated.
+4. **Corrected approach:** Run automated geometry and rate validation checks in `06_Validation` before accepting any tender total.
 
 <details>
 <summary>Formula reference</summary>
-
-The validation layer checks for non-earthwork elements with a positive count but missing depth/height:
 
 ```excel
 =IF(
@@ -316,11 +268,11 @@ The validation layer checks for non-earthwork elements with a positive count but
 
 </details>
 
+---
+
 ### Example Scenario
 
-Consider a foundation estimate containing piles, pile caps, ground beams, short columns, and excavation.
-
-The workflow begins with element-level inputs such as:
+Consider a foundation estimate containing piles, pile caps, ground beams, short columns, and excavation:
 
 | Input                       |           Example |
 | --------------------------- | ----------------: |
@@ -334,32 +286,20 @@ The workflow begins with element-level inputs such as:
 | Main reinforcement diameter |             20 mm |
 | Main reinforcement quantity | 16 bars / element |
 
-The input layer calculates the geometry-specific quantity for each element. Circular elements use the diameter-based calculation, while rectangular elements use length × width × depth. Earthwork receives the configured earthwork factor separately from structural element quantities. 
+The input layer calculates geometry-specific volume per element: circular elements use diameter-based volume ($\pi (d/2)^2 h$), rectangular elements use $\text{Length} \times \text{Width} \times \text{Depth}$, and earthwork applies the configured swelling factor separately. The reinforcement engine filters reinforced elements, derives total bar counts and cutting lengths, and converts linear metres into tonnes including waste. These quantities flow straight into `04_BOQ_Summary` and `05_Cost_Dashboard`, confirming not just *"What is the total?"* but *"Are geometry, rebar intensity ($kg/m^3$), unit rates, and BOQ totals internally consistent and traceable?"*
 
-The reinforcement engine then filters elements with reinforcement information and derives total bar counts from the element quantity and specified reinforcement count. Cutting length is adjusted according to the element category, and total linear metres are converted into theoretical weight using the configured diameter constant and waste allowance. 
-
-The resulting quantities feed the BOQ. Concrete, formwork, earthwork, and reinforcement quantities are multiplied by their configured rates to produce line-item amounts and a total estimated cost. 
-
-The management layer then exposes the commercial result through a smaller set of indicators: total cost, concrete volume, reinforcement tonnage, earthwork quantity, and reinforcement intensity per cubic metre of structural concrete. 
-
-The final decision is not simply **"What is the total?"**
-
-It is:
-
-**"Does the quantity, reinforcement requirement, pricing assumption, and commercial total form a traceable and internally consistent estimate?"**
-
-That distinction is important when the workbook is used for tender review, budget preparation, or procurement planning.
+---
 
 ### Formula Reference
 
 <details>
 <summary>Element Geometry</summary>
 
-For circular elements, the implementation calculates volume from diameter and height/depth:
+For circular elements, volume is calculated from diameter and height/depth; rectangular elements fall back to $\text{Length} \times \text{Width} \times \text{Height}$:
 
 ```excel
 =LET(
-    len, A5:INDEX(D:D, COUNTA(A:A)),
+    len, D5:INDEX(D:D, COUNTA(A:A)),
     wid, E5:INDEX(E:E, COUNTA(A:A)),
     hgt, F5:INDEX(F:F, COUNTA(A:A)),
     dia, G5:INDEX(G:G, COUNTA(A:A)),
@@ -367,18 +307,10 @@ For circular elements, the implementation calculates volume from diameter and he
 )
 ```
 
-For rectangular elements, the calculation falls back to:
-
-```text
-Length × Width × Height
-```
-
 </details>
 
 <details>
 <summary>Earthwork Quantity</summary>
-
-Earthwork receives the configured factor from `01_Parameters`:
 
 ```excel
 =LET(
@@ -393,14 +325,10 @@ Earthwork receives the configured factor from `01_Parameters`:
 )
 ```
 
-The implementation therefore keeps the earthwork factor outside the base geometric calculation and applies it according to element category. 
-
 </details>
 
 <details>
 <summary>Formwork Calculation</summary>
-
-Formwork quantity is determined from element category:
 
 ```excel
 =LET(
@@ -421,14 +349,12 @@ Formwork quantity is determined from element category:
 )
 ```
 
-This reflects the implementation's stated treatment of formwork contact surfaces by element category. 
-
 </details>
 
 <details>
 <summary>Reinforcement Weight</summary>
 
-The reinforcement engine calculates total weight using the configured theoretical-weight constant and waste allowance:
+The parameter table defines the theoretical-weight constant as `0.006165` and the default reinforcement waste allowance as `3.0%`:
 
 ```excel
 =LET(
@@ -440,36 +366,14 @@ The reinforcement engine calculates total weight using the configured theoretica
 )
 ```
 
-The parameter table defines the theoretical-weight constant as `0.006165` and the default reinforcement waste allowance as `3.0%`. 
-
 </details>
 
 <details>
 <summary>BOQ Aggregation</summary>
 
-The BOQ uses category-based aggregation such as:
-
 ```excel
-=SUMIFS(
-    '02_Qty_Input'!M:M,
-    '02_Qty_Input'!C:C,
-    "Earthwork"
-)
-```
-
-and reinforcement diameter-based aggregation such as:
-
-```excel
-=SUMIFS(
-    '03_Reinforcement_Engine'!I:I,
-    '03_Reinforcement_Engine'!C:C,
-    ">=16"
-)
-```
-
-The final BOQ total is:
-
-```excel
+=SUMIFS('02_Qty_Input'!M:M, '02_Qty_Input'!C:C, "Earthwork")
+=SUMIFS('03_Reinforcement_Engine'!I:I, '03_Reinforcement_Engine'!C:C, ">=16")
 =SUM(F5:F10)
 ```
 
@@ -478,7 +382,7 @@ The final BOQ total is:
 <details>
 <summary>Cost Dashboard Indicators</summary>
 
-The reinforcement intensity indicator is calculated as:
+Reinforcement intensity expressed as $kg$ of steel per $m^3$ of structural concrete:
 
 ```excel
 =LET(
@@ -488,9 +392,9 @@ The reinforcement intensity indicator is calculated as:
 )
 ```
 
-This expresses reinforcement consumption as kilograms per cubic metre of structural concrete. 
-
 </details>
+
+---
 
 ### Validation Rules
 
@@ -499,10 +403,8 @@ This expresses reinforcement consumption as kilograms per cubic metre of structu
 | Geometry completeness   | Non-earthwork elements with a positive count must have a positive height/depth.               | `FAIL`                                |
 | Unit-rate validity      | Configured concrete, excavation, formwork, and reinforcement rates must be greater than zero. | `WARNING`                             |
 | Reinforcement alignment | Generated reinforcement rows must align with input elements containing reinforcement data.    | `MISMATCH`                            |
-| BOQ reconciliation      | BOQ total must equal the sum of line-item quantity × unit-rate values after rounding.         | `ERR`                                 |
+| BOQ reconciliation      | BOQ total must equal the sum of line-item quantity multiplied by unit rate after rounding.    | `ERR`                                 |
 | Dynamic-array integrity | Formula spill ranges must remain unobstructed by manually entered values or merged cells.     | `#SPILL!` requires input-area cleanup |
-
-The source validation matrix defines four core checks covering geometry, pricing, reinforcement-row alignment, and BOQ amount reconciliation. 
 
 </details>
 
@@ -510,18 +412,32 @@ The source validation matrix defines four core checks covering geometry, pricing
 
 ## Other Tools in This Series
 
-* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Does the shaft design satisfy the relevant calculation logic? — Apply DIN 743 shaft calculation standards to engineering design decisions.
-* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — What will this construction scope cost under current assumptions? — Standardize construction tender estimating and transform completed estimates into reusable cost libraries.
-* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — How do estimates and tracked costs compare through delivery? — Compare construction estimates against actual costs throughout project delivery using AIA-standard formats.
-* **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Is the project financial position accurate after incorporating approved changes actual costs and billing progress? — Integrate budgets change orders progress billing and cash flow into a single construction project control framework.
-* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Which energy option delivers the lowest total cost of ownership for this specific project under its actual operating conditions? — Compare industrial energy sources on a true useful-energy basis by normalizing fuel costs equipment efficiency infrastructure investment and lifecycle ownership costs.
-* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — What will this residential project cost and which divisions are already over budget? — Estimate residential construction costs from BOQ takeoffs and rates while tracking approved budgets against actual spending.
-* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — What will this drill-and-blast tunnel project cost under the assumed construction cycle? — Estimate drill-and-blast tunnel excavation, drilling, blasting, support, equipment, and labour requirements into a complete project cost and BOQ.
+Explore more lightweight, plug-and-play Excel decision toolkits from **[Theseus Workshop](https://theseusworkshop.com/)**:
+
+- 🎁 **[Construction Monthly CVR & Accruals Excel Template (Free · \$0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *Start here free:* Reconcile certified value, unbilled site accruals, variation risk, and EAC profit forecasts at month-end.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Standardize full-project construction tender estimating and transform completed bids into reusable cost libraries.
+- **[construction-project-management-excel](https://github.com/HyVoid/construction-project-management-excel)** — Integrate Cost Code budgets, change orders, SOV progress billing, retainage, and rolling cash flow into one single-project control framework.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Compare construction estimates against actual costs throughout project delivery using AIA-standard formats.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Estimate residential construction costs from BOQ takeoffs and rates while tracking approved budgets against actual spending.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Estimate drill-and-blast tunnel excavation, support, equipment, and labour costs into a complete BOQ.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Compare industrial energy sources on a true useful-energy lifecycle TCO basis.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Apply DIN 743 shaft calculation standards to engineering design decisions.
+
+---
+
+## Questions, Feedback & Product Updates
+
+This foundation takeoff toolkit is designed around practical substructure measurement, concrete and formwork quantities, reinforcement scheduling, and BOQ pricing workflows. Use the channels below to keep technical bug reports separate from workflow questions and product ideas:
+
+- **Questions & workflow fit:** [Ask about footing, pile, slab, or beam inputs; concrete volumes; formwork; rebar BBS; or priced BOQ outputs](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest additional structural elements, measurement rules, reinforcement schedules, validation checks, or cost reports](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the foundation QTO bug report form](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+When describing a problem, mention the element type, worksheet, input dimensions, affected bar size or quantity, and expected versus actual result. Use synthetic dimensions and rates. Do not upload client drawings, live tenders, structural design files, reinforcement schedules containing confidential project details, or supplier quotations.
 
 ## License
 
 This project is released under the **Apache License 2.0**.
 
 See the [`LICENSE`](LICENSE) file for the complete license terms.
-
-
